@@ -2,6 +2,8 @@ require(xlsx)
 
 # config
 
+country <- "Colombia"
+
 fixed <- list(
   language="en",
   license="",
@@ -12,7 +14,7 @@ fixed <- list(
   datasetID=""
 )
 
-filename <- "test.xls"
+filename <- paste0("HABData_", toupper(country), ".xls")
 headerrow <- 3
 skiprows <- 2
 
@@ -23,7 +25,7 @@ writeDwc <- function(data, file) {
 }
 
 addMof <- function(mof, occurrence, id=NA, type=NA, value=NA, accuracy=NA, unit=NA, date=NA, determinedby=NA, determineddate=NA, method=NA, remarks=NA) {
-  if (!is.na(occurrence) & !is.na(value)) {
+  if (!is.na(occurrence) & !is.na(value) & value != "ND") {
     mof <- rbind(mof, data.frame(occurrenceID=occurrence, measurementID=id, measurementType=type, measurementValue=value, measurementAccuracy=accuracy, meadurementUnit=unit, measurementDate=date, measurementDeterminedBy=determinedby, measurementDeterminedDate=determineddate, measurementMethod=method, measurementRemarks=remarks))
   }
   return(mof)
@@ -40,7 +42,7 @@ addRemark <- function(remarks, remark=NA, key=NA) {
 }
 
 addEffect <- function(effects, key, value=NA) {
-  if (!is.na(value)) {
+  if (!is.na(value) & value != "ND") {
     effects <- c(effects, paste0(key, ": ", value))
   }
   return(effects)
@@ -79,8 +81,8 @@ for (n in numbers) {
   effects <- NULL
   
   result$catalogNumber <- rdata[i, "Record.number"]
-  result$occurrenceID <- rdata[i, "Record.number"]
-  result$recordedBy <- paste0(rdata[i, "Recorded.by"], ";HAB region ", rdata[i, "HAB.region"])
+  result$occurrenceID <- paste0("HAB_", country, "_", rdata[i, "Record.number"])
+  result$recordedBy <- paste0("HAB region ", rdata[i, "HAB.region"], ";", rdata[i, "Recorded.by"])
   result$modified <- as.POSIXct((as.numeric(rdata[i, "Modified"])-25569)*86400, tz="GMT", origin="1970-01-01")
   result$associatedReferences <- paste0(rdata[i, c("Main.reference", "Additional.references")], collapse=" | ")
   result$references <- rdata[i, "HADEDAT.event.URL"]
