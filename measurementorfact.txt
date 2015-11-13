@@ -1,0 +1,33 @@
+occurrenceID	measurementID	measurementType	measurementValue	measurementAccuracy	meadurementUnit	measurementDate	measurementDeterminedBy	measurementDeterminedDate	measurementMethod	measurementRemarks
+HAB_Jamaica_1_1	1	water discoloration	yes							milky or cloudy appearance
+HAB_Jamaica_1_1	2	HAB related mass mortalities	yes							
+HAB_Jamaica_1_1	3	High phyto concentrations	No							
+HAB_Jamaica_1_1	4	foam/mucilage on the coast	no							
+HAB_Jamaica_1_1	5	toxicity detected	yes							
+HAB_Jamaica_1_1	6	economic effect	Significant							
+HAB_Jamaica_1_1	7	environmental effect	natural fish: H. juaguana							
+HAB_Jamaica_1_1	8	Dissolved Oxygen	7.2		mg/l					
+HAB_Jamaica_1_2	9	water discoloration	yes							milky or cloudy appearance
+HAB_Jamaica_1_2	10	HAB related mass mortalities	yes							
+HAB_Jamaica_1_2	11	High phyto concentrations	No							
+HAB_Jamaica_1_2	12	foam/mucilage on the coast	no							
+HAB_Jamaica_1_2	13	toxicity detected	yes							
+HAB_Jamaica_1_2	14	economic effect	Significant							
+HAB_Jamaica_1_2	15	environmental effect	natural fish: H. juaguana							
+HAB_Jamaica_1_2	16	Dissolved Oxygen	7.2		mg/l					
+HAB_Jamaica_1_3	17	water discoloration	yes							milky or cloudy appearance
+HAB_Jamaica_1_3	18	HAB related mass mortalities	yes							
+HAB_Jamaica_1_3	19	High phyto concentrations	No							
+HAB_Jamaica_1_3	20	foam/mucilage on the coast	no							
+HAB_Jamaica_1_3	21	toxicity detected	yes							
+HAB_Jamaica_1_3	22	economic effect	Significant							
+HAB_Jamaica_1_3	23	environmental effect	natural fish: H. juaguana							
+HAB_Jamaica_1_3	24	Dissolved Oxygen	7.2		mg/l					
+HAB_Jamaica_1_4	25	water discoloration	yes							milky or cloudy appearance
+HAB_Jamaica_1_4	26	HAB related mass mortalities	yes							
+HAB_Jamaica_1_4	27	High phyto concentrations	No							
+HAB_Jamaica_1_4	28	foam/mucilage on the coast	no							
+HAB_Jamaica_1_4	29	toxicity detected	yes							
+HAB_Jamaica_1_4	30	economic effect	Significant							
+HAB_Jamaica_1_4	31	environmental effect	natural fish: H. juaguana							
+HAB_Jamaica_1_4	32	Dissolved Oxygen	7.2		mg/l					
