@@ -1,32 +1,48 @@
+#devtools::install_github("pieterprovoost/worms")
 require(xlsx)
+require(worms)
 
 # config
 
-country <- "Colombia"
+country <- "Jamaica"
+filename <- "HAB_Jamaica_version2.xls"
+sheetname <- "reviewed"
 
 fixed <- list(
   language="en",
-  license="",
-  rightsHolder="",
+  license="CC0",
+  rightsHolder="UNESCO Intergovernmental Oceanographic Commission",
   institutionID="",
   institutionCode="",
   collectionCode="",
-  datasetID=""
+  datasetID="HAB_Jamaica"
 )
 
-filename <- paste0("HABData_", toupper(country), ".xls")
-headerrow <- 3
-skiprows <- 2
+headerrow <- 1
+skiprows <- 1
 
 # functions
+
+cleanDf <- function(df) {
+  for (col in 1:ncol(df)) {
+    if (class(df[,col])[1] == "character") {
+      df[,col] <- sapply(df[,col], function(x) {
+        x <- gsub("[\r\n]", " ", x)
+        x <- gsub("  ", " ", x)
+        return(x)
+      })
+    }
+  }
+  return(df)
+}
 
 writeDwc <- function(data, file) {
   write.table(data, file=file, quote=FALSE, sep="\t", na="", row.names=FALSE)
 }
 
 addMof <- function(mof, occurrence, id=NA, type=NA, value=NA, accuracy=NA, unit=NA, date=NA, determinedby=NA, determineddate=NA, method=NA, remarks=NA) {
-  if (!is.na(occurrence) & !is.na(value) & value != "ND") {
-    mof <- rbind(mof, data.frame(occurrenceID=occurrence, measurementID=id, measurementType=type, measurementValue=value, measurementAccuracy=accuracy, meadurementUnit=unit, measurementDate=date, measurementDeterminedBy=determinedby, measurementDeterminedDate=determineddate, measurementMethod=method, measurementRemarks=remarks))
+  if (!is.na(value) & value != "ND") {
+    mof <- rbind(mof, data.frame(occurrenceID=occurrence, measurementID=id, measurementType=type, measurementValue=value, measurementAccuracy=accuracy, meadurementUnit=unit, measurementDate=date, measurementDeterminedBy=determinedby, measurementDeterminedDate=determineddate, measurementMethod=method, measurementRemarks=remarks, stringsAsFactors=FALSE))
   }
   return(mof)
 }
@@ -50,7 +66,7 @@ addEffect <- function(effects, key, value=NA) {
 
 # read sheets
 
-data <- read.xlsx(filename, sheetName="template", startRow=headerrow, stringsAsFactors=FALSE, header=TRUE)
+data <- read.xlsx(filename, sheetName=sheetname, startRow=headerrow, stringsAsFactors=FALSE, header=TRUE)
 regions <- read.xlsx(filename, sheetName="regions", stringsAsFactors=FALSE, header=FALSE)
 aphia <- read.xlsx(filename, sheetName="aphia", stringsAsFactors=FALSE, header=TRUE)
 toxins <- read.xlsx(filename, sheetName="toxins", stringsAsFactors=FALSE, header=FALSE)
@@ -60,112 +76,147 @@ syndromes <- read.xlsx(filename, sheetName="syndromes", stringsAsFactors=FALSE, 
 
 data <- data[skiprows+1:nrow(data),]
 
-# parse records
+# process records
 
-mof <- data.frame(occurrenceID=character(), measurementID=character(), measurementType=character(), measurementValue=character(), measurementAccuracy=character(), measurementUnit=character(), measurementDeterminedDate=character(), measurementDeterminedBy=character(), measurementMethod=character(), measurementRemarks=character())
+measurements <- NULL
+numbers <- unique(data$eventid)[!is.na(unique(data$eventid))]
 occurrence <- NULL
 
-numbers <- unique(data$Record.number)[!is.na(unique(data$Record.number))]
+# process records event by event
 
 for (n in numbers) {
   
-  rdata <- data[data$Record.number == n & !is.na(data$Record.number),]
+  rdata <- data[data$eventid == n & !is.na(data$eventid),]
+
+  # create dataframe for measurements
   
-  # process first line
+  mof <- data.frame(occurrenceID=character(), measurementID=character(), measurementType=character(), measurementValue=character(), measurementAccuracy=character(), measurementUnit=character(), measurementDeterminedDate=character(), measurementDeterminedBy=character(), measurementMethod=character(), measurementRemarks=character(), stringsAsFactors=FALSE)
+  
+  # process event related fields on first line
   
   i <- 1
   result <- list()
   
-  occurrenceRemarks <- NULL
   eventRemarks <- NULL
   effects <- NULL
   
-  result$catalogNumber <- rdata[i, "Record.number"]
-  result$occurrenceID <- paste0("HAB_", country, "_", rdata[i, "Record.number"])
-  result$recordedBy <- paste0("HAB region ", rdata[i, "HAB.region"], ";", rdata[i, "Recorded.by"])
-  result$modified <- as.POSIXct((as.numeric(rdata[i, "Modified"])-25569)*86400, tz="GMT", origin="1970-01-01")
-  result$associatedReferences <- paste0(rdata[i, c("Main.reference", "Additional.references")], collapse=" | ")
-  result$references <- rdata[i, "HADEDAT.event.URL"]
-  result$eventDate <- rdata[i, "Event.date"]
-  result$verbatimEventDate <- rdata[i, "VerbatimDate"]
-  result$scientificName <- rdata[i, "Scientific.name"]
-  result$organismQuantity <- rdata[i, "Organism.quantity"]
-  result$organismQuantityType <- rdata[i, "Organism.quantity.type"]
-  result$sampleSizeValue <- rdata[i, "Sample.size.value"]
-  result$sampleSizeUnit <- rdata[i, "Sample.size.unit"]
-  result$samplingProtocol <- rdata[i, "Sampling.protocol"]
-  result$samplingEffort <- rdata[i, "Sampling.effort"]
-  eventRemarks <- addRemark(eventRemarks, rdata[i, "Sampling.Event.Remarks"])
-  if (!is.na(rdata[i, "Macroalgal.species"])) {
-    result$associatedTaxa <- paste0("macroalgal species: ", rdata[i, "Macroalgal.species"])
+  result$eventID <- rdata[i, "eventid"]
+  result$recordedBy <- paste0("HAB region ", rdata[i, "habregion"], ";", rdata[i, "recordedby"])
+  result$modified <- as.POSIXct((as.numeric(rdata[i, "modified"])-25569)*86400, tz="GMT", origin="1970-01-01")
+  result$associatedReferences <- paste0(rdata[i, c("mainreference", "additionalreferences")], collapse=" | ")
+  result$references <- rdata[i, "eventurl"]
+  # todo: add event date validation
+  eventdate <- rdata[i, "eventdate"]
+  startyear <- rdata[i, "startyear"]
+  startmonth <- rdata[i, "startmonth"]
+  startday <- rdata[i, "startday"]
+  endyear <- rdata[i, "endyear"]
+  endmonth <- rdata[i, "endmonth"]
+  enday <- rdata[i, "endday"]
+  result$eventDate <- eventdate
+  result$verbatimEventDate <- rdata[i, "verbatimdate"]
+  result$sampleSizeValue <- rdata[i, "samplesizevalue"]
+  result$sampleSizeUnit <- rdata[i, "samplesizeunit"]
+  result$samplingProtocol <- rdata[i, "samplingprotocol"]
+  result$samplingEffort <- rdata[i, "samplingeffort"]
+  eventRemarks <- addRemark(eventRemarks, rdata[i, "eventremarks"])
+  if (!is.na(rdata[i, "associatedtaxa"])) {
+    result$associatedTaxa <- paste0("macroalgal species: ", rdata[i, "associatedtaxa"])
   }
-  occurrenceRemarks <- addRemark(occurrenceRemarks, rdata[i, "Occurrence.remarks"])
-  mof <- addMof(mof, result$occurrenceID, type="water discoloration", value=rdata[i, "Water.discoloration"], remarks=rdata[i, "Water.discoloration.remarks"])
-  mof <- addMof(mof, result$occurrenceID, type="mucus", value=rdata[i, "Mucus"])
-  mof <- addMof(mof, result$occurrenceID, type="HAB related mass mortalities", value=rdata[i, "Mass.mortalities"])
-  occurrenceRemarks <- addRemark(occurrenceRemarks, rdata[i, "High.phyto.concentrations"], "High phyto concentrations")
-  mof <- addMof(mof, result$occurrenceID, type="foam/mucilage on the coast", value=rdata[i, "Foam.mucilage.on.the.coast"])
-  eventRemarks <-  addRemark(eventRemarks, rdata[i, "Additional.remarks"])
-  eventRemarks <-  addRemark(eventRemarks, rdata[i, "Additional.remarks.1"])
-  mof <- addMof(mof, result$occurrenceID, type="toxicity detected", value=rdata[i, "Toxicity.detected"])
-  mof <- addMof(mof, result$occurrenceID, type="toxin name", value=rdata[i, "ToxinName"])
-  mof <- addMof(mof, result$occurrenceID, type="toxicity syndrome", value=rdata[i, "Syndrome"])
-  mof <- addMof(mof, result$occurrenceID, type="intoxication transvector", value=rdata[i, "Intoxication..transvector"])
-  mof <- addMof(mof, result$occurrenceID, type="economic effect", value=rdata[i, "Economic.losses"])
-  effects <- addEffect(effects, "planktonic life", rdata[i, "Planktonic.life"])
-  effects <- addEffect(effects, "benthic life", rdata[i, "Benthic.life"])
-  effects <- addEffect(effects, "shellfish", rdata[i, "Shellfish"])
-  effects <- addEffect(effects, "natural fish", rdata[i, "Natural.fish"])
-  effects <- addEffect(effects, "aquaculture fish", rdata[i, "Aquaculture.fish"])
-  effects <- addEffect(effects, "aquatic mammals", rdata[i, "Aquatic.mammals"])
-  effects <- addEffect(effects, "birds", rdata[i, "Birds"])
-  effects <- addEffect(effects, "other terrestrial", rdata[i, "Other.terrestrial"])
-  effects <- addEffect(effects, "humans", rdata[i, "Humans"])
-  effects <- addEffect(effects, "other", rdata[i, "Other"])
-  result$verbatimLocality <- rdata[i, "Place.of.event"]
-  result$decimalLongitude <- rdata[i, "Longitude"]
-  result$decimalLatitude <- rdata[i, "Latitude"]
-  result$verbatimLongitude <- rdata[i, "VerbatimLongitude"]
-  result$verbatimLatitude <- rdata[i, "VerbatimLatitude"]
-  result$coordinateUncertaintyInMeters <- rdata[i, "Coordinate.uncertainty"]
-  result$coordinatePrecision <- rdata[i, "coordinatePrecision"]
-  result$footprintWKT <- rdata[i, "Footprint.WKT"]
-  result$waterBody <- rdata[i, "Water.body"]
-  result$country <- rdata[i, "Country"]
-  result$stateProvince <- rdata[i, "State.province"]
-  result$county <- rdata[i, "County"]
-  result$municipality <- rdata[i, "Municipality"]
-  result$island <- rdata[i, "Island"]
-  result$islandGroup <- rdata[i, "Island.group"]
-  result$locality <- rdata[i, "Locality"]
-  result$locationID <- rdata[i, "Location.ID"]
-  result$locationAccordingTo <- rdata[i, "Location.according.to"]
-  result$habitat <- rdata[i, "Habitat"]
-  result$fieldNotes <- rdata[i, "Oligotrophic.Eutrophic"]
-  mof <- addMof(mof, result$occurrenceID, type="substrate type", value=rdata[i, "Substrate.type"])
-  result$minimumDepthInMeters <- rdata[i, "Minimum.depth"]
-  result$maximumDepthInMeters <- rdata[i, "Maximum.depth"]
-  result$verbatimDepth <- rdata[i, "Surface.subsurface.whole.water.column"]
-  result$locationRemarks <- rdata[i, "Location.remarks"]
-  mof <- addMof(mof, result$occurrenceID, type="temperature", value=rdata[i, "Temperature.value"], method=rdata[i, "Temperatrue.method"])
-  mof <- addMof(mof, result$occurrenceID, type="salinity", value=rdata[i, "Salinity.value"], method=rdata[i, "Salinity.method"])
+  mof <- addMof(mof, NA, type="water discoloration", value=rdata[i, "waterdiscoloration"], remarks=rdata[i, "waterdiscolorationremarks"])
+  mof <- addMof(mof, NA, type="mucus", value=rdata[i, "mucus"])
+  mof <- addMof(mof, NA, type="HAB related mass mortalities", value=rdata[i, "massmortalities"])
+  mof <- addMof(mof, NA, type="High phyto concentrations", value=rdata[i, "highphytoconcentrations"])
+  mof <- addMof(mof, NA, type="foam/mucilage on the coast", value=rdata[i, "foammucilagecoast"])
+  eventRemarks <-  addRemark(eventRemarks, rdata[i, "bloomremarks"])
+  mof <- addMof(mof, NA, type="toxicity detected", value=rdata[i, "toxicity"])
+  mof <- addMof(mof, NA, type="toxin name", value=rdata[i, "toxin"])
+  mof <- addMof(mof, NA, type="toxicity syndrome", value=rdata[i, "syndrome"])
+  mof <- addMof(mof, NA, type="intoxication transvector", value=rdata[i, "transvector"])
+  mof <- addMof(mof, NA, type="economic effect", value=rdata[i, "economiclosses"])
+  effects <- addEffect(effects, "planktonic life", rdata[i, "planktoniclife"])
+  effects <- addEffect(effects, "benthic life", rdata[i, "benthiclife"])
+  effects <- addEffect(effects, "shellfish", rdata[i, "shellfish"])
+  effects <- addEffect(effects, "natural fish", rdata[i, "naturalfish"])
+  effects <- addEffect(effects, "aquaculture fish", rdata[i, "aquaculturefish"])
+  effects <- addEffect(effects, "aquatic mammals", rdata[i, "aquaticmammals"])
+  effects <- addEffect(effects, "birds", rdata[i, "birds"])
+  effects <- addEffect(effects, "other terrestrial", rdata[i, "otherterrestrial"])
+  effects <- addEffect(effects, "humans", rdata[i, "humans"])
+  effects <- addEffect(effects, "other", rdata[i, "other"])
+  result$verbatimLocality <- rdata[i, "place"]
+  result$decimalLongitude <- rdata[i, "longitude"]
+  result$decimalLatitude <- rdata[i, "latitude"]
+  result$verbatimLongitude <- rdata[i, "Verbatimlongitude"]
+  result$verbatimLatitude <- rdata[i, "Verbatimlatitude"]
+  result$coordinateUncertaintyInMeters <- rdata[i, "coordinateuncertainty"]
+  result$coordinatePrecision <- rdata[i, "coordinateprecision"]
+  result$footprintWKT <- rdata[i, "footprint"]
+  result$waterBody <- rdata[i, "waterbody"]
+  result$country <- rdata[i, "country"]
+  result$stateProvince <- rdata[i, "stateprovince"]
+  result$county <- rdata[i, "county"]
+  result$municipality <- rdata[i, "municipality"]
+  result$island <- rdata[i, "island"]
+  result$islandGroup <- rdata[i, "islandgroup"]
+  result$locality <- rdata[i, "locality"]
+  result$locationID <- rdata[i, "locationid"]
+  result$locationAccordingTo <- rdata[i, "locationaccordingto"]
+  result$habitat <- rdata[i, "habitat"]
+  result$fieldNotes <- rdata[i, "oligotrophiceutrophic"]
+  mof <- addMof(mof, NA, type="substrate type", value=rdata[i, "substrate"])
+  result$minimumDepthInMeters <- rdata[i, "minimumdepth"]
+  result$maximumDepthInMeters <- rdata[i, "maximumdepth"]
+  result$verbatimDepth <- rdata[i, "surfacesubsurface"]
+  result$locationRemarks <- rdata[i, "locationremarks"]
+  mof <- addMof(mof, NA, type="temperature", value=rdata[i, "temperature"], method=rdata[i, "temperaturemethid"])
+  mof <- addMof(mof, NA, type="salinity", value=rdata[i, "salinity"], method=rdata[i, "salinitymethod"])
   
   if (length(effects) > 0) {
-    mof <- addMof(mof, result$occurrenceID, type="environmental effect", value=paste0(effects, collapse=";"))
+    mof <- addMof(mof, NA, type="environmental effect", value=paste0(effects, collapse=";"))
   }
   result$eventRemarks <- paste0(eventRemarks, collapse=";")
-  result$occurrenceRemarks <- paste0(occurrenceRemarks, collapse=";")
-
-  if (!is.na(result$scientificName)) {
-    occurrence <- rbind(occurrence, data.frame(result))
-  }
   
-  # repeated lines
+  # process repeated lines (measurements)
 
   for (i in seq(1, nrow(rdata))) {
-    mof <- addMof(mof, result$occurrenceID, type=rdata[i, "Measurement.Type"], value=rdata[i, "Measurement.Value"], unit=rdata[i, "Measurement.Unit"], method=rdata[i, "Measurement.method"], remarks=rdata[i, "Additional.remarks.1"],)
-    mof <- addMof(mof, result$occurrenceID, type=rdata[i, "MeasurementType"], value=rdata[i, "Measurement.value"], unit=rdata[i, "Measurement.unit"], method=rdata[i, "Measurement.method.1"])
-    mof <- addMof(mof, result$occurrenceID, type=rdata[i, "MeasurementType.1"], value=rdata[i, "Measurement.value.1"], unit=rdata[i, "Measurement.unit.1"], method=rdata[i, "Measurement.method.2"])
+    mof <- addMof(mof, NA, type=rdata[i, "measurementtype"], value=rdata[i, "measurementvalue"], unit=rdata[i, "measurementunit"], method=rdata[i, "measurementmethod"], remarks=rdata[i, "measurementremarks"])
+    mof <- addMof(mof, NA, type=rdata[i, "nutrientmeasurementtype"], value=rdata[i, "nutrientmeasurementvalue"], unit=rdata[i, "nutrientmeasurementunit"], method=rdata[i, "nutrientmeasurementmethod"], remarks=rdata[i, "nutrientmeasurementremarks"])
+    mof <- addMof(mof, NA, type=rdata[i, "othermeasurementtype"], value=rdata[i, "othermeasurementvalue"], unit=rdata[i, "othermeasurementunit"], method=rdata[i, "othermeasurementmethod"])
+  }
+  
+  # process repeated lines (occurrences)
+  
+  for (i in seq(1, nrow(rdata))) {
+
+    # clone result to create new occurrence
+    
+    occresult <- result
+    
+    occresult$catalogNumber <- paste0(rdata[i, "eventid"], "_", i)
+    occresult$occurrenceID <- paste0("HAB_", country, "_", rdata[i, "eventid"], "_", i)
+    occresult$scientificName <- rdata[i, "scientificname"]
+    occresult$organismQuantity <- rdata[i, "organismquantity"]
+    occresult$organismQuantityType <- rdata[i, "organismquantitytype"]
+    
+    occurrenceRemarks <- NULL
+    occurrenceRemarks <- addRemark(occurrenceRemarks, rdata[i, "occurrenceremarks"])
+    occresult$occurrenceRemarks <- paste0(occurrenceRemarks, collapse=";")
+
+    # append occurrence if scientific name is not NA
+        
+    if (!is.na(occresult$scientificName)) {
+      
+      occurrence <- rbind(occurrence, data.frame(occresult, stringsAsFactors=FALSE))
+
+      # duplicate measurements  
+      
+      occmof <- mof
+      occmof$occurrenceID <- occresult$occurrenceID
+      measurements <- rbind(measurements, occmof)
+      
+    }
+    
   }
   
 }
@@ -181,17 +232,17 @@ occurrence$genus <- NA
 occurrence$species <- NA
 
 for (i in 1:nrow(occurrence)) {
-  taxon <- aphia[aphia$ScientificName==occurrence$scientificName[i],]
-  occurrence$scientificNameID <- paste0("urn:lsid:marinespecies.org:taxname:", taxon$AphiaID)
-  occurrence$scientificNameAuthorship[i] <- taxon$Authority
-  occurrence$kingdom[i] <- taxon$Kingdom
-  occurrence$phylum[i] <- taxon$Phylum
-  occurrence$class[i] <- taxon$Class
-  occurrence$order[i] <- taxon$Order
-  occurrence$family[i] <- taxon$Family
-  occurrence$genus[i] <- taxon$Genus
-  if (!is.na(taxon$Species)) {
-    occurrence$species[i] <- paste0(taxon$Genus, " ", taxon$Species)
+  match <- matchAphiaRecordsByNames(occurrence$scientificName[i])
+  occurrence$scientificNameID[i] <- match$lsid[1]
+  occurrence$scientificNameAuthorship[i] <- match$authority[1]
+  occurrence$kingdom[i] <- match$kingdom[1]
+  occurrence$phylum[i] <- match$phylum[1]
+  occurrence$class[i] <- match$class[1]
+  occurrence$order[i] <- match$order[1]
+  occurrence$family[i] <- match$family[1]
+  occurrence$genus[i] <- match$genus[1]
+  if (match$rank[1] == "Species") {
+    occurrence$species[i] <- match$scientificname[1]
   }
 }
 
@@ -203,9 +254,15 @@ for (name in names(fixed)) {
 
 # measurements id
 
-mof$measurementID <- seq(1, nrow(mof))
+measurements$measurementID <- seq(1, nrow(measurements))
+
+# clean up strings
+
+occurrence <- cleanDf(occurrence)
+measurements <- cleanDf(measurements)
 
 # output
 
 writeDwc(occurrence, "occurrence.txt")
-writeDwc(mof, "measurementorfact.txt")
+writeDwc(measurements, "measurementorfact.txt")
+
