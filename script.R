@@ -4,9 +4,19 @@ require(worms)
 
 # config
 
-country <- "Jamaica"
-filename <- "HAB_Jamaica_version2.xls"
+#country <- "Jamaica"
+#filename <- "HAB_Jamaica.xls"
+#sheetname <- "reviewed"
+#datasetid <- "HAB_Jamaica"
+#headerrow <- 1
+#skiprows <- 1
+
+country <- "Cuba"
+filename <- "HAB_Cuba.xlsx"
 sheetname <- "reviewed"
+datasetid <- "HAB_Cuba"
+headerrow <- 1
+skiprows <- 1
 
 fixed <- list(
   language="en",
@@ -15,11 +25,8 @@ fixed <- list(
   institutionID="",
   institutionCode="",
   collectionCode="",
-  datasetID="HAB_Jamaica"
+  datasetID=datasetid
 )
-
-headerrow <- 1
-skiprows <- 1
 
 # functions
 
@@ -129,6 +136,7 @@ for (n in numbers) {
   mof <- addMof(mof, NA, type="High phyto concentrations", value=rdata[i, "highphytoconcentrations"])
   mof <- addMof(mof, NA, type="foam/mucilage on the coast", value=rdata[i, "foammucilagecoast"])
   eventRemarks <-  addRemark(eventRemarks, rdata[i, "bloomremarks"])
+  eventRemarks <-  addRemark(eventRemarks, rdata[i, "additionalinfo"])
   mof <- addMof(mof, NA, type="toxicity detected", value=rdata[i, "toxicity"])
   mof <- addMof(mof, NA, type="toxin name", value=rdata[i, "toxin"])
   mof <- addMof(mof, NA, type="toxicity syndrome", value=rdata[i, "syndrome"])
@@ -165,12 +173,12 @@ for (n in numbers) {
   result$habitat <- rdata[i, "habitat"]
   result$fieldNotes <- rdata[i, "oligotrophiceutrophic"]
   mof <- addMof(mof, NA, type="substrate type", value=rdata[i, "substrate"])
+  result$verbatimDepthInMeters <- rdata[i, "verbatimdepth"]
   result$minimumDepthInMeters <- rdata[i, "minimumdepth"]
   result$maximumDepthInMeters <- rdata[i, "maximumdepth"]
-  result$verbatimDepth <- rdata[i, "surfacesubsurface"]
   result$locationRemarks <- rdata[i, "locationremarks"]
-  mof <- addMof(mof, NA, type="temperature", value=rdata[i, "temperature"], method=rdata[i, "temperaturemethid"])
-  mof <- addMof(mof, NA, type="salinity", value=rdata[i, "salinity"], method=rdata[i, "salinitymethod"])
+  mof <- addMof(mof, NA, type="temperature", value=rdata[i, "temperature"], method=rdata[i, "temperaturemethod"], unit=rdata[i, "temperatureunits"])
+  mof <- addMof(mof, NA, type="salinity", value=rdata[i, "salinity"], method=rdata[i, "salinitymethod"], unit=rdata[i, "salinityunits"])
   
   if (length(effects) > 0) {
     mof <- addMof(mof, NA, type="environmental effect", value=paste0(effects, collapse=";"))
