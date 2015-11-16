@@ -11,12 +11,21 @@ require(worms)
 #headerrow <- 1
 #skiprows <- 1
 
-country <- "Cuba"
-filename <- "HAB_Cuba.xlsx"
+#country <- "Cuba"
+#filename <- "HAB_Cuba.xlsx"
+#sheetname <- "reviewed"
+#datasetid <- "HAB_Cuba"
+#headerrow <- 1
+#skiprows <- 1
+
+country <- "Colombia"
+filename <- "HAB_Colombia.xls"
 sheetname <- "reviewed"
-datasetid <- "HAB_Cuba"
+datasetid <- "HAB_Colombia"
 headerrow <- 1
 skiprows <- 1
+
+# fixed fields
 
 fixed <- list(
   language="en",
@@ -48,8 +57,11 @@ writeDwc <- function(data, file) {
 }
 
 addMof <- function(mof, occurrence, id=NA, type=NA, value=NA, accuracy=NA, unit=NA, date=NA, determinedby=NA, determineddate=NA, method=NA, remarks=NA) {
+
+  print(paste(occurrence, id, type, value))
+  
   if (!is.na(value) & value != "ND") {
-    mof <- rbind(mof, data.frame(occurrenceID=occurrence, measurementID=id, measurementType=type, measurementValue=value, measurementAccuracy=accuracy, meadurementUnit=unit, measurementDate=date, measurementDeterminedBy=determinedby, measurementDeterminedDate=determineddate, measurementMethod=method, measurementRemarks=remarks, stringsAsFactors=FALSE))
+    mof <- rbind(mof, data.frame(occurrenceID=occurrence, measurementID=id, measurementType=type, measurementValue=value, measurementAccuracy=accuracy, measurementUnit=unit, measurementDate=date, measurementDeterminedBy=determinedby, measurementDeterminedDate=determineddate, measurementMethod=method, measurementRemarks=remarks, stringsAsFactors=FALSE))
   }
   return(mof)
 }
@@ -64,6 +76,13 @@ addRemark <- function(remarks, remark=NA, key=NA) {
   return(remarks)
 }
 
+addReference <- function(references, reference=NA) {
+  if (!is.na(reference)) {
+    references <- c(references, reference)
+  }
+  return(references)
+}
+
 addEffect <- function(effects, key, value=NA) {
   if (!is.na(value) & value != "ND") {
     effects <- c(effects, paste0(key, ": ", value))
@@ -71,16 +90,9 @@ addEffect <- function(effects, key, value=NA) {
   return(effects)
 }
 
-# read sheets
+# read sheet
 
 data <- read.xlsx(filename, sheetName=sheetname, startRow=headerrow, stringsAsFactors=FALSE, header=TRUE)
-regions <- read.xlsx(filename, sheetName="regions", stringsAsFactors=FALSE, header=FALSE)
-aphia <- read.xlsx(filename, sheetName="aphia", stringsAsFactors=FALSE, header=TRUE)
-toxins <- read.xlsx(filename, sheetName="toxins", stringsAsFactors=FALSE, header=FALSE)
-syndromes <- read.xlsx(filename, sheetName="syndromes", stringsAsFactors=FALSE, header=FALSE)
-
-# clean sheets
-
 data <- data[skiprows+1:nrow(data),]
 
 # process records
@@ -106,11 +118,13 @@ for (n in numbers) {
   
   eventRemarks <- NULL
   effects <- NULL
+  references <- NULL
   
   result$eventID <- rdata[i, "eventid"]
   result$recordedBy <- paste0("HAB region ", rdata[i, "habregion"], ";", rdata[i, "recordedby"])
   result$modified <- as.POSIXct((as.numeric(rdata[i, "modified"])-25569)*86400, tz="GMT", origin="1970-01-01")
-  result$associatedReferences <- paste0(rdata[i, c("mainreference", "additionalreferences")], collapse=" | ")
+  references <- addReference(references, rdata[i, "mainreference"])
+  references <- addReference(references, rdata[i, "additionalreferences"])
   result$references <- rdata[i, "eventurl"]
   # todo: add event date validation
   eventdate <- rdata[i, "eventdate"]
@@ -183,13 +197,14 @@ for (n in numbers) {
   if (length(effects) > 0) {
     mof <- addMof(mof, NA, type="environmental effect", value=paste0(effects, collapse=";"))
   }
+  result$associatedReferences <- paste0(references, collapse=" | ")
   result$eventRemarks <- paste0(eventRemarks, collapse=";")
   
   # process repeated lines (measurements)
 
   for (i in seq(1, nrow(rdata))) {
     mof <- addMof(mof, NA, type=rdata[i, "measurementtype"], value=rdata[i, "measurementvalue"], unit=rdata[i, "measurementunit"], method=rdata[i, "measurementmethod"], remarks=rdata[i, "measurementremarks"])
-    mof <- addMof(mof, NA, type=rdata[i, "nutrientmeasurementtype"], value=rdata[i, "nutrientmeasurementvalue"], unit=rdata[i, "nutrientmeasurementunit"], method=rdata[i, "nutrientmeasurementmethod"], remarks=rdata[i, "nutrientmeasurementremarks"])
+    mof <- addMof(mof, NA, type=rdata[i, "nutrientmeasurementtype"], value=rdata[i, "nutrientmeasurementvalue"], unit=rdata[i, "nutrientmeasurementunit"], method=rdata[i, "nutrientmeasurementmethod"])
     mof <- addMof(mof, NA, type=rdata[i, "othermeasurementtype"], value=rdata[i, "othermeasurementvalue"], unit=rdata[i, "othermeasurementunit"], method=rdata[i, "othermeasurementmethod"])
   }
   

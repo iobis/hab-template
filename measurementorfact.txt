@@ -1,9 +1,23 @@
-occurrenceID	measurementID	measurementType	measurementValue	measurementAccuracy	meadurementUnit	measurementDate	measurementDeterminedBy	measurementDeterminedDate	measurementMethod	measurementRemarks
-HAB_Cuba_Cuba1_1	1	water discoloration	yes							red
-HAB_Cuba_Cuba1_1	2	mucus	coloured							
-HAB_Cuba_Cuba1_1	3	HAB related mass mortalities	yes							
-HAB_Cuba_Cuba1_1	4	High phyto concentrations	yes							
-HAB_Cuba_Cuba1_1	5	foam/mucilage on the coast	yes							
-HAB_Cuba_Cuba1_1	6	toxicity detected	no							
-HAB_Cuba_Cuba1_1	7	temperature	35							
-HAB_Cuba_Cuba1_1	8	environmental effect	natural fish: yes;aquaculture fish: no;aquatic mammals: no;birds: no;other terrestrial: no;humans: no							
+occurrenceID	measurementID	measurementType	measurementValue	measurementAccuracy	measurementUnit	measurementDate	measurementDeterminedBy	measurementDeterminedDate	measurementMethod	measurementRemarks
+HAB_Colombia_1_1	1	water discoloration	yes							yellow-green
+HAB_Colombia_1_1	2	mucus	transparent							
+HAB_Colombia_1_1	3	HAB related mass mortalities	yes							
+HAB_Colombia_1_1	4	High phyto concentrations	yes							
+HAB_Colombia_1_1	5	toxicity detected	no							
+HAB_Colombia_1_1	6	economic effect	yes							
+HAB_Colombia_1_1	7	substrate type	silty-mud							
+HAB_Colombia_1_1	8	temperature	32						Conductivity WTW	
+HAB_Colombia_1_1	9	salinity	37.2						Conductivity WTW	
+HAB_Colombia_1_1	10	environmental effect	natural fish: yes;birds: no;other terrestrial: no;humans: no							
+HAB_Colombia_2_1	11	water discoloration	yes							yellow-green
+HAB_Colombia_2_1	12	mucus	transparent							
+HAB_Colombia_2_1	13	HAB related mass mortalities	yes							
+HAB_Colombia_2_1	14	High phyto concentrations	yes							
+HAB_Colombia_2_1	15	toxicity detected	no							
+HAB_Colombia_2_1	16	economic effect	yes							
+HAB_Colombia_2_1	17	substrate type	silty-mud							
+HAB_Colombia_2_1	18	temperature	33.6						Conductivity WTW	
+HAB_Colombia_2_1	19	salinity	44.9						Conductivity WTW	
+HAB_Colombia_2_1	20	environmental effect	natural fish: yes;birds: no;other terrestrial: no;humans: no							
+HAB_Colombia_2_1	21	Total Phosphorus	62		µmol/L				APHA 1975	
+HAB_Colombia_2_1	22	Soluble Reactive Phosphorus	5.55		µmol/L				APHA, AWWA, WPCF 1975. Standard methods for the examination of water and wastewater. 14th edition. American public health association. Washington. 1193 P	
