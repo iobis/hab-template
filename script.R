@@ -18,10 +18,31 @@ require(worms)
 #headerrow <- 1
 #skiprows <- 1
 
-country <- "Colombia"
-filename <- "HAB_Colombia.xls"
+#country <- "Colombia"
+#filename <- "HAB_Colombia.xls"
+#sheetname <- "reviewed"
+#datasetid <- "HAB_Colombia"
+#headerrow <- 1
+#skiprows <- 1
+
+#country <- "ElSalvador"
+#filename <- "HAB_ElSalvador.xls"
+#sheetname <- "reviewed"
+#datasetid <- "HAB_ElSalvador"
+#headerrow <- 1
+#skiprows <- 1
+
+#country <- "Guatemala"
+#filename <- "HAB_Guatemala.xls"
+#sheetname <- "reviewed"
+#datasetid <- "HAB_Guatemala"
+#headerrow <- 1
+#skiprows <- 1
+
+country <- "Panama"
+filename <- "HAB_Panama.xls"
 sheetname <- "reviewed"
-datasetid <- "HAB_Colombia"
+datasetid <- "HAB_Panama"
 headerrow <- 1
 skiprows <- 1
 
@@ -31,6 +52,7 @@ fixed <- list(
   language="en",
   license="CC0",
   rightsHolder="UNESCO Intergovernmental Oceanographic Commission",
+  basisOfRecord="HumanObservation",
   institutionID="",
   institutionCode="",
   collectionCode="",
@@ -40,28 +62,29 @@ fixed <- list(
 # functions
 
 cleanDf <- function(df) {
-  for (col in 1:ncol(df)) {
-    if (class(df[,col])[1] == "character") {
-      df[,col] <- sapply(df[,col], function(x) {
-        x <- gsub("[\r\n]", " ", x)
-        x <- gsub("  ", " ", x)
-        return(x)
-      })
+  if (!is.null(df)) {
+    for (col in 1:ncol(df)) {
+      if (class(df[,col])[1] == "character") {
+        df[,col] <- sapply(df[,col], function(x) {
+          x <- gsub("[\r\n]", " ", x)
+          x <- gsub("  ", " ", x)
+          return(x)
+        })
+      }
     }
   }
   return(df)
 }
 
 writeDwc <- function(data, file) {
-  write.table(data, file=file, quote=FALSE, sep="\t", na="", row.names=FALSE)
+  if (!is.null(data)) {
+    write.table(data, file=file, quote=FALSE, sep="\t", na="", row.names=FALSE)
+  }
 }
 
-addMof <- function(mof, occurrence, id=NA, type=NA, value=NA, accuracy=NA, unit=NA, date=NA, determinedby=NA, determineddate=NA, method=NA, remarks=NA) {
-
-  print(paste(occurrence, id, type, value))
-  
+addMof <- function(mof, occurrence, id=NA, type=NA, value=NA, accuracy=NA, unit=NA, determinedby=NA, determineddate=NA, method=NA, remarks=NA) {
   if (!is.na(value) & value != "ND") {
-    mof <- rbind(mof, data.frame(occurrenceID=occurrence, measurementID=id, measurementType=type, measurementValue=value, measurementAccuracy=accuracy, measurementUnit=unit, measurementDate=date, measurementDeterminedBy=determinedby, measurementDeterminedDate=determineddate, measurementMethod=method, measurementRemarks=remarks, stringsAsFactors=FALSE))
+    mof <- rbind(mof, data.frame(occurrenceID=occurrence, measurementID=id, measurementType=type, measurementValue=value, measurementAccuracy=accuracy, measurementUnit=unit, measurementDeterminedBy=determinedby, measurementDeterminedDate=determineddate, measurementMethod=method, measurementRemarks=remarks, stringsAsFactors=FALSE))
   }
   return(mof)
 }
@@ -187,7 +210,7 @@ for (n in numbers) {
   result$habitat <- rdata[i, "habitat"]
   result$fieldNotes <- rdata[i, "oligotrophiceutrophic"]
   mof <- addMof(mof, NA, type="substrate type", value=rdata[i, "substrate"])
-  result$verbatimDepthInMeters <- rdata[i, "verbatimdepth"]
+  result$verbatimDepth <- rdata[i, "verbatimdepth"]
   result$minimumDepthInMeters <- rdata[i, "minimumdepth"]
   result$maximumDepthInMeters <- rdata[i, "maximumdepth"]
   result$locationRemarks <- rdata[i, "locationremarks"]
@@ -234,9 +257,11 @@ for (n in numbers) {
 
       # duplicate measurements  
       
-      occmof <- mof
-      occmof$occurrenceID <- occresult$occurrenceID
-      measurements <- rbind(measurements, occmof)
+      if (nrow(mof) > 0) {
+        occmof <- mof
+        occmof$occurrenceID <- occresult$occurrenceID
+        measurements <- rbind(measurements, occmof)
+      }
       
     }
     
@@ -256,6 +281,7 @@ occurrence$species <- NA
 
 for (i in 1:nrow(occurrence)) {
   match <- matchAphiaRecordsByNames(occurrence$scientificName[i])
+  occurrence$scientificName[i] <- match$scientificname[1]
   occurrence$scientificNameID[i] <- match$lsid[1]
   occurrence$scientificNameAuthorship[i] <- match$authority[1]
   occurrence$kingdom[i] <- match$kingdom[1]
@@ -277,7 +303,9 @@ for (name in names(fixed)) {
 
 # measurements id
 
-measurements$measurementID <- seq(1, nrow(measurements))
+if (!is.null(measurements)) {
+  measurements$measurementID <- seq(1, nrow(measurements))
+}
 
 # clean up strings
 
