@@ -1,18 +1,5 @@
 occurrenceID	measurementID	measurementType	measurementValue	measurementAccuracy	measurementUnit	measurementDeterminedBy	measurementDeterminedDate	measurementMethod	measurementRemarks
-HAB_CostaRica_1_1	1	water discoloration	yes						red
-HAB_CostaRica_1_1	2	toxin name	saxitoxin						
-HAB_CostaRica_1_1	3	toxicity syndrome	PSP						
-HAB_CostaRica_1_1	4	intoxication transvector	Spondylus calcifer						
-HAB_CostaRica_1_1	5	environmental effect	humans: 6 outbreaks 1 dead						
-HAB_CostaRica_2_1	6	water discoloration	yes						red
-HAB_CostaRica_2_1	7	toxin name	saxitoxin						
-HAB_CostaRica_2_1	8	toxicity syndrome	PSP						
-HAB_CostaRica_2_1	9	intoxication transvector	Spondylus calcifer						
-HAB_CostaRica_3_1	10	water discoloration	yes						Red ochre
-HAB_CostaRica_3_1	11	mucus	coloured						
-HAB_CostaRica_3_1	12	HAB related mass mortalities	yes						
-HAB_CostaRica_3_1	13	High phyto concentrations	3,8x108 c/L						
-HAB_CostaRica_3_1	14	foam/mucilage on the coast	Yes						
-HAB_CostaRica_3_1	15	toxicity syndrome	Fish kill						
-HAB_CostaRica_3_1	16	economic effect	Ecological and economic (tourism)						
-HAB_CostaRica_3_1	17	environmental effect	natural fish: Yes;aquaculture fish: Yes						
+HAB_Panama_1_1	1	water discoloration	no						
+HAB_Panama_1_1	2	HAB related mass mortalities	yes						
+HAB_Panama_1_1	3	salinity	30						
+HAB_Panama_1_1	4	environmental effect	natural fish: Corvine,sardines						
