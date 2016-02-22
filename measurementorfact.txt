@@ -1,5 +1,19 @@
 occurrenceID	measurementID	measurementType	measurementValue	measurementAccuracy	measurementUnit	measurementDeterminedBy	measurementDeterminedDate	measurementMethod	measurementRemarks
-HAB_Panama_1_1	1	water discoloration	no						
-HAB_Panama_1_1	2	HAB related mass mortalities	yes						
-HAB_Panama_1_1	3	salinity	30						
-HAB_Panama_1_1	4	environmental effect	natural fish: Corvine,sardines						
+HAB_Guatemala_1_1	1	water discoloration	yes						brownish
+HAB_Guatemala_1_1	2	mucus	yes						
+HAB_Guatemala_1_1	3	HAB related mass mortalities	fishes						
+HAB_Guatemala_1_1	4	High phyto concentrations	yes						
+HAB_Guatemala_1_1	5	foam/mucilage on the coast	yes						
+HAB_Guatemala_1_1	6	toxicity detected	no						
+HAB_Guatemala_1_1	7	substrate type	open water						
+HAB_Guatemala_1_1	8	temperature	31.3		°C			Marine Probe	
+HAB_Guatemala_1_1	9	salinity	32.5					Marine Probe	
+HAB_Guatemala_2_1	10	water discoloration	yes						brownish
+HAB_Guatemala_2_1	11	mucus	yes						
+HAB_Guatemala_2_1	12	HAB related mass mortalities	fishes						
+HAB_Guatemala_2_1	13	High phyto concentrations	yes						
+HAB_Guatemala_2_1	14	foam/mucilage on the coast	yes						
+HAB_Guatemala_2_1	15	toxicity detected	no						
+HAB_Guatemala_2_1	16	substrate type	open water						
+HAB_Guatemala_2_1	17	temperature	31.3		°C			Marine Probe	
+HAB_Guatemala_2_1	18	salinity	32.5					Marine Probe	

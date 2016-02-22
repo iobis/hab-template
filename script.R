@@ -39,12 +39,12 @@ require(worms)
 #headerrow <- 1
 #skiprows <- 1
 
-country <- "Panama"
-filename <- "HAB_Panama2.xls"
-sheetname <- "reviewed"
-datasetid <- "HAB_Panama"
-headerrow <- 1
-skiprows <- 1
+#country <- "Panama"
+#filename <- "HAB_Panama2.xls"
+#sheetname <- "reviewed"
+#datasetid <- "HAB_Panama"
+#headerrow <- 1
+#skiprows <- 1
 
 #country <- "Nicaragua"
 #filename <- "HAB_Nicaragua.xls"
