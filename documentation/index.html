@@ -17,7 +17,7 @@
 
 <h3>HAB template documentation</h3>
 
-<p>For feedback and questions please contact <a href="p.provoost@unesco.org">p.provoost@unesco.org</a>.</p>
+<p>Download the template <a href="https://github.com/iobis/habtemplate/blob/master/template.xlsx?raw=true">here</a>. For feedback and questions please contact <a href="p.provoost@unesco.org">p.provoost@unesco.org</a>.</p>
 
 <div ng-repeat="cat in columns track by $index">
 	<h4>{{ cat.name }}</h4>
@@ -27,6 +27,7 @@
 			<th>Definition</th>
 			<th>Type</th>
 			<th>Example</th>
+			<th nowrap>Darwin Core</th>
 		</thead>
 		<tbody>
 			<tr ng-repeat="col in cat.columns track by $index">
@@ -36,6 +37,7 @@
 					<span class="label label-default" ng-class="{ 'label-info': col.type=='numeric', 'label-danger': col.type=='date', 'label-warning': col.type=='list' }">{{ col.type }}</span>
 				</td>
 				<td>{{ col.example }}</td>
+				<td>{{ col.dwc }}</td>
 			</tr>
 		</tbody>
 	</table>

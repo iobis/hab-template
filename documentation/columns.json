@@ -6,43 +6,50 @@ var columns = [
         "name": "Event ID",
         "definition": "row number, duplicate same number in case of multiple toxins leave all other fields blank if they stay the same",
         "type": "numeric",
-        "example": "549"
+        "example": "549",
+        "dwc": "eventID"
       },
       {
         "name": "HAB region",
         "definition": "HAB region number (from list)",
         "type": "numeric",
-        "example": "3"
+        "example": "3",
+        "dwc": "recordedBy"
       },
       {
         "name": "Recorded by",
         "definition": "Editor name, format: last name, first name(s)",
         "type": "text",
-        "example": "Doe, John"
+        "example": "Doe, John",
+        "dwc": "recordedBy"
       },
       {
         "name": "Modified",
         "definition": "Date last modified, format: YYYY-MM-DD",
         "type": "date",
-        "example": "2013-04-15"
+        "example": "2013-04-15",
+        "dwc": "modified"
       },
       {
         "name": "Main reference",
         "definition": "Bibliographic reference, a DOI can be appended using \"doi:\"",
         "type": "text",
-        "example": "Harrison, W. G. 1973. Nitrate reductase activity during a dinoflagellate bloom. Limnol. Oceanogr. 18:457<d0>65. doi: 10.1111/j.1748-7692.2008.00268.x"
+        "example": "Harrison, W. G. 1973. Nitrate reductase activity during a dinoflagellate bloom. Limnol. Oceanogr. 18:45765. doi: 10.1111/j.1748-7692.2008.00268.x",
+        "dwc": "associatedReferences"
       },
       {
         "name": "Additional references",
         "definition": "Bibliographic references, separated by a \"|\", a DOI can be appended using \"doi:\". References referring to the sampling protocol should be added in the \"Sampling protocol field\"",
         "type": "text",
-        "example": "Harrison, W. G. 1973. Nitrate reductase activity during a dinoflagellate bloom. Limnol. Oceanogr. 18:457<d0>65. doi: 10.1111/j.1748-7692.2008.00268.x | Mann, H., Mann, S. & Fyfe, W. S. 1987. Aragonite crystals in Spirogyra sp. (Chlorophyta). J. Phycol. 23:506<d0>9. doi: 10.1111/j.1748-7692.2008.00268.x"
+        "example": "Harrison, W. G. 1973. Nitrate reductase activity during a dinoflagellate bloom. Limnol. Oceanogr. 18:45765. doi: 10.1111/j.1748-7692.2008.00268.x | Mann, H., Mann, S. & Fyfe, W. S. 1987. Aragonite crystals in Spirogyra sp. (Chlorophyta). J. Phycol. 23:506<d0>9. doi: 10.1111/j.1748-7692.2008.00268.x",
+        "dwc": "associatedReferences"
       },
       {
         "name": "HAEDAT event URL",
         "definition": "",
-        "type": "URL",
-        "example": "http://haedat.iode.org/viewEvent.php?eventID=4854"
+        "type": "url",
+        "example": "http://haedat.iode.org/viewEvent.php?eventID=4854",
+        "dwc": "references"
       }
     ]
   },
@@ -53,7 +60,57 @@ var columns = [
         "name": "Event date",
         "definition": "The date-time or interval during which an Event occurred.  Use an encoding scheme ISO 8601:2004(E): \"1963-03-08T14:07-0600\" is 8 Mar 1963 2:07pm in the time zone six hours earlier than UTC, \"2009-02-20T08:40Z\" is 20 Feb 2009 8:40am UTC, \"1809-02-12\" is 12 Feb 1809, \"1906-06\" is Jun 1906, \"1971\" is just that year, \"2007-03-01T13:00:00Z/2008-05-11T15:30:00Z\" is the interval between 1 Mar 2007 1pm UTC and 11 May 2008 3:30pm UTC, \"2007-11-13/15\" is the interval between 13 Nov 2007 and 15 Nov 2007",
         "type": "date",
-        "example": "2007-03-01T13:00:00Z/2007-03-11T15:30:00Z"
+        "example": "2007-03-01T13:00:00Z/2007-03-11T15:30:00Z",
+        "dwc": "eventDate"
+      },
+      {
+        "name": "Verbatim event date",
+        "definition": "",
+        "type": "text",
+        "example": "",
+        "dwc": "verbatimEventDate"
+      },
+      {
+        "name": "Start date: year",
+        "definition": "",
+        "type": "numeric",
+        "example": "",
+        "dwc": "eventDate"
+      },
+      {
+        "name": "Start date: month",
+        "definition": "",
+        "type": "numeric",
+        "example": "",
+        "dwc": "eventDate"
+      },
+      {
+        "name": "Start date: day",
+        "definition": "",
+        "type": "numeric",
+        "example": "",
+        "dwc": "eventDate"
+      },
+      {
+        "name": "End date: year",
+        "definition": "",
+        "type": "numeric",
+        "example": "",
+        "dwc": "eventDate"
+      },
+      {
+        "name": "End date: month",
+        "definition": "",
+        "type": "numeric",
+        "example": "",
+        "dwc": "eventDate"
+      },
+      {
+        "name": "End date: day",
+        "definition": "",
+        "type": "numeric",
+        "example": "",
+        "dwc": "eventDate"
       }
     ]
   },
@@ -64,19 +121,22 @@ var columns = [
         "name": "Scientific name",
         "definition": "Scientific name without authorship",
         "type": "list",
-        "example": "Alexandrium minutum"
+        "example": "Alexandrium minutum",
+        "dwc": "scientificName"
       },
       {
         "name": "Organism quantity",
         "definition": "A number or enumeration value for the quantity of organisms",
         "type": "numeric",
-        "example": "12,5"
+        "example": "12,5",
+        "dwc": "organismQuantity"
       },
       {
         "name": "Organism quantity type",
         "definition": "The type of quantification system used for the quantity of organisms: individuals, cells, %biomass, ..",
         "type": "text",
-        "example": "%biomass"
+        "example": "%biomass",
+        "dwc": "organismQuantityType"
       }
     ]
   },
