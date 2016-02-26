@@ -168,7 +168,7 @@ var columns = [
         "example": "1 hour, 100 metres, <c9>"
       },
       {
-        "name": "Sampling Event Remarks",
+        "name": "Remarks",
         "definition": "Comments or notes about the Event",
         "type": "text",
         "example": "e.g. Funded by.., name expedition, name cruise,.."
@@ -185,7 +185,7 @@ var columns = [
         "example": ""
       },
       {
-        "name": "Occurrence remarks",
+        "name": "Remarks",
         "definition": "Comments or notes about the Occurrence",
         "type": "text",
         "example": ""
@@ -256,7 +256,7 @@ var columns = [
         "example": "DSP"
       },
       {
-        "name": "Intoxication: transvector",
+        "name": "Transvector",
         "definition": "Transvector scientific name",
         "type": "text",
         "example": "Mytilus edulis"
@@ -461,10 +461,11 @@ var columns = [
         "name": "Oligotrophic/Eutrophic",
         "definition": "",
         "type": "list",
-        "example": "Oligotrophic"
+        "example": "Oligotrophic",
+        "dwc": "locationRemarks"
       },
       {
-        "name": "Substrate type",
+        "name": "Substrate",
         "definition": "Organic, inorganic, animals, macroalgae, phanerogames, etc.",
         "type": "text",
         "example": ""
@@ -482,14 +483,21 @@ var columns = [
         "example": "2"
       },
       {
+        "name": "Verbatim depth",
+        "definition": "",
+        "type": "text",
+        "example": ""
+      },
+      {
         "name": "Surface/subsurface/whole water column",
         "definition": "surface, subsurface, whole water column, benthic",
         "type": "list",
-        "example": "surface"
+        "example": "surface",
+        "dwc": "occurrenceRemarks"
       },
       {
-        "name": "Location remarks",
-        "definition": "",
+        "name": "Remarks",
+        "definition": "Location remarks",
         "type": "text",
         "example": ""
       }
@@ -499,82 +507,88 @@ var columns = [
     "name": "Environmental",
     "columns": [
       {
-        "name": "Temperature value",
-        "definition": "Value in Degree Celcius",
+        "name": "Temperature: value",
+        "definition": "Temperature in degrees Celcius",
         "type": "numeric",
         "example": "18"
       },
       {
-        "name": "Temperature method",
-        "definition": "Name sensor",
+        "name": "Temperature: method",
+        "definition": "",
         "type": "text",
         "example": "SBE 37-IM MicroCAT"
       },
       {
-        "name": "Salinity value",
-        "definition": "Value in PSU",
+        "name": "Salinity: value",
+        "definition": "Salinity on the PSS",
         "type": "numeric",
         "example": "25"
       },
       {
-        "name": "Salinity method",
+        "name": "Salinity: method",
         "definition": "Name sensor",
         "type": "text",
         "example": "SBE 37-IM MicroCAT"
       },
       {
-        "name": "MeasurementType",
+        "name": "Nutrient measurements: type",
         "definition": "Name of variable measured",
         "type": "text",
         "example": "Nitrate"
       },
       {
-        "name": "Measurement value",
-        "definition": "value of measured variable",
+        "name": "Nutrient measurements: value",
+        "definition": "",
         "type": "numeric",
         "example": "2"
       },
       {
-        "name": "Measurement unit",
+        "name": "Nutrient measurements: units",
         "definition": "Unit of measured variable value",
         "type": "text",
         "example": "micromol.kg-1"
       },
       {
-        "name": "Measurement method",
+        "name": "Nutrient measurements: method",
         "definition": "Name of sensor",
         "type": "text",
         "example": "NAS3 "
       },
       {
-        "name": "MeasurementType",
+        "name": "Other measurements: type",
         "definition": "",
         "type": "text",
         "example": ""
       },
       {
-        "name": "Measurement value",
+        "name": "Other measurements: value",
         "definition": "",
         "type": "numeric",
         "example": ""
       },
       {
-        "name": "Measurement unit",
+        "name": "Other measurements: units",
         "definition": "",
         "type": "text",
         "example": ""
       },
       {
-        "name": "Measurement method",
+        "name": "Other measurements: method",
         "definition": "",
         "type": "text",
         "example": ""
       },
       {
         "name": "Runoff",
-        "definition": "yes/no/riveername/urbanrunoff",
+        "definition": "yes/no/river name/urban runoff",
         "type": "text",
-        "example": ""
+        "dwc": "locationRemarks"
+      },
+      {
+        "name": "Remarks",
+        "definition": "",
+        "type": "text",
+        "dwc": "locationRemarks"
       }
     ]
   }

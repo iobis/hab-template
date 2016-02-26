@@ -4,61 +4,12 @@ require(worms)
 
 # config
 
-#country <- "Jamaica"
-#filename <- "HAB_Jamaica.xls"
-#sheetname <- "reviewed"
-#datasetid <- "HAB_Jamaica"
-#headerrow <- 1
-#skiprows <- 1
-
-#country <- "Cuba"
-#filename <- "HAB_Cuba.xlsx"
-#sheetname <- "reviewed"
-#datasetid <- "HAB_Cuba"
-#headerrow <- 1
-#skiprows <- 1
-
-#country <- "Colombia"
-#filename <- "HAB_Colombia.xls"
-#sheetname <- "reviewed"
-#datasetid <- "HAB_Colombia"
-#headerrow <- 1
-#skiprows <- 1
-
-#country <- "ElSalvador"
-#filename <- "HAB_ElSalvador.xls"
-#sheetname <- "reviewed"
-#datasetid <- "HAB_ElSalvador"
-#headerrow <- 1
-#skiprows <- 1
-
-#country <- "Guatemala"
-#filename <- "HAB_Guatemala.xls"
-#sheetname <- "reviewed"
-#datasetid <- "HAB_Guatemala"
-#headerrow <- 1
-#skiprows <- 1
-
-#country <- "Panama"
-#filename <- "HAB_Panama2.xls"
-#sheetname <- "reviewed"
-#datasetid <- "HAB_Panama"
-#headerrow <- 1
-#skiprows <- 1
-
-#country <- "Nicaragua"
-#filename <- "HAB_Nicaragua.xls"
-#sheetname <- "reviewed"
-#datasetid <- "HAB_Nicaragua"
-#headerrow <- 1
-#skiprows <- 1
-
-#country <- "CostaRica"
-#filename <- "HAB_CostaRica.xls"
-#sheetname <- "reviewed"
-#datasetid <- "HAB_CostaRica"
-#headerrow <- 1
-#skiprows <- 1
+country <- "CostaRica"
+filename <- "HAB_CostaRica.xls"
+sheetname <- "reviewed"
+datasetid <- "HAB_CostaRica"
+headerrow <- 1
+skiprows <- 1
 
 # fixed fields
 
