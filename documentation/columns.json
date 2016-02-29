@@ -537,7 +537,7 @@ var columns = [
         "example": "2"
       },
       {
-        "name": "Nutrient measurements: units",
+        "name": "Nutrient measurements: unit",
         "definition": "Unit of measured variable value",
         "type": "text",
         "example": "micromol.kg-1"
@@ -561,7 +561,7 @@ var columns = [
         "example": ""
       },
       {
-        "name": "Other measurements: units",
+        "name": "Other measurements: unit",
         "definition": "",
         "type": "text",
         "example": ""

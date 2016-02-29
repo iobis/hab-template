@@ -5,11 +5,12 @@ require(worms)
 # config
 
 country <- "CostaRica"
-filename <- "HAB_CostaRica.xls"
-sheetname <- "reviewed"
+filename <- "HAB_CostaRica.xlsx"
 datasetid <- "HAB_CostaRica"
-headerrow <- 1
-skiprows <- 1
+
+# columns
+
+cols <- c("eventid", "habregion", "recordedby", "modified", "mainreference", "additionalreferences", "eventurl", "eventdate", "verbatimdate", "startyear", "startmonth", "startday", "endyear", "endmonth", "endday", "scientificname", "organismquantity", "organismquantitytype", "samplesizevalue", "samplesizeunit", "samplingprotocol", "samplingeffort", "eventremarks", "associatedtaxa", "occurrenceremarks", "waterdiscoloration", "waterdiscolorationremarks", "mucus", "massmortalities", "highphytoconcentrations", "foammucilagecoast", "toxicity", "toxin", "syndrome", "transvector", "measurementmethod", "measurementvalue", "measurementunit", "measurementremarks", "economiclosses", "planktoniclife", "benthiclife", "shellfish", "naturalfish", "aquaculturefish", "aquaticmammals", "birds", "otherterrestrial", "humans", "other", "place", "latitude", "longitude", "verbatimlatitude", "verbatimlongitude", "coordinateuncertainty", "coordinateprecision", "footprint", "waterbody", "country", "stateprovince", "county", "municipality", "island", "islandgroup", "locality", "locationid", "locationaccordingto", "habitat", "oligotrophiceutrophic", "substrate", "minimumdepth", "maximumdepth", "verbatimdepth", "surface", "locationremarks", "temperature", "temperaturemethod", "salinity", "salinitymethod", "nutrientmeasurementtype", "nutrientmeasurementvalue", "nutrientmeasurementunit", "nutrientmeasurementmethod", "othermeasurementtype", "othermeasurementvalue", "othermeasurementunit", "othermeasurementmethod", "runoff", "additionalinfo")
 
 # fixed fields
 
@@ -80,8 +81,8 @@ addEffect <- function(effects, key, value=NA) {
 
 # read sheet
 
-data <- read.xlsx(filename, sheetName=sheetname, startRow=headerrow, stringsAsFactors=FALSE, header=TRUE)
-data <- data[skiprows+1:nrow(data),]
+data <- read.xlsx(paste0("data/", filename), sheetIndex=1, startRow=4, stringsAsFactors=FALSE, header=TRUE)
+names(data) <- cols
 
 # process records
 
@@ -110,7 +111,8 @@ for (n in numbers) {
   
   result$eventID <- rdata[i, "eventid"]
   result$recordedBy <- paste0("HAB region ", rdata[i, "habregion"], ";", rdata[i, "recordedby"])
-  result$modified <- as.POSIXct((as.numeric(rdata[i, "modified"])-25569)*86400, tz="GMT", origin="1970-01-01")
+  #result$modified <- as.POSIXct((as.numeric(rdata[i, "modified"])-25569)*86400, tz="GMT", origin="1970-01-01")
+  result$modified <- rdata[i, "modified"]
   references <- addReference(references, rdata[i, "mainreference"])
   references <- addReference(references, rdata[i, "additionalreferences"])
   result$references <- rdata[i, "eventurl"]
@@ -137,7 +139,6 @@ for (n in numbers) {
   mof <- addMof(mof, NA, type="HAB related mass mortalities", value=rdata[i, "massmortalities"])
   mof <- addMof(mof, NA, type="High phyto concentrations", value=rdata[i, "highphytoconcentrations"])
   mof <- addMof(mof, NA, type="foam/mucilage on the coast", value=rdata[i, "foammucilagecoast"])
-  eventRemarks <-  addRemark(eventRemarks, rdata[i, "bloomremarks"])
   eventRemarks <-  addRemark(eventRemarks, rdata[i, "additionalinfo"])
   mof <- addMof(mof, NA, type="toxicity detected", value=rdata[i, "toxicity"])
   mof <- addMof(mof, NA, type="toxin name", value=rdata[i, "toxin"])
@@ -179,8 +180,8 @@ for (n in numbers) {
   result$minimumDepthInMeters <- rdata[i, "minimumdepth"]
   result$maximumDepthInMeters <- rdata[i, "maximumdepth"]
   result$locationRemarks <- rdata[i, "locationremarks"]
-  mof <- addMof(mof, NA, type="temperature", value=rdata[i, "temperature"], method=rdata[i, "temperaturemethod"], unit=rdata[i, "temperatureunits"])
-  mof <- addMof(mof, NA, type="salinity", value=rdata[i, "salinity"], method=rdata[i, "salinitymethod"], unit=rdata[i, "salinityunits"])
+  mof <- addMof(mof, NA, type="temperature", value=rdata[i, "temperature"], method=rdata[i, "temperaturemethod"], unit="??C")
+  mof <- addMof(mof, NA, type="salinity", value=rdata[i, "salinity"], method=rdata[i, "salinitymethod"], unit="psu")
   
   if (length(effects) > 0) {
     mof <- addMof(mof, NA, type="environmental effect", value=paste0(effects, collapse=";"))
@@ -279,6 +280,6 @@ measurements <- cleanDf(measurements)
 
 # output
 
-writeDwc(occurrence, "occurrence.txt")
-writeDwc(measurements, "measurementorfact.txt")
+writeDwc(occurrence, "output/occurrence.txt")
+writeDwc(measurements, "output/measurementorfact.txt")
 
