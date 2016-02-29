@@ -262,12 +262,6 @@ var columns = [
         "example": "Mytilus edulis"
       },
       {
-        "name": "Measurement Type",
-        "definition": "Type of substance measured: toxin, other?",
-        "type": "text",
-        "example": "toxin"
-      },
-      {
         "name": "Measurement method",
         "definition": "toxin dectection method used: HPLC, LC-MS, ELISA, bioassay, <c9>",
         "type": "text",
