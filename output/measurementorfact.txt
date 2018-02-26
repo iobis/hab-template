@@ -1,18 +1,76 @@
-occurrenceID	measurementID	measurementType	measurementValue	measurementAccuracy	measurementUnit	measurementDeterminedBy	measurementDeterminedDate	measurementMethod	measurementRemarks
-HAB_CostaRica_1_1	1	water discoloration	yes						red
-HAB_CostaRica_1_1	2	toxin name	saxitoxin						
-HAB_CostaRica_1_1	3	toxicity syndrome	PSP						
-HAB_CostaRica_1_1	4	intoxication transvector	Spondylus calcifer						
-HAB_CostaRica_1_1	5	environmental effect	humans: 6 outbreaks 1 dead						
-HAB_CostaRica_2_1	6	water discoloration	yes						red
-HAB_CostaRica_2_1	7	toxin name	saxitoxin						
-HAB_CostaRica_2_1	8	toxicity syndrome	PSP						
-HAB_CostaRica_2_1	9	intoxication transvector	Spondylus calcifer						
-HAB_CostaRica_3_1	10	water discoloration	yes						Red ochre
-HAB_CostaRica_3_1	11	mucus	coloured						
-HAB_CostaRica_3_1	12	HAB related mass mortalities	yes						
-HAB_CostaRica_3_1	13	High phyto concentrations	3,8x108 c/L						
-HAB_CostaRica_3_1	14	foam/mucilage on the coast	Yes						
-HAB_CostaRica_3_1	15	toxicity syndrome	Fish kill						
-HAB_CostaRica_3_1	16	economic effect	Ecological and economic (tourism)						
-HAB_CostaRica_3_1	17	environmental effect	natural fish: Yes;aquaculture fish: Yes						
+id	measurementType	measurementValue	measurementUnit
+91e0a5ce-1cd3-473c-bb47-e5776511fb61	aphantoxin		
+a5fa2295-bda5-42db-b9c9-b30d3628dc38	brevetoxin		
+81099115-1dca-493c-9cc6-9a941dc5c296	brevetoxin		
+899e80b1-9d4f-4037-a302-2d2af5b854fe	brevetoxin		
+39b253be-25b9-4f0e-8bc6-fc43193e8c7a	brevetoxin		
+4bb69951-2261-4519-ba84-d1c8be0b5bbc	brevetoxin		
+5dbe6bbf-5f57-47ea-a4ae-041201dbc4bc	brevetoxin		
+2660961e-9aaf-4fe1-abe9-ff8ee3e7d401	quantity	1200	cells/ml
+b2ccf541-088f-451d-9349-9667d7e00306	quantity	200	cells/L
+8931e452-9cb7-42b4-8995-43d6ce9e8ba0	quantity	200	cells/L
+d33878cb-3735-44ef-8fce-5f08d9cc2866	quantity	200	cells/L
+8cf795f4-71b0-41b6-b108-0d573912ec47	quantity	200	cells/L
+88c22814-e10b-4247-800c-568989c87a12	quantity	200	cells/L
+181efa27-b380-4b66-9685-de69bd1e31f5	quantity	200	cells/L
+66f76e72-33c8-41b6-a523-f7b1888dff7f	quantity	300	cells/L
+c139e7e6-ef9c-4a5f-a48b-96f355fab6f4	quantity	0.4	cells/L
+8b70d57b-6807-463a-8881-5f8e16c537cc	quantity	8	cells/L
+91e0a5ce-1cd3-473c-bb47-e5776511fb61	quantity	40,600-79,000	cells/ml
+44bae492-09a7-4629-a118-13fc1975d0dc	quantity	722900	cells/ml
+4296a746-a37a-413f-8879-9cd2093fe2b7	quantity	5000	cells/ml
+4c27f30c-b194-410f-81b9-159312d4a0aa	quantity	784000	cells/ml
+0546934b-d075-4f56-98a4-4b3e15345cf7	quantity	8559	cells/ml
+bd338546-2946-42f6-a04e-f0fa6b31d578	quantity	546000	cells/ml
+e960b3d0-8f13-4e6e-835a-358f9ac11d74	quantity	1228000	cells/ml
+5ea7d466-5c5b-4f7a-8b3c-835adeed8fd6	quantity	274	cells/ml
+c282afcf-e5f6-406c-9be0-2c74df1a6ce3	quantity	440	cells/ml
+f37e36bc-4ddd-4a4a-8612-37a91c94d737	quantity	330	cells/ml
+6ac653f3-1538-407d-b7f4-1bf5b47d5a88	quantity	393100	cells/ml
+28ec1549-69bc-43cd-a632-54dc091d3bcd	quantity	301600	cells/ml
+b490aafe-893f-4607-830a-5a9880eacc43	quantity	10	cells/ml
+872232f0-170b-49ab-b18f-85d913c08aa0	quantity	1208840	cells/ml
+96319f45-2643-401a-a88f-b904f8c46072	quantity	2106	cells/ml
+2b749f71-155c-4012-81a8-20784fd0609c	quantity	501760	cells/ml
+cb288f21-41bb-4cd1-9f97-66a7c4fe3b02	quantity	908800	cells/ml
+5eecfc61-b847-4c80-9d36-07df199ef20e	quantity	187828	cells/ml
+1113e86d-6ec1-4ddc-b09b-0e522fcdd2ba	quantity	254900	cells/ml
+a4f7595f-7e11-4d1a-9631-c90a4a35549f	quantity	159	cells/ml
+bfaadf12-c285-4951-85fc-bf1603a4f70a	quantity	1.4 x 104	cells/ml
+52bcdc12-7a34-4ce0-a398-7f2967d1a176	quantity	1580	cells/ml
+39efc34a-cf5f-44ba-b2a3-f6eba3f49603	quantity	5	cells/ml
+d5be3df3-3f8d-4a2c-b327-d876f6505f5a	quantity	1 to > 50,000	cells/liter
+fe9af4f6-cd64-49c2-be9a-03a000d0ae8f	quantity	325	cells/liter
+4927d5cc-cb00-45c0-a075-9e249fbf2c4b	quantity	21800	cells/ml
+3bfdc2f9-6f30-4dbf-9971-b2901121267a	quantity	32300	cells/ml
+cd5ae89a-4ac1-4f21-84c6-806ad16a195d	quantity	2700	cells/ml
+3e1cb562-529d-47ad-8f12-e60e763d4ca0	quantity	73	cells/ml
+56c0118f-99ea-47b7-bd28-3cf207dc74c6	quantity	50100	cells/ml
+6f884bbe-8931-49aa-95c0-af603c456db9	quantity	lots of very large cell counts which I need to enter later	
+21a2d176-9608-4d9a-97b1-e1cfcec81722	quantity	10 million	cells/L
+c522f65d-b3b4-4f9b-a061-dd6e64d92b2d	quantity	6310	cells/ml
+75db846c-aead-4cbf-b300-ee9fe73944b1	quantity	5980	cells/ml
+4434e5a5-6cf5-4ad9-8fb0-357ffef4483c	quantity	8300	cells/ml
+b6344a42-27f8-48bc-bed3-edc00b895787	quantity	8000	cells/ml
+19b39367-95ee-4bbe-a61f-303898068f8f	quantity	350	cells/ml
+c12c4d60-886c-4dc5-9bfd-01e6b4c98298	quantity	800	cells/ml
+988626d6-d581-4d58-a8e7-489ec9283502	quantity	1260	cells/ml
+afe62e46-32fc-4f9d-babf-a355638618b4	quantity	760	cells/ml
+8dc60714-c5a3-4211-bedd-9915bd07082e	quantity	85700	cells/ml
+6eaf7088-e27a-4ad4-bf61-c4d7bf3c0ff8	quantity	149600	cells/ml
+afb11492-7efe-4adb-9106-600056653b42	quantity	6.1 x 105	cells/ml
+81fef13b-3372-4a31-bc22-1f1264f35258	quantity	2.33 x 105	cells/liter
+08b6717c-e680-4a96-91e0-16119835766c	quantity	1.45 x 106	cells/liter
+a5fa2295-bda5-42db-b9c9-b30d3628dc38	quantity	2.20 x 105	cells/liter
+81099115-1dca-493c-9cc6-9a941dc5c296	quantity	1.04 x 107	cells/liter
+daa7d080-d3d4-4d13-a6d5-fe36ea116d50	quantity	4.39 x 106	cells/liter
+5f591572-e250-4f08-b660-2cb7cea69892	quantity	7.80 x 106	cells/liter
+15b9ac24-5de1-40d8-8251-342046b2adfc	quantity	1.72 x 106	cells/liter
+066542a3-b160-4a78-942a-64def292f245	quantity	1.45 x 106	cells/liter
+c88ef897-29a0-4465-82bd-d84ae3e4d1aa	quantity	5.00 x 103	cells/liter
+899e80b1-9d4f-4037-a302-2d2af5b854fe	quantity	0.96 x 106	cells/liter
+39b253be-25b9-4f0e-8bc6-fc43193e8c7a	quantity	1.20 x 106	cells/liter
+4bb69951-2261-4519-ba84-d1c8be0b5bbc	quantity	7.09 x 105	cells/liter
+5dbe6bbf-5f57-47ea-a4ae-041201dbc4bc	quantity	1.73 x 106	cells/liter
+28bd3682-be84-4706-9daa-65f50cedd0f5	quantity	1.72 x 103	cells/liter
+79c565bf-f5c1-4618-bb17-2c0538a90671	quantity	2.84 x 103	cells/liter
