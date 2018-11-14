@@ -6,11 +6,12 @@ library("dplyr")
 library("stringr")
 
 #filename <- "../data/Feb 2018 HAB list_fensin_corrected.xlsx"
-filename <- "../data/habtemplate_a_v5 FANSA 2018-01-08.xlsx" # removed first header row
+#filename <- "../data/habtemplate_a_v5 FANSA 2018-01-08.xlsx" # removed first header row
+filename <- "../data/201811/habtemplate_a_v5 Region_3_Ines Sunesen July 2018.xlsx"
 
 hab <- read.xlsx(filename, sheet = 1)
 names(hab) <- c("scientificName", "original", "identificationVerificationStatus", "references", "additionalReferences", "eventRemarks", "modified", "eventDate", "verbatimEventDate", "decimalLatitude", "decimalLongitude", "coordinateUncertaintyInMeters", "footprintWKT", "locality", "minimumDepthInMeters", "maximumDepthInMeters", "quantityValue", "quantityUnit", "toxin", "toxinValue", "toxinUnit", "occurrenceRemarks")
-obistools::plot_map_leaflet(hab)
+#obistools::plot_map_leaflet(hab)
 
 ### functions
 
@@ -101,3 +102,4 @@ mof <- bind_rows(toxinMof, quantityMof)
 
 write.table(occurrence, "../output/occurrence.txt", quote=FALSE, sep="\t", na="", row.names=FALSE)
 write.table(mof, "../output/measurementorfact.txt", quote=FALSE, sep="\t", na="", row.names=FALSE)
+
