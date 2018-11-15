@@ -82,7 +82,7 @@ hab$occurrenceStatus[hab$quantityValue == 0] <- "absent"
 
 # generate
 
-occurrence <- hab %>% select("occurrenceID", "scientificName", "eventDate", "verbatimEventDate", "decimalLatitude", "decimalLongitude", "locality", "minimumDepthInMeters", "maximumDepthInMeters", "coordinateUncertaintyInMeters", "basisOfRecord", "occurrenceStatus", "identificationVerificationStatus", "references", "additionalReferences", "modified", "footprintWKT", "occurrenceRemarks", "eventRemarks")
+occurrence <- hab %>% select("occurrenceID", "scientificName", "scientificNameID", "eventDate", "verbatimEventDate", "decimalLatitude", "decimalLongitude", "locality", "minimumDepthInMeters", "maximumDepthInMeters", "coordinateUncertaintyInMeters", "basisOfRecord", "occurrenceStatus", "identificationVerificationStatus", "references", "additionalReferences", "modified", "footprintWKT", "occurrenceRemarks", "eventRemarks")
 
 ### measurements
 
