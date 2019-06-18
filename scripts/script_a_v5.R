@@ -4,39 +4,24 @@ library("uuid")
 library("worrms")
 library("dplyr")
 library("stringr")
+library("tidyr") # dev version!
+source("lib.R")
 
 #filename <- "../data/Feb 2018 HAB list_fensin_corrected.xlsx"
 #filename <- "../data/habtemplate_a_v5 FANSA 2018-01-08.xlsx" # removed first header row
-filename <- "../data/201811/habtemplate_a_v5 Region_3_Ines Sunesen July 2018.xlsx"
+#filename <- "../data/201811/habtemplate_a_v5 Region_3_Ines Sunesen July 2018.xlsx"
+filename <- "../data/region_5/OBIS  9 Feb region 5 NZ highlighted April 2018_convertedtov5.xlsx"
+folder <- "region_5"
 
-hab <- read.xlsx(filename, sheet = 1)
+hab <- read.xlsx(filename, sheet = 1, startRow = 2)
 names(hab) <- c("scientificName", "original", "identificationVerificationStatus", "references", "additionalReferences", "eventRemarks", "modified", "eventDate", "verbatimEventDate", "decimalLatitude", "decimalLongitude", "coordinateUncertaintyInMeters", "footprintWKT", "locality", "minimumDepthInMeters", "maximumDepthInMeters", "quantityValue", "quantityUnit", "toxin", "toxinValue", "toxinUnit", "occurrenceRemarks")
-#obistools::plot_map_leaflet(hab)
-
-### functions
-
-cleanDf <- function(df) {
-  if (!is.null(df)) {
-    for (col in 1:ncol(df)) {
-      if (class(df[,col])[1] == "character") {
-        df[,col] <- sapply(df[,col], function(x) {
-          x <- gsub("[\r\n]", " ", x)
-          x <- gsub("  ", " ", x)
-          x <- str_trim(x)
-          if (!is.na(x) & x == "") {
-            x <- NA
-          }
-          return(x)
-        })
-      }
-    }
-  }
-  return(df)
-}
-
-### occurrence
 
 hab <- cleanDf(hab)
+
+hab$decimalLatitude <- as.numeric(hab$decimalLatitude)
+hab$decimalLongitude <- as.numeric(hab$decimalLongitude)
+obistools::plot_map_leaflet(hab)
+hab <- hab %>% unite(associatedReferences, references, additionalReferences, sep = ";", remove = TRUE, na.rm = TRUE)
 
 # fixed fields
 
@@ -50,16 +35,6 @@ hab$occurrenceID <- sapply(hab$scientificName, UUIDgenerate)
 
 hab$curatedName <- hab$scientificName
 hab$scientificName[!is.na(hab$original)] <- hab$original[!is.na(hab$original)]
-
-fetchLSID <- function(name) {
-  res <- wm_records_names(name)[[1]]
-  for (j in 1:nrow(res)) {
-    if (res$match_type == "exact") {
-      return(res$lsid[j])
-    }
-  }
-  return(NA)
-}
 
 hab$scientificNameID <- NA
 
@@ -75,6 +50,16 @@ for (i in 1:nrow(hab)) {
   )
 }
 
+### taxonomic fixes
+
+hab[hab$scientificName == "Amphidinium operculatum",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:109745"
+hab[hab$scientificName == "Gonyaulax spinifera",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:110041"
+hab[hab$scientificName == "Dinophysis mitra",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:109635"
+hab[hab$scientificName == "Dinophysis ovum",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:109642"
+hab[hab$scientificName == "Microcystis aeruginosa",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:146557"
+hab[hab$scientificName == "Microcystis wesenbergii",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:146557"
+hab[hab$scientificName == "Microcystis botrys",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:146557"
+
 # presence/absence
 
 hab$occurrenceStatus <- "present"
@@ -82,7 +67,7 @@ hab$occurrenceStatus[hab$quantityValue == 0] <- "absent"
 
 # generate
 
-occurrence <- hab %>% select("occurrenceID", "scientificName", "scientificNameID", "eventDate", "verbatimEventDate", "decimalLatitude", "decimalLongitude", "locality", "minimumDepthInMeters", "maximumDepthInMeters", "coordinateUncertaintyInMeters", "basisOfRecord", "occurrenceStatus", "identificationVerificationStatus", "references", "additionalReferences", "modified", "footprintWKT", "occurrenceRemarks", "eventRemarks")
+occurrence <- hab %>% select("occurrenceID", "scientificName", "scientificNameID", "eventDate", "verbatimEventDate", "decimalLatitude", "decimalLongitude", "locality", "minimumDepthInMeters", "maximumDepthInMeters", "coordinateUncertaintyInMeters", "basisOfRecord", "occurrenceStatus", "identificationVerificationStatus", "associatedReferences", "modified", "footprintWKT", "occurrenceRemarks", "eventRemarks")
 
 ### measurements
 
@@ -100,6 +85,6 @@ mof <- bind_rows(toxinMof, quantityMof)
 
 ### output
 
-write.table(occurrence, "../output/occurrence.txt", quote=FALSE, sep="\t", na="", row.names=FALSE)
-write.table(mof, "../output/measurementorfact.txt", quote=FALSE, sep="\t", na="", row.names=FALSE)
+write.table(occurrence, paste0("../output/", folder, "/occurrence.txt"), quote=FALSE, sep="\t", na="", row.names=FALSE)
+write.table(mof, paste0("../output/", folder, "/measurementorfact.txt"), quote=FALSE, sep="\t", na="", row.names=FALSE)
 
