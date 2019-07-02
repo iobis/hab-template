@@ -44,9 +44,12 @@ processTaxonomy <- function(hab, aphia) {
   
   # enhance aphia table
   
-  aphia <- aphia %>% mutate(scientificNameID = paste0("urn:lsid:marinespecies.org:taxname:", AphiaID))
+  aphia <- aphia %>%
+    mutate(scientificNameID = paste0("urn:lsid:marinespecies.org:taxname:", AphiaID)) %>%
+    filter(!(AphiaID %in% c(581938, 109642))) # temporary fix for Dinophysis ovum
   
   # resolve names using aphia table
+  # todo: fix multiple matches
   
   hab <- hab %>%
     left_join(aphia %>% select(ScientificName, scientificNameID), by = c("curatedName" = "ScientificName"))
@@ -80,7 +83,7 @@ prepData <- function(hab) {
   hab$decimalLongitude <- as.numeric(hab$decimalLongitude)
   hab <- hab %>% unite(associatedReferences, references, additionalReferences, sep = ";", remove = TRUE, na.rm = TRUE)
   hab$basisOfRecord <- "HumanObservation"
-  hab$occurrenceID <- sapply(hab$scientificName, UUIDgenerate)
+  hab$occurrenceID <- sapply(hab$scientificName, function(x) { UUIDgenerate(FALSE) })
   hab$curatedName <- hab$scientificName
   hab$occurrenceStatus <- "present"
   hab$occurrenceStatus[hab$quantityValue == 0] <- "absent"
@@ -117,10 +120,10 @@ fetchLSID <- function(name) {
 }
 
 taxonomyFixes <- function(hab) {
-  hab$scientificNameID[hab$scientificName == "Amphidinium operculatum"] <- "urn:lsid:marinespecies.org:taxname:109745"
-  hab$scientificNameID[hab$scientificName == "Gonyaulax spinifera"] <- "urn:lsid:marinespecies.org:taxname:110041"
-  hab$scientificNameID[hab$scientificName == "Dinophysis mitra"] <- "urn:lsid:marinespecies.org:taxname:109635"
-  hab$scientificNameID[hab$scientificName == "Dinophysis ovum"] <- "urn:lsid:marinespecies.org:taxname:109642"
+  #hab$scientificNameID[hab$scientificName == "Amphidinium operculatum"] <- "urn:lsid:marinespecies.org:taxname:109745"
+  #hab$scientificNameID[hab$scientificName == "Gonyaulax spinifera"] <- "urn:lsid:marinespecies.org:taxname:110041"
+  #hab$scientificNameID[hab$scientificName == "Dinophysis mitra"] <- "urn:lsid:marinespecies.org:taxname:109635"
+  #hab$scientificNameID[hab$scientificName == "Dinophysis ovum"] <- "urn:lsid:marinespecies.org:taxname:109642"
   hab$scientificNameID[hab$scientificName == "Microcystis aeruginosa"] <- "urn:lsid:marinespecies.org:taxname:146557"
   hab$scientificNameID[hab$scientificName == "Microcystis wesenbergii"] <- "urn:lsid:marinespecies.org:taxname:146557"
   hab$scientificNameID[hab$scientificName == "Microcystis botrys"] <- "urn:lsid:marinespecies.org:taxname:146557"
