@@ -1,0 +1,75 @@
+id	measurementType	measurementValue	measurementUnit
+26929162-e924-11e8-961e-1fd6cac35c7d	aphantoxin		
+269edbab-e924-11e8-961e-1fd6cac35c7d	brevetoxin		
+269edbac-e924-11e8-961e-1fd6cac35c7d	brevetoxin		
+269edbb2-e924-11e8-961e-1fd6cac35c7d	brevetoxin		
+269f9ee4-e924-11e8-961e-1fd6cac35c7d	brevetoxin		
+269f9ee5-e924-11e8-961e-1fd6cac35c7d	brevetoxin		
+269f9ee6-e924-11e8-961e-1fd6cac35c7d	brevetoxin		
+26910af0-e924-11e8-961e-1fd6cac35c7d	quantity	1200	cells/ml
+26910af3-e924-11e8-961e-1fd6cac35c7d	quantity	200	cells/L
+26910af4-e924-11e8-961e-1fd6cac35c7d	quantity	200	cells/L
+26910af5-e924-11e8-961e-1fd6cac35c7d	quantity	200	cells/L
+26910af6-e924-11e8-961e-1fd6cac35c7d	quantity	200	cells/L
+26910af7-e924-11e8-961e-1fd6cac35c7d	quantity	200	cells/L
+26910af8-e924-11e8-961e-1fd6cac35c7d	quantity	200	cells/L
+26910af9-e924-11e8-961e-1fd6cac35c7d	quantity	300	cells/L
+2691ce26-e924-11e8-961e-1fd6cac35c7d	quantity	0.4	cells/L
+2691ce27-e924-11e8-961e-1fd6cac35c7d	quantity	8	cells/L
+26929162-e924-11e8-961e-1fd6cac35c7d	quantity	40,600-79,000	cells/ml
+26929163-e924-11e8-961e-1fd6cac35c7d	quantity	722900	cells/ml
+26929164-e924-11e8-961e-1fd6cac35c7d	quantity	5000	cells/ml
+26929165-e924-11e8-961e-1fd6cac35c7d	quantity	784000	cells/ml
+26929166-e924-11e8-961e-1fd6cac35c7d	quantity	8559	cells/ml
+26929167-e924-11e8-961e-1fd6cac35c7d	quantity	546000	cells/ml
+26929168-e924-11e8-961e-1fd6cac35c7d	quantity	1228000	cells/ml
+2693548a-e924-11e8-961e-1fd6cac35c7d	quantity	274	cells/ml
+2693548b-e924-11e8-961e-1fd6cac35c7d	quantity	440	cells/ml
+2693548c-e924-11e8-961e-1fd6cac35c7d	quantity	330	cells/ml
+269417bd-e924-11e8-961e-1fd6cac35c7d	quantity	393100	cells/ml
+269417be-e924-11e8-961e-1fd6cac35c7d	quantity	301600	cells/ml
+269417c2-e924-11e8-961e-1fd6cac35c7d	quantity	10	cells/ml
+26959e38-e924-11e8-961e-1fd6cac35c7d	quantity	1208840	cells/ml
+26959e39-e924-11e8-961e-1fd6cac35c7d	quantity	2106	cells/ml
+26959e3a-e924-11e8-961e-1fd6cac35c7d	quantity	501760	cells/ml
+26966162-e924-11e8-961e-1fd6cac35c7d	quantity	908800	cells/ml
+26966167-e924-11e8-961e-1fd6cac35c7d	quantity	187828	cells/ml
+26966168-e924-11e8-961e-1fd6cac35c7d	quantity	254900	cells/ml
+2696616a-e924-11e8-961e-1fd6cac35c7d	quantity	159	cells/ml
+2696616c-e924-11e8-961e-1fd6cac35c7d	quantity	14000	cells/ml
+2697e7d5-e924-11e8-961e-1fd6cac35c7d	quantity	1580	cells/ml
+2698ab07-e924-11e8-961e-1fd6cac35c7d	quantity	5	cells/ml
+2698ab08-e924-11e8-961e-1fd6cac35c7d	quantity	1 to > 50,000	cells/liter
+2698ab09-e924-11e8-961e-1fd6cac35c7d	quantity	325	cells/liter
+26996e2c-e924-11e8-961e-1fd6cac35c7d	quantity	21800	cells/ml
+26996e2d-e924-11e8-961e-1fd6cac35c7d	quantity	32300	cells/ml
+269a3170-e924-11e8-961e-1fd6cac35c7d	quantity	2700	cells/ml
+269af498-e924-11e8-961e-1fd6cac35c7d	quantity	73	cells/ml
+269b0b80-e924-11e8-961e-1fd6cac35c7d	quantity	50100	cells/ml
+269bcecc-e924-11e8-961e-1fd6cac35c7d	quantity	10000000	cells/L
+269c9203-e924-11e8-961e-1fd6cac35c7d	quantity	6310	cells/ml
+269c9204-e924-11e8-961e-1fd6cac35c7d	quantity	5980	cells/ml
+269c9205-e924-11e8-961e-1fd6cac35c7d	quantity	8300	cells/ml
+269c9206-e924-11e8-961e-1fd6cac35c7d	quantity	8000	cells/ml
+269c9207-e924-11e8-961e-1fd6cac35c7d	quantity	350	cells/ml
+269c9208-e924-11e8-961e-1fd6cac35c7d	quantity	800	cells/ml
+269d553a-e924-11e8-961e-1fd6cac35c7d	quantity	1260	cells/ml
+269d553b-e924-11e8-961e-1fd6cac35c7d	quantity	760	cells/ml
+269e1877-e924-11e8-961e-1fd6cac35c7d	quantity	85700	cells/ml
+269e1878-e924-11e8-961e-1fd6cac35c7d	quantity	149600	cells/ml
+269e1880-e924-11e8-961e-1fd6cac35c7d	quantity	610000	cells/ml
+269edba9-e924-11e8-961e-1fd6cac35c7d	quantity	233000	cells/liter
+269edbaa-e924-11e8-961e-1fd6cac35c7d	quantity	1450000	cells/liter
+269edbab-e924-11e8-961e-1fd6cac35c7d	quantity	220000	cells/liter
+269edbac-e924-11e8-961e-1fd6cac35c7d	quantity	10400000	cells/liter
+269edbad-e924-11e8-961e-1fd6cac35c7d	quantity	4390000	cells/liter
+269edbae-e924-11e8-961e-1fd6cac35c7d	quantity	7800000	cells/liter
+269edbaf-e924-11e8-961e-1fd6cac35c7d	quantity	1720000	cells/liter
+269edbb0-e924-11e8-961e-1fd6cac35c7d	quantity	1450000	cells/liter
+269edbb1-e924-11e8-961e-1fd6cac35c7d	quantity	5000	cells/liter
+269edbb2-e924-11e8-961e-1fd6cac35c7d	quantity	960000	cells/liter
+269f9ee4-e924-11e8-961e-1fd6cac35c7d	quantity	1200000	cells/liter
+269f9ee5-e924-11e8-961e-1fd6cac35c7d	quantity	709000	cells/liter
+269f9ee6-e924-11e8-961e-1fd6cac35c7d	quantity	1730000	cells/liter
+269f9ee7-e924-11e8-961e-1fd6cac35c7d	quantity	1720	cells/liter
+269f9ee8-e924-11e8-961e-1fd6cac35c7d	quantity	2840	cells/liter

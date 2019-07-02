@@ -1,0 +1,20 @@
+id	measurementType	measurementValue	measurementUnit
+a5e8fc97-e937-11e8-b5a3-a3f515eccf40	Okacdaic acid OA	2.7µg - >4.9µg 	OA per g hepatopancreas
+a5e8fc98-e937-11e8-b5a3-a3f515eccf40	Okacdaic acid OA	2.3µg - >5.1µg	OA per g hepatopancreas
+a5e8fc99-e937-11e8-b5a3-a3f515eccf40	Okacdaic acid OA	2.5µg - 4.9µg	OA per g hepatopancreas
+a5e8fc9a-e937-11e8-b5a3-a3f515eccf40	not specified	not specified	
+a5e8fc9b-e937-11e8-b5a3-a3f515eccf40	Brevetoxin - NSP	not specified	
+a5e8fc9c-e937-11e8-b5a3-a3f515eccf40	Brevetoxin - NSP	not specified	
+a5e8fc9d-e937-11e8-b5a3-a3f515eccf40	Saxitoxin	0.5 - 11.7	mg STX eq kg-1
+a5e8fc9e-e937-11e8-b5a3-a3f515eccf40	Okacdaic acid OA	0.02 - 0.50	mg OA eq kg-1
+a5e8fca0-e937-11e8-b5a3-a3f515eccf40	Gonyautoxin (GTX1-GTX4)	1.5	fmol GTX cell-1
+a5e8fc96-e937-11e8-b5a3-a3f515eccf40	quantity	Value	Unit
+a5e8fc97-e937-11e8-b5a3-a3f515eccf40	quantity	200000	cell per litre
+a5e8fc98-e937-11e8-b5a3-a3f515eccf40	quantity	250000	cell per litre
+a5e8fc99-e937-11e8-b5a3-a3f515eccf40	quantity	not specified	
+a5e8fc9a-e937-11e8-b5a3-a3f515eccf40	quantity	6667500	cell per litre
+a5e8fc9b-e937-11e8-b5a3-a3f515eccf40	quantity	17127668	cell per litre
+a5e8fc9c-e937-11e8-b5a3-a3f515eccf40	quantity	24707828	cell per litre
+a5e8fc9d-e937-11e8-b5a3-a3f515eccf40	quantity	48000000	cell per litre
+a5e8fc9e-e937-11e8-b5a3-a3f515eccf40	quantity	12000	cell per litre
+a5e8fca0-e937-11e8-b5a3-a3f515eccf40	quantity	140000000	cell per litre

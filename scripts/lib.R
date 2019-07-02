@@ -36,21 +36,40 @@ generateOccurrence <- function(hab) {
   return(occurrence)
 }
 
-processTaxonomy <- function(hab) {
+processTaxonomy <- function(hab, aphia) {
+  
+  # curated name is stored in other column, use original for scientificName if available
+  
   hab$scientificName[!is.na(hab$original)] <- hab$original[!is.na(hab$original)]
-  hab$scientificNameID <- NA
+  
+  # enhance aphia table
+  
+  aphia <- aphia %>% mutate(scientificNameID = paste0("urn:lsid:marinespecies.org:taxname:", AphiaID))
+  
+  # resolve names using aphia table
+  
+  hab <- hab %>%
+    left_join(aphia %>% select(ScientificName, scientificNameID), by = c("curatedName" = "ScientificName"))
+
+  # use taxon match
+    
   for (i in 1:nrow(hab)) {
-    name <- hab$curatedName[i]
-    tryCatch({
-      hab$scientificNameID[i] <- fetchLSID(name)
-    }, warning = function(w) {
-      message(sprintf("Warning for: %s", name))
-    }, error = function(e) {
-      message(sprintf("Error for: %s", name))
+    if (is.na(hab$scientificNameID[i])) {
+      name <- hab$curatedName[i]
+      tryCatch({
+        hab$scientificNameID[i] <- fetchLSID(name)
+      }, warning = function(w) {
+        message(sprintf("Warning for: %s", name))
+      }, error = function(e) {
+        message(sprintf("Error for: %s", name))
+      })
     }
-    )
   }
+  
+  # manual fixes
+  
   hab <- taxonomyFixes(hab)
+  
   return(hab)
 }
 
@@ -98,12 +117,12 @@ fetchLSID <- function(name) {
 }
 
 taxonomyFixes <- function(hab) {
-  hab[hab$scientificName == "Amphidinium operculatum",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:109745"
-  hab[hab$scientificName == "Gonyaulax spinifera",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:110041"
-  hab[hab$scientificName == "Dinophysis mitra",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:109635"
-  hab[hab$scientificName == "Dinophysis ovum",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:109642"
-  hab[hab$scientificName == "Microcystis aeruginosa",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:146557"
-  hab[hab$scientificName == "Microcystis wesenbergii",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:146557"
-  hab[hab$scientificName == "Microcystis botrys",]$scientificNameID <- "urn:lsid:marinespecies.org:taxname:146557"
+  hab$scientificNameID[hab$scientificName == "Amphidinium operculatum"] <- "urn:lsid:marinespecies.org:taxname:109745"
+  hab$scientificNameID[hab$scientificName == "Gonyaulax spinifera"] <- "urn:lsid:marinespecies.org:taxname:110041"
+  hab$scientificNameID[hab$scientificName == "Dinophysis mitra"] <- "urn:lsid:marinespecies.org:taxname:109635"
+  hab$scientificNameID[hab$scientificName == "Dinophysis ovum"] <- "urn:lsid:marinespecies.org:taxname:109642"
+  hab$scientificNameID[hab$scientificName == "Microcystis aeruginosa"] <- "urn:lsid:marinespecies.org:taxname:146557"
+  hab$scientificNameID[hab$scientificName == "Microcystis wesenbergii"] <- "urn:lsid:marinespecies.org:taxname:146557"
+  hab$scientificNameID[hab$scientificName == "Microcystis botrys"] <- "urn:lsid:marinespecies.org:taxname:146557"
   return(hab)
 }

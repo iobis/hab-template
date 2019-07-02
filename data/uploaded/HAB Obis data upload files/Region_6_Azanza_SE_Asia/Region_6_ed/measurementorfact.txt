@@ -1,0 +1,14 @@
+id	measurementType	measurementValue	measurementUnit
+cf8f98a5-e935-11e8-b5a3-a3f515eccf40	saxitoxin	532	Mouse units/100g
+cf8f98a8-e935-11e8-b5a3-a3f515eccf40	saxitoxin	1005	ug/100g
+cf905bba-e935-11e8-b5a3-a3f515eccf40	saxitoxin	2894	ugSTX eq/100g
+cf905bbb-e935-11e8-b5a3-a3f515eccf40	saxitoxin	857	 ng /ml STX eq
+cf8f98a4-e935-11e8-b5a3-a3f515eccf40	quantity	Value	Unit
+cf8f98a5-e935-11e8-b5a3-a3f515eccf40	quantity	138269	cells/L
+cf8f98a6-e935-11e8-b5a3-a3f515eccf40	quantity	8600000	cells/L
+cf8f98ae-e935-11e8-b5a3-a3f515eccf40	quantity	11000	cells/L
+cf905bba-e935-11e8-b5a3-a3f515eccf40	quantity	7	cells/L
+cf905bbb-e935-11e8-b5a3-a3f515eccf40	quantity	293000	cells/L
+cf91e30c-e935-11e8-b5a3-a3f515eccf40	quantity	470000	cells/L
+cf91e30d-e935-11e8-b5a3-a3f515eccf40	quantity	3022000	cells/L
+cf91e30e-e935-11e8-b5a3-a3f515eccf40	quantity	2621000	cells/L

@@ -1,0 +1,115 @@
+id	measurementType	measurementValue	measurementUnit
+f6d0a8da-e936-11e8-b5a3-a3f515eccf40	Toxin	Value	Unit
+f6d0a8db-e936-11e8-b5a3-a3f515eccf40	PSP	ND	ND
+f6d0a8dc-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d0a8dd-e936-11e8-b5a3-a3f515eccf40	no toxicity by mouse test	ND	ND
+f6d0a8de-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d16c20-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d16c21-e936-11e8-b5a3-a3f515eccf40	counting		
+f6d16c22-e936-11e8-b5a3-a3f515eccf40	counting		
+f6d16c23-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d16c24-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d16c25-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d16c26-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d16c27-e936-11e8-b5a3-a3f515eccf40	counting and chlorophyll		
+f6d16c28-e936-11e8-b5a3-a3f515eccf40	PSP Producer		
+f6d16c29-e936-11e8-b5a3-a3f515eccf40	PSP	182.2- 232.2	microgram STX per 100g tissue
+f6d16c2a-e936-11e8-b5a3-a3f515eccf40	PSP	ND	
+f6d22f4b-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d22f4c-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d22f4d-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d22f4e-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d22f4f-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d22f51-e936-11e8-b5a3-a3f515eccf40	DSP		mouse units. 
+f6d2f27a-e936-11e8-b5a3-a3f515eccf40	ND	ND	
+f6d2f27b-e936-11e8-b5a3-a3f515eccf40	Cytotoxicity	3.18	mouse units. 
+f6d2f27c-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d2f27d-e936-11e8-b5a3-a3f515eccf40	OA	21	µg
+f6d2f27e-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d2f27f-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d2f281-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d2f282-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d2f283-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d2f284-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d3b5ac-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d3b5ad-e936-11e8-b5a3-a3f515eccf40	ND		
+f6d3b5ae-e936-11e8-b5a3-a3f515eccf40	PSP	1057-2698	µU/100g mouse unit
+f6d3b5af-e936-11e8-b5a3-a3f515eccf40	PSP	800	µg equiv.STX/100g
+f6d3b5b3-e936-11e8-b5a3-a3f515eccf40	de-STX (65% weight)	ND	ND
+f6d3b5b4-e936-11e8-b5a3-a3f515eccf40	C-Toxins (46%), GTX2 (38%)	ND	ND
+f6d3b5b5-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d3b5b6-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d478fd-e936-11e8-b5a3-a3f515eccf40	 GYM	1.044 to 2.136	µg GYM/Kg
+f6d478fe-e936-11e8-b5a3-a3f515eccf40	 DSP, Mouse test		
+f6d478ff-e936-11e8-b5a3-a3f515eccf40	microcystin	 1.99-20	mg/kg
+f6d47900-e936-11e8-b5a3-a3f515eccf40	OA	0.23 to 1.04	 µg/g
+f6d47902-e936-11e8-b5a3-a3f515eccf40	ND	ND	
+f6d47903-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d53da0-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d53da1-e936-11e8-b5a3-a3f515eccf40	ND	ND	ND
+f6d0a8da-e936-11e8-b5a3-a3f515eccf40	quantity	Value	Unit
+f6d0a8db-e936-11e8-b5a3-a3f515eccf40	quantity	0.65 x 106	cells per l
+f6d0a8dc-e936-11e8-b5a3-a3f515eccf40	quantity	10.7x103	cells per l
+f6d0a8dd-e936-11e8-b5a3-a3f515eccf40	quantity	10x 103	cells per l
+f6d0a8de-e936-11e8-b5a3-a3f515eccf40	quantity	134x103	cells per l
+f6d16c20-e936-11e8-b5a3-a3f515eccf40	quantity	207x103	cells per l
+f6d16c21-e936-11e8-b5a3-a3f515eccf40	quantity	26x106	cells per l
+f6d16c22-e936-11e8-b5a3-a3f515eccf40	quantity	1.1x105	cells per l
+f6d16c23-e936-11e8-b5a3-a3f515eccf40	quantity	8x106	cells per l
+f6d16c24-e936-11e8-b5a3-a3f515eccf40	quantity	1.1-1.8x106	cells per l
+f6d16c25-e936-11e8-b5a3-a3f515eccf40	quantity	6x106	cells per l
+f6d16c26-e936-11e8-b5a3-a3f515eccf40	quantity	1.7x106	cells per l
+f6d16c27-e936-11e8-b5a3-a3f515eccf40	quantity	24.4x106	cells per l
+f6d16c28-e936-11e8-b5a3-a3f515eccf40	quantity	104-105	cells per l
+f6d16c29-e936-11e8-b5a3-a3f515eccf40	quantity	2.6x105	cells per l
+f6d16c2a-e936-11e8-b5a3-a3f515eccf40	quantity	5x103	cells per l
+f6d22f48-e936-11e8-b5a3-a3f515eccf40	quantity	5.95 x 103	cells per l
+f6d22f49-e936-11e8-b5a3-a3f515eccf40	quantity	1.73x106	cells per l
+f6d22f4a-e936-11e8-b5a3-a3f515eccf40	quantity	18200	cells per l
+f6d22f4b-e936-11e8-b5a3-a3f515eccf40	quantity	134x103	cells per l
+f6d22f4c-e936-11e8-b5a3-a3f515eccf40	quantity	207x103	cells per l
+f6d22f4d-e936-11e8-b5a3-a3f515eccf40	quantity	99.6 x 103	cells per l
+f6d22f4e-e936-11e8-b5a3-a3f515eccf40	quantity	952x103	cells per l
+f6d22f4f-e936-11e8-b5a3-a3f515eccf40	quantity	1.14x106	cells per l
+f6d22f50-e936-11e8-b5a3-a3f515eccf40	quantity	6.7 x 103	cells per l
+f6d22f51-e936-11e8-b5a3-a3f515eccf40	quantity	1.3x105	cells per l
+f6d22f52-e936-11e8-b5a3-a3f515eccf40	quantity	2.6x104	cells per l
+f6d2f27a-e936-11e8-b5a3-a3f515eccf40	quantity	1.5x103	cells per l
+f6d2f27b-e936-11e8-b5a3-a3f515eccf40	quantity	600-700	cells per l
+f6d2f27c-e936-11e8-b5a3-a3f515eccf40	quantity	3400	cells per l
+f6d2f27d-e936-11e8-b5a3-a3f515eccf40	quantity	4.6x104	cells per l
+f6d2f27e-e936-11e8-b5a3-a3f515eccf40	quantity	2.95 x 104	cells per l
+f6d2f27f-e936-11e8-b5a3-a3f515eccf40	quantity	 5.17 x 104	cells per l
+f6d2f280-e936-11e8-b5a3-a3f515eccf40	quantity	2.25 x 104	cells per l
+f6d2f281-e936-11e8-b5a3-a3f515eccf40	quantity	2.2x106	cells per l
+f6d2f282-e936-11e8-b5a3-a3f515eccf40	quantity	0.5x106	cells per l
+f6d2f283-e936-11e8-b5a3-a3f515eccf40	quantity	2.96x106	cells per l
+f6d2f284-e936-11e8-b5a3-a3f515eccf40	quantity	1.5x106	cells per l
+f6d3b5ac-e936-11e8-b5a3-a3f515eccf40	quantity	1.6x106	cells per l
+f6d3b5ad-e936-11e8-b5a3-a3f515eccf40	quantity	13.5 x 106	cells per l
+f6d3b5ae-e936-11e8-b5a3-a3f515eccf40	quantity	ND	
+f6d3b5af-e936-11e8-b5a3-a3f515eccf40	quantity	ND	
+f6d3b5b0-e936-11e8-b5a3-a3f515eccf40	quantity	10000	cells per l
+f6d3b5b1-e936-11e8-b5a3-a3f515eccf40	quantity	4x 103	cells per l
+f6d3b5b2-e936-11e8-b5a3-a3f515eccf40	quantity	2.2x104	cells per l
+f6d3b5b3-e936-11e8-b5a3-a3f515eccf40	quantity	ND	ND
+f6d3b5b4-e936-11e8-b5a3-a3f515eccf40	quantity	ND	ND
+f6d3b5b5-e936-11e8-b5a3-a3f515eccf40	quantity	1.8x106	cells per l
+f6d3b5b6-e936-11e8-b5a3-a3f515eccf40	quantity	8x105	cells per l
+f6d478fc-e936-11e8-b5a3-a3f515eccf40	quantity	1.27x106	cells per l
+f6d478fd-e936-11e8-b5a3-a3f515eccf40	quantity	24.8x103 - 250x103- 88X103	cells per l
+f6d478fe-e936-11e8-b5a3-a3f515eccf40	quantity	1.3x105	cells per l
+f6d478ff-e936-11e8-b5a3-a3f515eccf40	quantity	>106	cells per l
+f6d47900-e936-11e8-b5a3-a3f515eccf40	quantity	0.31 x 104  to 5.8 x 104	cells per l
+f6d47901-e936-11e8-b5a3-a3f515eccf40	quantity	1.7 x 106	cells per l
+f6d47902-e936-11e8-b5a3-a3f515eccf40	quantity	1x106	cells per l
+f6d47903-e936-11e8-b5a3-a3f515eccf40	quantity	2x103- 5.9 x103	cells per l
+f6d47904-e936-11e8-b5a3-a3f515eccf40	quantity	4305	cells per g fw of macroalgae
+f6d47905-e936-11e8-b5a3-a3f515eccf40	quantity	4208	cells per g fw of macroalgae
+f6d47906-e936-11e8-b5a3-a3f515eccf40	quantity	8000	cells per l
+f6d53da0-e936-11e8-b5a3-a3f515eccf40	quantity	> 1000	cells per l
+f6d53da1-e936-11e8-b5a3-a3f515eccf40	quantity	> 1000	cells per l
+f6d53da2-e936-11e8-b5a3-a3f515eccf40	quantity	20 x 103	filament per g wet wt of macroalgae
+f6d53da3-e936-11e8-b5a3-a3f515eccf40	quantity	1.07 x 106	filament per g wet wt of macroalgae
+f6d53da4-e936-11e8-b5a3-a3f515eccf40	quantity	148x106	cells per l
+f6d53da5-e936-11e8-b5a3-a3f515eccf40	quantity	169x106	cells per l
