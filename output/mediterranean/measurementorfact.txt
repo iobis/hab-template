@@ -1,0 +1,1854 @@
+id	measurementType	measurementValue	measurementUnit
+c170e26a-9656-4663-9cb3-82287f868c75	PSP		
+104241f6-956f-42aa-b967-209a87e214aa	eqSTX	110	microgram equivalent STX per 100 gram mussel meat
+4797519f-1230-48fc-a50f-93304b813083	C1; C2; dcGTX2; dcGTX3; GTX2; GTX3; GTX1; GTX4; GTX5; GTX6; dcSTX; STX; NEO	4.2; 26.1; 1.8; 2.4; 238.6; 159.7; 189.7; 45.8; 43.5; 1.5; 5.5; 127; 6.2	microgram STX diHCl equivalents per kilogram
+09d66977-9936-4395-8002-50af11c9ef67	C1; C2; C3; C4; dcGTX2; dcGTX3; GTX2; GTX3; GTX1; GTX4; GTX5; GTX6; doSTX; dcSTX; STX; NEO	141.4; 614.5; 8.9; 7.3; 47.8; 47.0; 1815.6; 1033.2; 4473.2; 1147.5; 830.6; 118.4; 0.3; 89.5; 11.2; 357.5; 107.6	microgram STX diHCl equivalents per kilogram
+6c67dbe9-acc1-4724-914c-1a185568fae3	C1; C2; C3; C4; dcGTX2; dcGTX3; GTX2; GTX3; GTX1; GTX4; GTX5; GTX6; doSTX; dcSTX; STX; NEO	49.5; 287.2; 1; 0.5; 17.3; 18.4; 928.8; 773.5; 741.5; 214.0; 316.1; 17.4; 0.2; 83.5; 3.0; 528.4; 51.1	microgram STX diHCl equivalents per kilogram
+7af619dd-499f-43a1-8858-c0c4b35f6ff9	C1; C2; dcGTX2; dcGTX3; GTX2; GTX3; GTX1; GTX4; GTX5; GTX6; dcSTX; STX; NEO	6.3; 31.2; 1.7; 3.3; 315.2; 205.3; 435.0; 99.7; 66.2; 2.8; 9.6; 311.5; 19.8	microgram STX diHCl equivalents per kilogram
+75016974-a972-491c-aa86-abebd713c048	ND		
+32dc4dad-2556-498f-aa6e-fc55c5b73e1e	STX		
+0efc8f9f-48eb-4c20-a760-aa7183eb10e5	ND		
+77634a88-d6ee-42f7-a632-3753462c0fa2	ND		
+1fcc64a6-c6dc-410c-91a5-0d1e5a4f57b3	ND		
+bbefb6b8-18b2-48fd-9943-ed28cd15132d	GTX4, GTX1, GTX3, GTX2, STX	89.4; 195.5; 12.9; 36.2; 0	nanogram per total cells
+45fd801e-2308-4c23-ae08-453b0d244324	GTX4, GTX1, GTX3, GTX2, STX	638.8; 1267.6; 87.8; 294.5; 192.8	nanogram per total cells
+f70381a8-ae6f-4115-932e-8f5165306ed0	GTX4, GTX1, GTX3, GTX2, STX	16.5; 34.6; 247.1; 601.3; 2642.8	nanogram per total cells
+8f8d939a-4f1b-45ec-85d2-b4940cf4d2c9	ND		
+20f0eea4-8ecc-48bd-a3f8-e3732c0e2ca4	ND		
+0369a13f-84e9-4ffa-a3cc-8ec5a22ce3af	ND		
+eb5fa4f1-f32b-41e8-8bc0-e71bba41582d	ND		
+96e7d115-5899-46f4-a0d6-a6929b8380c5	ND		
+cf782376-b8e1-4c80-9d7c-09dbb0c368fb	PSP	0.108	fentomol per cell
+97808aad-9624-4d29-bc8f-2363c38e82d7	PSP	109-284	microgram STXeq per 100 gram shellfish meat
+e299e41e-1788-4a8a-98d4-384b8816d775	PSP	816-1095	microgram STXeq per kilogram
+1bc2abb0-e32d-4e8f-9e58-4d19e47a14d2	PSP	876-1778	microgram STXeq per kilogram/ microgram STX diHCl equivalent per kilogram s.m.
+d0d72c8e-e5c5-4ed2-af6b-d1d2069c35de	PSP		
+0650f7d4-e6a0-494f-af08-bc000ee16cd5	PSP	>800	microgram STX equivalent per kilogram s.m.
+fa2ca8ba-b55f-434a-a099-8e1fb4a8d734	PSP	>800	microgram STX equivalent per kilogram s.m.
+dd8ab330-355b-4a82-9045-fd652110e4b1	PSP	0.02	fentomol per cell
+7632b774-6566-46e4-8344-cacac8206bb5	PSP	0.32	fentomol per cell
+ae1d161a-0606-40c7-91f9-9bb1ece1437a	PSP	503	microgram STX diHCl equivalent per kilogram shellfish meat
+6a462d82-7a66-4a70-ad1a-bee95a76b479	PSP	921	microgram STX diHCl equivalent per kilogram shellfish meat
+a6fae8ee-e378-48d0-89ab-cf736adb6d14	ND		
+135e036a-871b-4ff2-b090-34a3629239f8	ND		
+dac55105-2ad8-4686-ac53-86ae17dd394a	ND		
+896b272b-798f-41c9-af00-bac50bbc3f84	GTX1+GTX4; GTX2+GTX3; C1+C2; B1; B2; STX; NEO; dcSTX	5.8; 0.7; 2.3; 2.3; 0.63; 0.22; 0.09; 0.08	fentomol per cell
+bf4687c3-343b-48cf-b7e1-00e957500375	GTX1+GTX4; GTX2+GTX3; C1+C2; B1; B2; STX; NEO; dcSTX	8.4; 0.93; 5.3; 4.8; 0.93; 0.35; 0.17; 0.20	fentomol per cell
+529725b0-0b5d-4c7a-b172-7fabc8091b10	GTX4, GTX1, GTX2, GTX3	964; 17; 3; 2	fentogram per cell
+6cb79476-ff79-44c2-8187-cc1a5c4aed1f	ND		
+10cca72a-f259-4f83-aeac-2b4a4a7c29f0	PSP	182.2	microgram STX per 100 gram tissue on bivalve molluscs
+8cfc3748-24cf-4c70-9c42-8c6ecd6c462f	PSP	232.2	microgram STX per 100 gram tissue on bivalve molluscs
+a9ab28de-c248-49ef-935e-f476bc0469b0	ND		
+0d70404f-4d0d-417f-be5a-7bc93991ea11	ND		
+b3c7f74b-dc4e-46a5-9d77-c7e87681984f	dcSTX	64.959999999999994	microgram per kilogram
+01bf4e16-a10f-429b-a0ac-0e183ed290b4	dcSTX	8.68	microgram per kilogram
+a7cb7f20-1618-4f4d-b9fa-f36dd8e9a608	STX; GTX 2,3; dcSTX	1298.17; 300; 84.14	microgram per kilogram
+a24a3e3f-afd4-4660-9125-824b2778e818	Saxitoxin	1169	microgram STX per 100 gram tissue on bivalve molluscs
+7df1e3fb-9f47-440e-8234-892c812078e8	ND	1170	microgram STX per 100 gram tissue on bivalve molluscs
+0609b403-e23d-4e0c-96af-d79cb10e6631	Saxitoxin		
+46409fe2-86d6-40c9-b3e0-c84ebb856241	ND		
+895c8776-efe6-4850-adb0-a10952d3cd0f	ND		
+e8599578-bd98-4da5-9fee-2568abfeb84f	13-desMeC and Spirolid isomers	3.7	picogram per cell
+ed204a4a-f0be-4c48-b4f7-0c24d0f23db5	Spirolide		
+1f93491f-1855-4de7-ab0c-44950e98a675	C1; C2; dcGTX2; dcGTX3; GTX2; GTX3; GTX1; GTX4; GTX5; GTX6; dcSTX; STX; NEO	4.2; 26.1; 1.8; 2.4; 238.6; 159.7; 189.7; 45.8; 43.5; 1.5; 5.5; 127; 6.2	microgram STX diHCl equivalents per kilogram
+c5d66559-7874-4344-87b0-e615985d750f	C1; C2; C3; C4; dcGTX2; dcGTX3; GTX2; GTX3; GTX1; GTX4; GTX5; GTX6; doSTX; dcSTX; STX; NEO	141.4; 614.5; 8.9; 7.3; 47.8; 47.0; 1815.6; 1033.2; 4473.2; 1147.5; 830.6; 118.4; 0.3; 89.5; 11.2; 357.5; 107.6	microgram STX diHCl equivalents per kilogram
+4e0e5336-a7ba-46f4-85fa-3575b5ae4379	C1; C2; C3; C4; dcGTX2; dcGTX3; GTX2; GTX3; GTX1; GTX4; GTX5; GTX6; doSTX; dcSTX; STX; NEO	49.5; 287.2; 1; 0.5; 17.3; 18.4; 928.8; 773.5; 741.5; 214.0; 316.1; 17.4; 0.2; 83.5; 3.0; 528.4; 51.1	microgram STX diHCl equivalents per kilogram
+e6c38ecd-62c8-44e1-9070-fd534af3eb57	C1; C2; dcGTX2; dcGTX3; GTX2; GTX3; GTX1; GTX4; GTX5; GTX6; dcSTX; STX; NEO	6.3; 31.2; 1.7; 3.3; 315.2; 205.3; 435.0; 99.7; 66.2; 2.8; 9.6; 311.5; 19.8	microgram STX diHCl equivalents per kilogram
+5f97eda3-611c-454b-879a-917a846e3e63	PSP		
+08fce562-7a48-4a09-b47c-f8c1aa24686f	PSP		
+ff68f17a-1bd5-45c7-9909-fc9e3b6040c5	PSP		
+aeb99b20-c048-4ae6-89b7-429c1c5f01d6	GTX1,4,5		
+b7f3d3f7-c6b0-44d3-93a3-3e593b57c456	PSP	109-2840	microgram STX equivalents per kilogram / microgram STX diHCl equivalents per kilogram shellfish meat
+153202e5-f201-4f70-afb1-8f0b11c42c67	PSP	816-1095	microgram STX equivalents per kilogram / microgram STX diHCl equivalents per kilogram shellfish meat
+7deccbaf-c0c8-49d1-a070-a8db5889d1e5	PSP	876-1778	microgram STX equivalents per kilogram / microgram STX diHCl equivalents per kilogram shellfish meat
+2a09b95c-cc09-4628-af61-d4e26751cfa8	PSP		
+f9370e27-f410-40fe-8030-d82bda963bc3	PSP	0.219	fentomol per cell
+edddee06-cb4e-42db-b212-4750f5c1b1c4	PSP	1720/ 1529	microgram STX equivalents per kilogram / microgram STX diHCl equivalents per kilogram shellfish meat
+4ef6aaec-b64c-4ba5-b358-956decfc6521	PSP	921	microgram STX equivalents per kilogram / microgram STX diHCl equivalents per kilogram shellfish meat
+0a28629f-b68a-421d-8295-8950e823721f	GTX1+GTX4; GTX2+GTX3; C1+C2; B1; B2; STX; NEO; dcSTX	5.8; 0.7; 2.3; 2.3; 0.63; 0.22; 0.09; 0.08	fentomol per cell
+7f10e554-aecb-417d-99ec-d8b6076c6407	GTX1+GTX4; GTX2+GTX3; C1+C2; B1; B2; STX; NEO; dcSTX	8.4; 0.93; 5.3; 4.8; 0.93; 0.35; 0.17; 0.20	fentomol per cell
+7224178f-3deb-423f-8a85-4ce705eb34e4	PSP	ND	ND
+dc47bc02-a40a-4686-9ecb-021dcb182912	ND		
+04254978-f266-4238-80dd-37a88d48ef6a	ND		
+b72938c6-fe82-4e3c-be95-820305403f0b	ND		
+bb5ca459-d2a1-4230-83f8-e0fc9b58c8d5	ND		
+8db5760d-7be3-4f00-a31c-5ecacc3d733f	AZA-1		
+dfa16c68-30bc-42c4-a46b-ce073fdbf63d	AZA-40 & AZA-2	0.07	femtogram per cell
+e9c1339c-dbb2-4c8a-9f69-29dba12cb45f	AZA-40	9.6-30.2	femtogram per cell
+e31522cf-9680-417b-8011-79e75a302fe2	AZA-2	2.1–2.6	femtogram per cell
+cc185cee-e5a0-429c-a627-843b5d2dc79c	ND	ND	ND
+9095b651-fd40-4918-9fcd-82ad0ab1604b	ND	ND	ND
+20f49b4c-3359-4c92-94fb-b427ccae4f21	ND	ND	ND
+0a6ae91e-4246-4635-a859-fb0e2109b0f0	ND	ND	ND
+54f4b1cb-a4f7-4d9e-b5eb-b87974f4bccf	ND	ND	ND
+aea02186-1048-4bcc-a421-a5d56e6abc25	ND	ND	ND
+cafd3fd3-029e-4165-a6c4-f03af735f3f4	DSP		
+e6c9a899-2c2f-4238-b3e7-2c4c22bb2ab4	DSP		
+1b55fbc8-d71f-4123-8dbb-26076c507301	DSP		
+c61e46f3-81a5-4a08-898c-27fa2c984a01	DSP	4.37	mouse units
+f83e3c9b-95ac-49c4-acc1-0d0523591fb6	OA	205	microgram OA equivalents per kilogram shellfish meat
+f96b4dfe-dabb-49ba-b97d-cdf36c7a39f3	OA	1092	microgram OA equivalents per kilogram shellfish meat
+0f1a8d5d-dd28-461e-a6db-b69cfe8cb685	OA	1111	microgram OA equivalents per kilogram shellfish meat
+652fdf7d-7e33-4778-a24a-d309402d7483	OA	607	microgram OA equivalents per kilogram shellfish meat
+f1b14339-97a1-44d9-b599-a7ee31de511b	OA	168	microgram OA equivalents per kilogram shellfish meat
+02e6d017-a38f-46f3-9ff2-e60495c52b5d	OA	299	microgram OA equivalents per kilogram shellfish meat
+42f556d4-c766-4ac4-b202-77ed6b4cc903	DSP	1.3	microgram per gram of hepatopancreas
+9b2aefb5-7c39-46a7-9d5d-6182ee453640	DSP	3,18	mouse units
+6a3fc9e6-2938-4f54-bdb8-7ced3712e27c	DSP		
+b07744c8-63e9-4526-a777-2cf403c1a8f2	DSP		
+052d05b2-305c-49fc-9504-a4e025c354a9	DSP		
+240346c4-39ca-4378-828b-2d9e9b5407a1	DSP		
+734a7fdb-a6ae-48b8-b6b2-2b8bd4bd400e	DSP		
+c54b3dcf-a485-42de-9165-a6a0b48fba08	DSP		
+e4830953-5845-402b-9bda-87c0ac312b8d	DSP		
+54073f23-ca72-451e-b44c-86e065b3e0d3	DSP		
+66e53e73-8448-4c60-8e5e-c6dcac2c82ec	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	nd; nd; 0.009; 0.110; 0.010	microgram OA per kilogram ; miligram per kilogram
+2c006ea7-7723-43c5-898d-71fe226a36f4	DSP	nd	
+9a13f399-29ef-4463-99b6-d9ecf9a094fc	DSP		
+692d0220-db00-4ea9-b51b-567bcdb856b7	YTXs	205	microgram per kilogram
+6df6d8b7-0a28-4356-80dd-fd7915f02a22	DSP		
+9c49bb0e-6df7-49c0-97c6-e574b68406b1	ND	ND	ND
+a66e83c9-e4bb-4d1e-8b42-194f383d7232	OA	0.03-0.05	microgram OA per kilogram ; miligram per kilogram
+061fe1e1-2d45-46e8-9cad-0b44aec499a8	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	nd; 0.042; 0.024; 0.202; 0.045	microgram OA per kilogram ; miligram per kilogram
+a496f643-fc61-4ba1-acd0-80eaed74afe9	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	185; 0.041; 0.018; 0.144; 0.038	microgram OA per kilogram ; miligram per kilogram
+83fa585a-3790-49ac-8a76-ccc6e27109dc	OA; YTX	not reported	
+6f3c3679-c231-482c-9948-00880cc941dd	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	68; 0.056; nd; 0.035; 0.036	microgram OA per kilogram ; miligram per kilogram
+2a543fef-b399-42cc-8a64-6a697b5fc377	DSP	nd	
+3ab0d32d-a609-4bb4-8eb4-b3d2fedb5cbc	DSP	nd	
+9dd5a649-4661-4cbc-92ca-126f72de78d5	DSP	nd	
+4a8847ca-98cb-47c1-aa4e-d7825e61ffbb	DSP	4.37	mouse units.
+d006654a-41c3-45b1-bf5b-fc1f84d40cdb	Cytotoxicity	3.18	mouse units.
+8b0e91a3-ab17-405b-9ff7-5bcf9daf37b4	Cytotoxicity	3.18	mouse units
+a85f46f0-34b1-4a4f-9236-5ced2f79f541	YTXs	263	microgram per kilogram
+fd5e1475-0f45-4d4d-bb17-1add509ac394	DSP		
+73f7c270-9687-4136-b1c9-001c4c25a24a	DSP		
+4c774c02-fd41-4faf-aa57-70db99dc91e6	DSP	3.18	mouse units
+df43bd3e-a269-4b81-acdd-d25db90af8bf	DSP	4.37	mouse units
+c69506a0-c5a6-45f7-bb36-079b38e02915	DSP		
+7ecd03d1-5feb-4aa3-ae8b-726a715220ad	DSP		
+dc461803-25a9-4c1c-8e97-e182fe9df77a	OA	0.03-0.05	microgram OA per kilogram ; miligram per kilogram
+a81b92bb-2b0d-4c9f-9923-8f505d70f11d	DSP	nd	
+b03f77df-b37b-41e1-9425-1cb240841094	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	185 ; 0.202	microgram OA per kilogram ; miligram per kilogram
+cce23bf3-70fc-44b2-b907-25a3eaa5e556	DSP	nd	
+13904ac6-2ab6-40ed-a53c-36a922ec52d0	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	68; 0.056; nd; 0.035; 0.036	microgram OA per kilogram ; miligram per kilogram
+fc5cb72c-16b9-42d3-b4ce-99c69ae1a60b	DSP	nd	
+a4756153-c3e6-4796-bbf6-6d3616d24c7c	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	nd; nd; 0.009; 0.110; 0.010	
+918ad450-ca0b-4043-983b-f2ed4541863c	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	nd; nd; 0.009; 0.110; 0.010	
+ba7673ee-9e4c-4011-9c91-2a78aea28fde	DSP	nd	
+25b94677-6fc4-4a32-ae66-d447cf83e739	DSP	nd	
+81754b27-e099-4337-8fa2-532cec75043a	OA	1200	microgram OA per equivalent kilogram
+f4eed5df-e229-4a3f-8163-6c14a5b3f973	DSP		
+7b40dc1e-b09b-43cb-99ac-3b6a4b901138	DSP		
+c6a45393-209a-4012-983d-7a7b4affb727	YTXs	263	microgram per kilogram
+bb19bc70-6421-4ba9-93ae-d11c814570c7	OAs	291	microgram per kilogram
+f73d9eaf-ab35-466a-b7c7-bdaba3b5d9a3	OA	21	microgram
+b0437b4a-4849-49d0-95a9-05f2210edacd	OA	1092	microgram OA equivalents per kilogram shellfish meat
+68b4b451-203a-41ca-b234-e7ca5d3cb3d8	OA	1111	microgram OA equivalents per kilogram shellfish meat
+6cf70996-7fc0-4977-839e-2639b62e91c5	OA	607	microgram OA equivalents per kilogram shellfish meat
+0c11c20b-0875-4465-8291-ae0f46724b51	DSP	4.37	mouse units
+2576ac83-1494-4282-a76f-f33b091cd002	DSP		
+3fa45d59-aac2-4018-ab69-8532028d42b0	DSP	3.18	mouse units
+7c24131c-37e7-4bf5-90b0-f945cce4a6ca	OA, PTX2	2-461, 1-668, 592	picogram OA per cell, picogram PTX2 per cell, microgram per kilogram mussel tissue
+cb2af440-5d61-4257-af4b-71042dd4175b	OA, PTX2	2-461, 1-668, 592	picogram OA per cell, picogram PTX2 per cell, microgram per kilogram mussel tissue
+cece0183-9f7b-4619-8186-6e80b8a4f2bc	OA, PTX2	2-461, 1-668, 592	picogram OA per cell, picogram PTX2 per cell, microgram per kilogram mussel tissue
+a787964d-f3f9-47eb-90c4-09c77a2043a6	OA	8.4	picogram OA per cell
+352c9924-4724-4754-8afa-d7845176206a	OA	8.4	picogram OA per cell
+9ee24d8a-f97d-498f-b53e-45097116b10f	DSP		
+3cd367f5-6648-451c-a52c-afd2f183297c	DSP		
+f4e24402-0fd9-4f59-bc40-d63571c93800	DSP		
+5332cbc6-eeda-4a86-893f-3bc0d8c3dd95	DSP		
+679598b2-9c32-46a9-84ae-26c6b7c8f55d	OA	0.03-0.05	microgram OA per kilogramg ; miligram per kilogram
+3b52c809-ba55-4727-9865-37228bdf9f5c	DSP	nd	
+0b82f86a-b5f4-43eb-bf79-6575e0bd92c5	DSP	nd	
+3805f254-8d3d-4256-a184-9d88d19ee391	DSP	nd	
+cca10375-a9ea-45b6-8ec4-d422a0256bf8	DSP	nd	
+60a95f94-afd5-469a-ba2c-d1657a742499	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	nd; nd; 0.009; 0.110; 0.010	microgram OA per kilogramg ; miligram per kilogram
+ec5471fa-5489-4e83-aac2-457b8c442410	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	nd; nd; 0.009; 0.110; 0.010	microgram OA per kilogramg ; miligram per kilogram
+375cfbf7-c884-4432-b30a-4f74f7b08bfe	DSP	nd	
+fbe761c0-2807-460e-a5de-217cf1159ac9	DSP	nd	
+5827a03a-63f4-4d3b-818e-3011e506a643	DSP	nd	
+408f2d25-cc31-4db4-89a6-c98b69f38a2a	DSP		
+908f4ca7-57eb-496b-9559-4cbbd02cd95a	OA; DTX-1	50; 18.2	nanogram toxin per gram mussel
+edfcf77a-0292-45dd-990a-bf853bcd72fd	ND	ND	ND
+9c261044-857f-44a3-8bf7-b851e2774cac	ND	ND	ND
+a8395dba-bd8c-4b2b-a1e3-365172b690a6	DSP		
+a1cdca7c-5125-400b-812c-7aa5b2af2f64	DSP	4.06 - 2.78	mouse units
+6f8f0aba-2f96-4e5f-b931-7b21914e5209	DSP		
+c963d3b0-110d-415d-84f7-eb62cf051f03	DSP		
+14a10cf6-7a36-4a15-8aee-b7777539ffa1	DSP		
+afe42f03-bb27-4545-a167-45cf51d2e52e	YTX and derivatives		
+f41a7454-4c8a-49a1-8923-56bd27121880	YTX and derivatives		
+7ccd1453-bddf-4989-a792-3a92d961ca64	YTX and derivatives		
+69b8ea63-7e80-4a5b-92bd-ddb9d292d6e9	YTX and derivatives	>20	miligram per Kilogram shellfish meat
+8cb4febf-f9d6-4255-9980-ee19784cffd2	YTX	9.6199999999999992	miligram per Kilogram shellfish meat
+6f127e12-e189-4684-b6d6-7cc0b5caafde	homoYTX	8.6	picogram homoYTX per cell
+b361f696-94d2-4792-aa90-6b4525111b83	PSP	7614	mouse units per 100 gram of meat
+15ea0050-22f1-423e-bb84-51aab141ac3c	STX	20	micrograms of STX equivalent per 100 grams
+66b1c859-674d-47f2-b1a6-06cafa70e281	STX	180	micrograms of STX equivalent per 100 grams
+681db51d-5805-4e62-97bf-e659a887a7d1	STX	40	micrograms of STX equivalent per 100 grams
+b697692c-e426-47b8-8dd3-278e4b0a3e17	STX	200	micrograms of STX equivalent per 100 grams
+809e5729-6287-4e2a-8e8c-483b623c0168	STX	180	micrograms of STX equivalent per 100 grams
+79789f88-60d2-4826-94ee-d7be2e7a8b91	PSP	800	microgram equivalent STX per 100 grams
+b320c82b-9b11-4e34-bddb-5fdca05cee08	de-STX (65% weight)	ND	ND
+699d4f6f-4172-467c-b08f-45806bed1059	C-Toxins (46%), GTX2 (38%)	ND	ND
+209e42ba-71c4-4727-a8e6-6640b0ffe774	ND		
+c7d7bb37-9429-4a66-b1a5-389ee0006d90	ND	1.34	microgram per gram meat
+f1e30d32-f498-473b-938f-43ced910bd20	Ichthyotoxic and allelopathic	1.02	microgram per gram meat
+c5da8813-86a7-4641-a7e6-f85aced4ed1f	ND	ND	ND
+84433439-4296-455b-a0c4-699d79e8fb5b	GYM	1.044 to 2.136	microgram GYM per kilogram
+ea140925-fbd6-410c-bb88-afd03a7002ac	GYM	1.044 to 2.136	microgram GYM per kilogram
+83eec965-ca4b-4521-b95f-5f3d8bb2ffed	GYM	1.044 to 2.136	microgram GYM per kilogram
+c7e6bf56-2b59-493c-9b72-7668f7d3c555	YTXs	479	microgram per kilogram
+1e684071-224a-41b5-879a-9ca0b61ec845	YTXs	127	microgram per kilogram
+8d0549da-427b-48ff-8d5f-f16366ea2af4	YTXs	137	microgram per kilogram
+f4e57a48-c1ed-4ca2-933d-682d486b3cb0	ND		
+0962e8f2-418a-4230-8bd8-e0f2330996fc	ND		
+52d91d78-ce0f-4b69-88b2-f9e79ab4290c	ND		
+d1389b99-0b39-4e7f-b780-c1f021ff160a	ND		
+6cead01d-622d-4dc4-8ec2-fe4db734c848	ND		
+91ea6835-4a01-4472-a13b-e1e027a606f7	ND		
+a413cb33-ce4f-4786-8225-b5e8e6dd1c1a	ND		
+de3112d1-d209-4215-8bfb-f8b7754d0dc7	STX	0.66600000000000004	microgram per mililiter
+0f480e43-dd0f-4036-a127-dd0245af156a	ND		
+b202f9bd-f2f8-4b2a-a0f6-1039911274d8	ND		
+40cb001f-7be0-4baf-86b5-3b66fddff018	ND		
+4fd1c8b4-4a40-459c-bfaa-f868d6f6ecdd	ND		
+af7c4b3c-1554-450a-9bcc-cd92ca4b873e	ND		
+e76d02e0-5d83-41f6-a79a-39bd3ab6d1dd	ND		
+2c13e8cf-9e3d-43ab-ad4e-e08a336d811a	ND		
+44750488-3d11-4376-bddb-59dce39c92a8	ND		
+5c29531c-4995-4bde-9851-6046a26d3e7f	ND		
+b7eddcc2-4d75-47f7-b6c1-63e3119d2a3d	ND		
+976468e4-c1ad-481d-a906-a495afdcd7aa	ND		
+4c5888ee-ab34-421d-b072-800032bab50e	ND		
+6ed52406-d43e-4285-a905-5b40bdc5c722	DSP	nd	
+e4604aa0-5bcd-4712-b23f-aabef459f3f2	OA; YTX	nd	
+7d4df715-4cc8-4d89-8466-afd9d4b62ccd	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	68; 0.056; nd; 0.035; 0.036	microgram OA per kilogramg ; miligram per kilogram
+4d957244-f84b-44a0-8831-57bbe323d024	DSP	nd	
+56cd0069-dfce-4886-8ebd-29cb541e9cb2	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	nd; nd; 0.009; 0.110; 0.010	
+f2432ad1-a7fa-4efa-85d8-cc91f3dd78a0	DSP	nd	
+f2e352b8-371c-4fe1-b737-f1beb8e171d3	DSP		
+509761d7-a537-45e7-9173-b086fe27dabe	OA; DTX-1	60; 18.2	nanogram OA per gram of mussel: nanogram DTX-1 per gram of mussel
+8d77e11b-b76e-4c63-b94d-7560a6020deb	PSP	trace level	
+2ec119d6-c00e-4796-93c7-ebeb978382dd	PSP		
+ea27e9ad-3648-4134-8d70-b5e45f57895d	YTX		
+6c81d17f-bfb2-47b1-ac11-c8e86a59ad42	YTX		
+eb5afd37-0558-4d41-99ef-2ca43e620dfa	YTX		
+59777c59-500e-4dee-997e-ae7fab654d33	YTX		
+37c1d5a7-faf9-41e9-a677-3fba71076f22	YTX and derivatives		
+535f7765-8868-4d0c-8482-c64ecaebdf72	YTX and derivatives		
+b3cdb693-145b-4165-9b2a-603c5e02ff07	YTX and derivatives		
+2c59dabe-03af-45bd-8c6c-9bea4f28f0b8	YTX and derivatives		
+3670c4f9-df6d-45d9-80e5-b170ecb52868	DSP		
+a631cff5-971b-40c0-8fd3-560e2bf0da25	homoyessotoxin		
+1c6e1341-8557-4915-a2dc-451e0993293b	DA	0.23 to 1.04	microgram per gram
+c4ddcee5-6b54-4f8a-ac17-43393497724a	DA	0.23 to 1.04	microgram per gram
+bd1f72aa-e62b-49a7-a8fa-e50ed5616e55	OVTX-a; OVTX-b; OVTX-c; OVTX-d; OVTX-e; pPlTX	143801; 82779; 7148; 61942; 5722; 3707	nanograms in the whole sample
+0b4bdc96-0831-450d-a6fc-2af93dd56b95	PLT; OVT-a; OVT-b; OVT-c; OVT-d+e	nd; 49; 15; nd; 11	picogram per cell
+d7c01d3d-2399-4e02-b73d-04e823ef7f39	PLT; OVT-a; OVT-b; OVT-c; OVT-d+e	0.3; 8; 2; 0.4; 3	picogram per cell
+e694aca5-635d-417f-9258-bef1bc01242b	c-PLT	0.43±0.165	picogram per cell
+b356e59a-8088-4a75-9c1f-e8cd80eeb9e1	c-PLT	0.45±0.147	picogram per cell
+41909690-0c6e-4d65-9c20-9eace84dda1f	Ovatoxin-a (90%) and PLTX (10%). Ovatoxin-b, -c, -d, -e, were not monitored		
+67bb876a-4cbd-4bbb-b2c7-8e1631929bd3	Ovatoxin-a (90%) and PLTX (10%). Ovatoxin-b, -c, -d, -e, were not monitored		
+7a173a45-b6ef-4f2c-95b9-7cd83c3602b3	Palytoxin		
+c6e46174-129e-4053-a937-9bfef6ad9018	OVTX-a and pPLTX	32.27; 1.9	picogram per cell
+80c29cde-dcdd-40d9-b039-fb76b9d888c7	OVTX-a and pPLTX	42.2; 3.6	picogram per cell
+ed94eda3-e4e7-4439-8ce6-619031ffc5dc	OVTX-a	82 - 625	microgram per Kilogram shellfish meat
+e71b1b4e-5cab-4be5-92e5-ad4c8f964674	OVTX-a; PLTX; Ostreocin-d	8000; 2700; 100	nanogram
+bafac35e-6eb2-4bd9-8b52-c30c5bd1b3f4	OVTX-a ; OVTX-b ; OVTX-c ; OVTX-d+e ; IsobaricPLTX	3.6; 1.3; 0.2; 1.1; 0.1	picogram per cell
+dfd6b8da-ee71-49a7-abb8-59fc3928b483	OVTx-a	2.625	nanogram
+d602a9c3-4c90-4b2f-b9b3-8ad665fc159c	OVTX-a ; OVTX-b ; OVTX-c ; OVTX-d+e ; PLTX	32 ; 15 ; 3 ; 8 ; 0.3	picogram per cell
+9b106bdd-e33a-4959-b3b8-703445a31bd0	ND		
+b5d6fddf-6fa4-48df-ac02-b8a45ce910d3	ND		
+60f269ca-c956-46aa-944c-1a4869d1a3f4	ND		
+af32afc0-2dc1-406a-af0d-9b07ef67ed60	Ciguatoxins and DSP	0-2	
+49c1e5e8-2b98-4458-8190-48121225b828	Ciguatoxins and DSP	0-2	
+e123e79f-04bb-49ab-a30c-b448e5eb5c61	ND		
+58513219-e8a8-446c-b9b8-b597790e3364	Ciguatoxins and DSP		
+454bf79f-8148-419d-9f68-5619655d6d54	ND		
+bd02fbb5-ecf4-4adb-b05e-f87fa60e2c6d	ND		
+78c7c2b6-bc68-4a30-89dc-95721825958f	ND		
+54d35517-c539-46ce-97ea-e4105acaf100	ND		
+5a7d40d6-1805-4552-a961-2fbc0e115ecf	ND		
+01dc4ca2-667a-4428-9ff2-a24fada1c4d9	ND	ND	ND
+620e7255-f8ee-45df-af83-22bf1e9dbc5f	OVTX-a, OVTX-d, OVTX-e, OVTX-i, OVTX-j1, OVTX-j2, OVTX-k	0.06–2.8	picogram per cell
+f75f7e58-c5e6-4dcd-b163-285942ca04c3	OVTX-a, -d, -e	0.28-0.94	picogram per cell
+be775d3a-1fde-4e72-8d43-4c66cc2af966	OVTX-a, OVTX-d, OVTX-e, isobPLTX, OVTX-i, OVTX-j1, OVTX-j2 and OVTX-k		
+91659e28-57f8-4d6d-9f0b-26f8bbe9709a	OA; COOHYTX; 45-OHYTX; YTX; homnoYTX	nd; nd; 0.009; 0.110; 0.010	
+5b9a3fab-600a-4066-a6c1-cc85fec0e6c9	DSP	nd	
+6dd9c2a2-ab35-45b3-8ff5-904defaca587	OA ; YTX ; PTX	362 ; nd ; nd	microgram per kilogram
+bdf604a5-d24e-4dd1-ad6d-3536a79785c4	Fast acting toxins, Neurotoxins		
+36f89755-4126-44fb-bd72-605ea561c09b	ND		
+4f0fab51-79d8-4053-94c2-01fbf465dc7d	ND		
+1e3f740d-75bc-4c54-b436-837700230ca1	ND		
+bf324388-2a3b-4f41-8bc1-4d14e952a37d	ND		
+9d570738-d2d5-4593-9774-9850acd5ae9c	ND		
+111b9073-402b-48c8-939c-e7bd15f8fbee	ND		
+0fb8e175-84cc-4e5a-9ea7-8a518aacbe69	Ciguatoxins and DSP		
+7a096eaa-ecc5-4a85-bef5-30623427335d	OVTX-a; OVTX-b; OVTX-c; OVTX-d; OVTX-e; pPlTX	143801; 82779; 7148; 61942; 5722; 3707	nanograms in the whole sample
+ec96bf36-be1e-4858-8d3b-94b8bf385f13	OA		
+a1c693ed-b278-4d53-8801-3daa441a3f22	OA		
+793b897b-a6b8-4f9e-8a3f-a35bc5ccefc5	OA		
+7cd5bcb2-ef6f-4e06-93bb-32599bf4fc9e	OA		
+9a2a14f2-2da7-4bbf-892c-020427bfe673	OA		
+cc4751f6-f15f-4733-89d0-fbb8906ba213	OA		
+0e434e6f-6a9d-4763-af48-8031a5a49934	OA		
+217f52b9-9f76-451a-96f3-e7a5edd87265	OA; DTX1; DTX2; DTX4; DTX6	6.7-8.4; 0.12; trace; trace; trace	picogram per cell
+e8f94b6b-2cfc-42e5-965a-e7667aafa94c	Ciguatoxins and DSP		
+c7c5e623-d8ca-4112-9b88-852f388487ab	Homoyessotoxin (YTX)		
+5655ba47-d145-4a43-867d-4aca274ae88b	YTX	4.5-65.0	picogram per cell
+3f3d619a-fd3b-41a5-97f4-a7830136704b	YTX		
+bf82fa03-06c3-4207-ae6c-87ed7609682f	YTX		
+cbc185a5-34fd-4198-bfac-b5b41f95f5b6	YTX		
+2b29b168-403c-44a2-9e9e-1e7ed06b4099	YTX		
+11a9c3f5-40b9-46b6-a295-9a273538839a	YTX and derivatives		
+234d3839-b383-4d74-8af9-d43e1f629f45	YTX and derivatives		
+04ce2bdd-348a-4234-89e4-f53c56690539	YTX and derivatives		
+6e49c105-bdca-482a-9748-98697ee4b6dd	YTX and derivatives		
+7270b5dc-9258-44f0-81fb-97c70e978d4e	DA	3.24	picogram per gram
+27795444-8fb3-4a1a-903c-6b8b69fcf98e	Domoic Acid	9.8-11.6	nanogram per mililitre
+873d5234-c129-48c5-858d-d409907f9ba2	Domoic Acid	7.5-9.5	fentogram per cell
+1aa798eb-4522-4649-b888-9fc4835fdb7a	ND		
+d1127351-5632-4cc9-acce-b3b1acf35331	Domoic Acid		
+38838ae4-cd8c-4d56-9dd4-8d6ff01389eb	Domoic Acid	11.4	nanogram per mililitre
+bdd4d61c-b9e0-4806-9e72-1f7d4bdf411f	Domoic Acid	8.93	fentogram per cell
+b8de16f6-cd03-4958-b547-dc06929671a6	Domoic Acid	< 50	picogram per mililiter
+0fec534e-3fab-4a75-8c28-4f3549f8e86e	Domoic Acid		
+30e433b9-e99e-41fc-b718-77fdca732919	Domoic Acid	0.13 - 0.45	microgram per gram of shellfish tissue
+115c8267-fbd0-46bc-b1d9-22524ab846ed	Domoic Acid	0.13 - 0.45	microgram per gram of shellfish tissue
+9cee04c1-973f-4ae7-bd2f-70bdae3e18c4	Domoic Acid	0.13 - 0.45	microgram per gram of shellfish tissue
+323465ce-3c42-4121-a4b4-ec098ed59baa	Domoic Acid	0.13 - 0.45	microgram per gram of shellfish tissue
+e36f3d22-0da6-471e-b491-ddf973be70b3	Domoic Acid	0.13 - 0.45	microgram per gram of shellfish tissue
+cfb58e73-6899-4e06-8223-c432b8c6d192	Domoic Acid	0.13 - 0.45	microgram per gram of shellfish tissue
+e85021ef-4c50-4c34-b740-a88a6c659ef0	Domoic Acid	0.13 - 0.45	microgram per gram of shellfish tissue
+a9771c97-5847-4b0d-9b83-2efc849e631e	Domoic Acid		
+ee84332f-3d50-4426-9cd5-280197e847e0	Domoic Acid	149.1	nanogram per mililitre
+ad8b6f62-06d9-4939-a79e-80b4627bebad	Domoic Acid	0.44 µg particulate DA per litre	
+d4d49fd3-dc01-49be-936a-a391359a3803	Domoic Acid	3.24	picogram per gram
+e13009a0-46e4-4ed2-93e9-b78a83bc9d50	Domoic Acid	< 50	picogram per mililiter
+148ce38d-5db7-483f-a4b3-62d855e7a04f	Domoic Acid	ND	
+c6d9d6ce-af49-4c26-92a4-4424192a3c2e	Domoic Acid	6.3E-2	fentogram per cell
+e737c5e1-7200-44cf-904a-2ac1740d9f7a	Domoic Acid	0.3	picogram per gram
+b7c19c5e-c9cd-4eff-86c6-9f7e3d168147	Domoic Acid	nd	
+36322e48-ac0f-420a-95be-0028e50c028a	Domoic Acid	ND	
+002977b4-3be7-423f-bdf0-fd1712b6b768	Domoic Acid	3.6000000000000002E-4	picogram per cell
+6b12eba1-b740-4c7d-97c9-da0fa11097f5	Domoic acid		
+2a0db26b-2623-4ed2-b766-062c389f007f	Domoic Acid	7.29	nanogram of Domoic Acid per litre
+b9a79f4b-ced3-4a5a-8f2d-780be37b2bac	Domoic Acid		
+4c970dda-9060-433c-81f1-a74b3985c78c	Domoic Acid	0.69699999999999995	picogram per cell
+d8f6fde5-de82-4582-8f92-ed1acc42a153	Domoic Acid	0.003-0.010	picogram per cell
+89bd11cf-825a-497e-a397-3545e14665b9	Domoic Acid	-	trace levels in mussels
+c32efc1e-d588-4a1b-a385-d649073ff167	Domoic Acid	nd	
+a0e4f4d4-cb59-46b2-8838-9e8a27a96ff6	Domoic Acid	0.92-3.08	nanogram per mililitre
+971063ed-ce8e-4ad3-8b40-457b999a84d0	Domoic Acid	1.68	nanogram per mililitre
+a788f234-4240-46e2-90d2-0cd539644061	Domoic Acid		
+09c40640-32f1-4936-9c42-080d6846c9e1	Domoic Acid	3.18	nanogram per mililitre
+b661b380-0699-4bbb-bf71-b75544a05eb4	Domoic Acid	ND	
+7e2241c2-c623-4a05-9290-5af2a106390a	Domoic Acid	ND	
+e2bd19bd-3bfd-4448-b95e-4b0e3b9ca94f	Domoic Acid	ND	
+fe36409a-d283-499f-9d93-89b3a8d0b73c	Domoic Acid	ND	
+bd895d77-7543-4e58-80f9-6c1fed65b32d	Domoic Acid	3.24	picogram per gram
+a15f0531-8fde-4be4-b3ea-6a0e2e7fd7fb	ND	ND	
+b7fe4149-1836-424a-a2bb-9256f5199809	Domoic Acid		
+a911ab4c-d017-40cf-9f95-1327a9a0095a	Domoic Acid	ND	
+c9e38df1-02da-4b00-8d47-62e1cf8b7ae7	Domoic acid	0.22	microgram of particulate Domoic Acid per litre
+12204174-fc27-4d1f-ab0d-97b7c9dc4613	quantity	5500000	cells per litre
+d5fde9d5-fc69-416f-b37e-a84e46ee48de	quantity	40000000	cells per litre
+ea1404a1-8ab9-4d32-b95f-6b39e3c0e022	quantity	ND	
+616617ff-f929-4124-a916-43d5e5ab95fc	quantity	ND	
+5d593d8a-5bd8-44f1-ab7a-9d55dd12462f	quantity	4752	cells per litre
+41c013fa-c361-48c8-abd9-a850e3a3ffc0	quantity	5950	cells per litre
+4800faeb-0c0e-4d61-827e-69e8e839e326	quantity	800	cells per litre
+ebac52bf-5aab-401a-be93-8c5876946645	quantity	410000	cells per litre
+e04a2de0-3b79-4108-99b6-54e6a7aa4df0	quantity	1000000	cells per litre
+29945021-926b-48cd-ab3a-ad1b2844f30e	quantity	33400000	cells per litre
+104241f6-956f-42aa-b967-209a87e214aa	quantity	28000000	cells per litre
+4797519f-1230-48fc-a50f-93304b813083	quantity	200000	cells per litre
+09d66977-9936-4395-8002-50af11c9ef67	quantity	7000	cells per litre
+6c67dbe9-acc1-4724-914c-1a185568fae3	quantity	560000	cells per litre
+7af619dd-499f-43a1-8858-c0c4b35f6ff9	quantity	150000	cells per litre
+3f65533a-4adc-47bb-aa4d-4f6322d18e91	quantity	2700	cells per litre
+75016974-a972-491c-aa86-abebd713c048	quantity	110000	cells per litre
+32dc4dad-2556-498f-aa6e-fc55c5b73e1e	quantity	45000000	cells per litre
+0efc8f9f-48eb-4c20-a760-aa7183eb10e5	quantity	ND	
+77634a88-d6ee-42f7-a632-3753462c0fa2	quantity	ND	
+1fcc64a6-c6dc-410c-91a5-0d1e5a4f57b3	quantity	20000000	cells per litre
+4bfca641-70d6-4f00-8f10-43af910a1f65	quantity	47000000	cells per litre
+bbefb6b8-18b2-48fd-9943-ed28cd15132d	quantity	4600000	cells per litre
+45fd801e-2308-4c23-ae08-453b0d244324	quantity	1200000	cells per litre
+f70381a8-ae6f-4115-932e-8f5165306ed0	quantity	6700000	cells per litre
+86fe4839-8602-4e1d-83ee-6ca054b48da6	quantity	26000000	cells per litre
+00c3e4b5-40c0-462f-a808-2f9e6f3db313	quantity	ND	
+8f8d939a-4f1b-45ec-85d2-b4940cf4d2c9	quantity	ND	
+fc941a51-a5e1-4cff-b05d-8a128cebe232	quantity	73000	cells per litre
+17e37401-8f27-4069-b524-fd85e3752990	quantity	<20	cells per litre
+c0408dff-cbc7-4188-8228-6c88e71773bd	quantity	22000	cells per litre
+701d21d4-ffbd-4463-b8a9-c66ca68dd86b	quantity	5700	cells per litre
+579161d4-2521-4ae5-82e5-6dd90b713470	quantity	210000	cells per litre
+6028710d-838c-4523-92ab-0649cdd9f69f	quantity	5600	cells per litre
+a52f7b52-71b8-4d57-b7d7-ad078eb73dd7	quantity	9100	cells per litre
+4e78f09a-40c3-4645-aee9-3ce680d6ff2e	quantity	1000000	cells per litre
+20f0eea4-8ecc-48bd-a3f8-e3732c0e2ca4	quantity	ND	
+0369a13f-84e9-4ffa-a3cc-8ec5a22ce3af	quantity	ND	
+eb5fa4f1-f32b-41e8-8bc0-e71bba41582d	quantity	ND	
+96e7d115-5899-46f4-a0d6-a6929b8380c5	quantity	1700000	cells per litre
+d8c11a62-4649-4e67-be9f-d9fbba0004eb	quantity	24400000	cells per litre
+96290703-eecf-4b21-b36b-7a42bd07d056	quantity	8645	cells per litre
+ba96cd72-9dc9-4461-934b-88807ef78c9f	quantity	600	cells per litre
+97808aad-9624-4d29-bc8f-2363c38e82d7	quantity	103-613	cells per litre
+e299e41e-1788-4a8a-98d4-384b8816d775	quantity	100-4060	cells per litre
+1bc2abb0-e32d-4e8f-9e58-4d19e47a14d2	quantity	20-120	cells per litre
+f0529899-871d-4231-8504-4fe39075ac8c	quantity	ND	
+ae1d161a-0606-40c7-91f9-9bb1ece1437a	quantity	480	cells per litre
+a6fae8ee-e378-48d0-89ab-cf736adb6d14	quantity	ND	
+135e036a-871b-4ff2-b090-34a3629239f8	quantity	ND	
+dac55105-2ad8-4686-ac53-86ae17dd394a	quantity	ND	
+53234fa3-1513-4335-b50a-3fdb3486cb62	quantity	1000	cells per litre
+7c91130e-0a1f-4f89-972b-eb2b3c2173d9	quantity	2700	cells per litre
+d2ce2f56-01f8-4b60-a20a-7e1cbed02bd7	quantity	30000	cells per litre
+f4fe0c71-d2b8-4164-8af6-8db5f0a42c48	quantity	1000000	cells per litre
+e2a08313-bb98-4ad2-9201-a8ac1a797f74	quantity	18000	cells per litre
+896b272b-798f-41c9-af00-bac50bbc3f84	quantity	7220000	cells per litre
+bf4687c3-343b-48cf-b7e1-00e957500375	quantity	1010000	cells per litre
+14a97a7e-3176-4101-8a8f-f41afb75b675	quantity	ND	
+b7133402-95d7-428e-b953-588e3169cb9a	quantity	ND	
+4e144fe7-f953-4c28-a5e4-644abd27d774	quantity	58000	cells per litre
+226eb5bc-8e3a-4e3b-bf55-c2a283fd80fe	quantity	134000	cells per litre
+ac753e36-5709-485b-99ff-62614f11d547	quantity	72000	cells per litre
+f90ee047-5b92-4fcc-9f7d-fe9b46420055	quantity	0	cells per litre
+eabf6c65-b366-4952-94e0-7db9a81867e6	quantity	207000	cells per litre
+a07d2cef-1ba8-47c2-843b-8efebfc58c79	quantity	958	cells per litre
+6cb79476-ff79-44c2-8187-cc1a5c4aed1f	quantity	5000	cells per litre
+10cca72a-f259-4f83-aeac-2b4a4a7c29f0	quantity	260000	cells per litre
+8cfc3748-24cf-4c70-9c42-8c6ecd6c462f	quantity	10000	cells per litre
+a9ab28de-c248-49ef-935e-f476bc0469b0	quantity	ND	
+0d70404f-4d0d-417f-be5a-7bc93991ea11	quantity	7000	cells per litre
+a24a3e3f-afd4-4660-9125-824b2778e818	quantity	690000	cells per litre
+7df1e3fb-9f47-440e-8234-892c812078e8	quantity	ND	
+0609b403-e23d-4e0c-96af-d79cb10e6631	quantity	>10000	cells per litre
+46409fe2-86d6-40c9-b3e0-c84ebb856241	quantity	>1000000	cells per litre
+895c8776-efe6-4850-adb0-a10952d3cd0f	quantity	6000000	cells per litre
+e8599578-bd98-4da5-9fee-2568abfeb84f	quantity	49000000	cells per litre
+aa22fea9-2164-48bb-9556-f160278d59aa	quantity	18200	cells per litre
+ed204a4a-f0be-4c48-b4f7-0c24d0f23db5	quantity	6700	cells per litre
+de4d938c-9106-480a-b84d-4dbdc4e0073d	quantity	26500000	cells per litre
+02142df7-e0fa-4477-9c7d-ccfcd2a20ef3	quantity	9100	cells per litre
+1f93491f-1855-4de7-ab0c-44950e98a675	quantity	180000	cells per litre
+c5d66559-7874-4344-87b0-e615985d750f	quantity	63000	cells per litre
+4e0e5336-a7ba-46f4-85fa-3575b5ae4379	quantity	6000000	cells per litre
+e6c38ecd-62c8-44e1-9070-fd534af3eb57	quantity	170000	cells per litre
+c1b1b6a4-f6c5-4cf7-bbcc-dd7bd69fade9	quantity	90000	cells per litre
+d936aa58-c2d3-4509-b4dd-e177f661a46d	quantity	4400	cells per litre
+74cc27d3-9390-4267-a4c8-b818480a8cad	quantity	2000000	cells per litre
+58562fe2-1202-4571-97bb-4a36cc709c80	quantity	2200	cells per litre
+b7f3d3f7-c6b0-44d3-93a3-3e593b57c456	quantity	43-3728	cells per litre
+153202e5-f201-4f70-afb1-8f0b11c42c67	quantity	100-4060	cells per litre
+7deccbaf-c0c8-49d1-a070-a8db5889d1e5	quantity	20-40	cells per litre
+9a587c75-4c95-412a-8288-f845ba809e10	quantity	10700	cells per litre
+edddee06-cb4e-42db-b212-4750f5c1b1c4	quantity	2240	cells per litre
+ddc068f5-e66d-4c73-b700-675edec8863e	quantity	34700	cells per litre
+0a28629f-b68a-421d-8295-8950e823721f	quantity	7150000	cells per litre
+2b809a9f-e55c-4a6a-b69f-ca6e6c56bb67	quantity	1760000	cells per litre
+7f10e554-aecb-417d-99ec-d8b6076c6407	quantity	980000	cells per litre
+35097ad8-5b60-49d9-a1b0-2ce0c82ca09b	quantity	2187	cells per litre
+5ff8d260-6fc7-4392-bf9d-a186f7f97fc9	quantity	1458	cells per litre
+31640b06-1a0a-4469-8730-b52ab15c7f78	quantity	1458	cells per litre
+8c2203ec-fc1e-44ec-9425-59b93ca75218	quantity	10000	cells per litre
+7224178f-3deb-423f-8a85-4ce705eb34e4	quantity	650000	cells per litre
+dc47bc02-a40a-4686-9ecb-021dcb182912	quantity	> 10000	cells per litre
+52137d32-9d30-4d25-8632-128a9efbf932	quantity	19000000	cells per litre
+4281a8a3-5cba-4a5e-8231-90845076f5d1	quantity	6000000	cells per litre
+04254978-f266-4238-80dd-37a88d48ef6a	quantity	1000000 - 10000000	cells per litre
+b72938c6-fe82-4e3c-be95-820305403f0b	quantity	1000000 - 100000000	cells per litre
+d59412fa-6c30-4c4a-93d1-c85441dff725	quantity	7000000	cells per litre
+d542d7d8-7b36-4def-9173-8397264c4d34	quantity	2000000	cells per litre
+1df6ec50-3fb0-40ce-954a-77593528b74b	quantity	2000000	cells per litre
+eba79c3f-cdc1-46c9-adea-b3b757d8dca7	quantity	1073	cells per gram of macroalgae
+e47b200b-9736-45ae-b156-729fc5ff7536	quantity	144	cells per gram of macroalgae
+94f5aa53-dc6c-46c9-8c89-0f9d4106f8fb	quantity	973	cells per litre
+a3e37992-be5d-4c64-a8ba-49437164b7c7	quantity	< 240	cells per gram fresh weight of macroalgae
+282ede23-81ce-4b64-903b-13d696fc6416	quantity	1916	cells per gram fresh weight of macroalgae
+7d9417f7-bb4f-4cdc-8f4c-e4e4cba4a209	quantity	1447	cells per gram fresh weight of macroalgae
+24c6cc83-806a-4032-8993-ab74b6e70b8a	quantity	414	cells per gram fresh weight of macroalgae
+3a9b8db2-ef2e-4f6f-8694-d116b1fc18d1	quantity	59192	cells per gram fresh weight of macroalgae
+30a1c3bc-0a0e-4e5e-845b-72dcd1b9fb4f	quantity	828	cells per gram fresh weight of macroalgae
+2eb51d87-1804-45cb-85d7-fcf352104669	quantity	1320	cells per litre
+fa684a97-54fb-4fe6-8419-779926bd00b0	quantity	904	cells per gram macroalgae
+bba13004-c4b2-4e60-a434-f49359d88a56	quantity	99	cells per gram fresh weight of macroalgae
+5592d6ff-335a-4d0c-afdc-e0538a1ebe2d	quantity	23	cells per gram fresh weight of macroalgae
+eb6fe783-3c00-4455-8e6d-0313bba02634	quantity	416	cells per gram fresh weight of macroalgae
+c2a318df-3bd2-443e-876e-7da56720ee78	quantity	1761	cells per gram fresh weight of macroalgae
+fc85a00c-818a-48b1-9681-5fdc5c14841d	quantity	27755	cells per gram of macroalgae
+a4550aba-38a6-4ed2-9027-195b4c8d4c87	quantity	293	cells per gram of macroalgae
+56102490-403f-420c-be71-523eb09cb15f	quantity	320	cells per gram of macroalgae
+48263a59-7299-486f-96f1-5b86bd544b27	quantity	184	cells per gram of macroalgae
+ebd1fe1d-b167-4b9d-8140-c775404038ee	quantity	51	cells per gram of macroalgae
+4d1de3c7-f464-48a1-a436-58b4a3fef2d4	quantity	400	cells per gram of macroalgae
+cd7ef5aa-d47a-42fc-9ac0-894837a0798f	quantity	1096	cells per gram of macroalgae
+b38631ed-f09f-42fb-bded-b184485e6119	quantity	4702	cells per gram of macroalgae
+bb5ca459-d2a1-4230-83f8-e0fc9b58c8d5	quantity	996000	cells per litre
+ee18868a-5807-4328-a9f2-1cc114d2806a	quantity	510000	cells per litre
+d21576ec-1f6e-4728-8108-5be030c2a256	quantity	6000	cells per litre
+adf0dc8f-c82f-45c6-aa9a-7d1369a41cb9	quantity	3000	cells per litre
+314e1a0d-54b0-46dd-9513-08f6e5150277	quantity	1000	cells per litre
+bb749411-bf60-40d8-a42f-a27df11e4c12	quantity	1000	cells per litre
+2bedfeec-bfd0-422c-b98f-0ebb5b69810a	quantity	1000	cells per litre
+cc185cee-e5a0-429c-a627-843b5d2dc79c	quantity	952000	cells per litre
+9095b651-fd40-4918-9fcd-82ad0ab1604b	quantity	540000	cells per litre
+20f49b4c-3359-4c92-94fb-b427ccae4f21	quantity	850000	cells per litre
+0a6ae91e-4246-4635-a859-fb0e2109b0f0	quantity	1140000	cells per litre
+54f4b1cb-a4f7-4d9e-b5eb-b87974f4bccf	quantity	650000	cells per litre
+aea02186-1048-4bcc-a421-a5d56e6abc25	quantity	31000	cells per litre
+e692fafc-49b7-4208-958b-5551f2fe80b5	quantity	40	cells per litre
+4af2c4e5-9935-4858-a1b2-54708755df38	quantity	30243000	cells per litre
+f6291841-5160-46d4-a0c3-32f131262afd	quantity	3249000	cells per litre
+15ada083-d1cb-4ad7-b5f7-89eee23c5ab4	quantity	11931000	cells per litre
+a3b1c7f3-9fa1-452f-8294-ab5d4eac4fcb	quantity	2511000	cells per litre
+e66da50e-97c5-455d-b82a-1aa4430e2022	quantity	65000	cells per litre
+23dba18d-0519-4394-ba79-f6536f718e3e	quantity	ND	
+cafd3fd3-029e-4165-a6c4-f03af735f3f4	quantity	3400	cells per litre
+8c1bd64f-85db-45cb-8b11-7119c5647e55	quantity	ND	
+e6c9a899-2c2f-4238-b3e7-2c4c22bb2ab4	quantity	4460	cells per litre
+1b55fbc8-d71f-4123-8dbb-26076c507301	quantity	1342000	cells per litre
+c61e46f3-81a5-4a08-898c-27fa2c984a01	quantity	940000	cells per litre
+0bd0668b-7dbf-490a-8163-4343f4f66407	quantity	6700	cells per litre
+401a7bd0-b822-4e13-9510-8b764ed0ad6a	quantity	80	cells per litre
+7772e3b2-bfbf-4e02-b2dc-5328a6f321da	quantity	200	cells per litre
+8da36c73-a2f1-42af-959e-26ff9039c3b2	quantity	230	cells per litre
+f83e3c9b-95ac-49c4-acc1-0d0523591fb6	quantity	1680	cells per litre
+f96b4dfe-dabb-49ba-b97d-cdf36c7a39f3	quantity	142662	cells per litre
+0f1a8d5d-dd28-461e-a6db-b69cfe8cb685	quantity	1720	cells per litre
+652fdf7d-7e33-4778-a24a-d309402d7483	quantity	40200	cells per litre
+f1b14339-97a1-44d9-b599-a7ee31de511b	quantity	120	cells per litre
+02e6d017-a38f-46f3-9ff2-e60495c52b5d	quantity	600	cells per litre
+075018c9-a7fd-42e4-a018-f4907dff99fb	quantity	180	cells per litre
+49f87752-3ec7-46ca-bb24-c54915319ce7	quantity	500	cells per litre
+e96305f1-ef6d-47bd-9c21-9e78bdc06ab6	quantity	320	cells per litre
+74d3e168-5367-41a9-9530-112ec45225d0	quantity	1200	cells per litre
+6a3fc9e6-2938-4f54-bdb8-7ced3712e27c	quantity	1000	cells per square meter
+b07744c8-63e9-4526-a777-2cf403c1a8f2	quantity	9000	cells per square meter
+052d05b2-305c-49fc-9504-a4e025c354a9	quantity	4000	cells per square meter
+240346c4-39ca-4378-828b-2d9e9b5407a1	quantity	1000	cells per square meter
+734a7fdb-a6ae-48b8-b6b2-2b8bd4bd400e	quantity	1000	cells per square meter
+c54b3dcf-a485-42de-9165-a6a0b48fba08	quantity	1342000	cells per litre
+31148cd6-1eff-4e24-9e28-c9dd7f9c8999	quantity	10000	cells per litre
+63589db0-00db-4184-961d-366b80c2aa4e	quantity	400	cells per litre
+3666e915-aa9b-4ac0-b3b1-878142dc9b46	quantity	1300	cells per litre
+c19db569-8dfa-4730-9dcd-6da52f6bbd81	quantity	80	cell per litre
+412c335b-d875-48d4-8766-75af872fa32d	quantity	1800	cells per litre
+4444cfde-60ef-4dc9-b3a5-9e900dbc41a8	quantity	800	cells per litre
+34d81523-90ea-4229-a6aa-b1404d936e7f	quantity	2500	cells per litre
+f85e27e2-6938-4935-b54e-aa0229d404ab	quantity	80	cells per litre
+1fb7b0f3-2e30-4955-87dd-329aa8adf765	quantity	87	cells per litre
+512edce0-82ba-4316-b701-23f2b69dbb41	quantity	20	cells per litre
+3c8c9bde-6b20-44ea-963e-d6ac1c0066ce	quantity	1250	cells per litre
+365b027b-f1d2-4c09-9189-cd2b6b7a9372	quantity	3900	cells per litre
+e4830953-5845-402b-9bda-87c0ac312b8d	quantity	1000	cells per square meter
+54073f23-ca72-451e-b44c-86e065b3e0d3	quantity	1000	cells per square meter
+66e53e73-8448-4c60-8e5e-c6dcac2c82ec	quantity	4000	cells per square meter
+2c006ea7-7723-43c5-898d-71fe226a36f4	quantity	2000	cells per square meter
+9a13f399-29ef-4463-99b6-d9ecf9a094fc	quantity	280	cell per litre
+692d0220-db00-4ea9-b51b-567bcdb856b7	quantity	2200	cells per square meter
+8ee3bf89-5556-4b1e-bd79-78a22ec6b51b	quantity	600	cells per litre
+7555a6a3-19ec-4827-839f-c18900021b2c	quantity	350	cells per litre
+95717fce-ebda-4fdc-a3bc-dfce32164b49	quantity	28000	cells per litre
+ac228fdc-179a-49ac-ab7a-575cb853ab06	quantity	20	cells per litre
+fe679711-6f04-4107-a886-da0859c2326d	quantity	250	cells per litre
+edb0d59b-77c3-4f42-a919-3b434a6cff12	quantity	40	cells per litre
+d5d9a1eb-0eee-47a0-81c5-e8f4ebd4cd2b	quantity	145	cells per litre
+eb0b0ca9-b86d-4dc0-bebe-c4f6329d474b	quantity	224	cells per litre
+a1ad8ef7-4663-429c-b492-a1e5cfb90755	quantity	15	cells per litre
+cde20685-8419-49a2-9633-26bf7d3b8d03	quantity	40	cells per litre
+6df6d8b7-0a28-4356-80dd-fd7915f02a22	quantity	6000	cells per litre
+0967961c-8f62-4b1b-b60a-2b0d1bd7bf7b	quantity	<200	cells per litre
+9c49bb0e-6df7-49c0-97c6-e574b68406b1	quantity	3400	cells per litre
+97bd1192-95f9-494f-a4b0-0e5ca9d11641	quantity	6200	cells per litre
+20ee75bf-f8b1-4445-8116-dbf5c8d8be2d	quantity	9324	cells per litre
+90dc4088-9795-4e56-a66a-63dfb5269a75	quantity	1000	cells per litre
+1ee17a20-02ac-4434-ba39-5667f7b0e1bc	quantity	1000	cells per litre
+3f394139-bf81-46a8-8026-94a876fc7890	quantity	1000	cells per litre
+513c0a20-0628-4759-9694-8cf5bc877dda	quantity	1000	cells per litre
+a66e83c9-e4bb-4d1e-8b42-194f383d7232	quantity	40000	cells per square meter
+061fe1e1-2d45-46e8-9cad-0b44aec499a8	quantity	24000	cells per square meter
+a496f643-fc61-4ba1-acd0-80eaed74afe9	quantity	36000	cells per square meter
+83fa585a-3790-49ac-8a76-ccc6e27109dc	quantity	17000	cells per square meter
+6f3c3679-c231-482c-9948-00880cc941dd	quantity	37000	cells per square meter
+2a543fef-b399-42cc-8a64-6a697b5fc377	quantity	81000	cells per square meter
+3ab0d32d-a609-4bb4-8eb4-b3d2fedb5cbc	quantity	3000	cells per square meter
+9dd5a649-4661-4cbc-92ca-126f72de78d5	quantity	19000	cells per square meter
+da9983a3-ff8a-4163-8b04-1e36fe695d06	quantity	< 10000	cells per litre
+17ef43f3-a340-4b02-8639-e8cae12b7971	quantity	< 10000	cells per litre
+9513f383-ec2d-4f70-b6bd-d1de693a352c	quantity	300	cells per litre
+c7329e68-9c74-4ca8-8f97-b15e46f59f5a	quantity	300	cells per litre
+4a8847ca-98cb-47c1-aa4e-d7825e61ffbb	quantity	940000	cells per litre
+def4bed5-83c1-4ae7-ba1d-7e0a0d92bc45	quantity	< 100	cells per litre
+caf14307-17ba-4572-8ba5-d73ca8148d7a	quantity	200	cells per litre
+d006654a-41c3-45b1-bf5b-fc1f84d40cdb	quantity	700	cells per litre
+277501db-c2c6-4e69-9305-ebeffdb1109d	quantity	4000	cells per litre
+5ffd6f4e-f0a1-4f01-9bfd-90e49a21685d	quantity	500	cells per litre
+8b0e91a3-ab17-405b-9ff7-5bcf9daf37b4	quantity	700	cells per litre
+ac8ce153-c1d3-4a00-8df8-c1280181db3e	quantity	500	cells per litre
+1f019b66-159f-4bd5-a4a4-58cad67977aa	quantity	500	cells per litre
+426c691e-ef26-498a-a92e-1feee26e73a1	quantity	<500	cells per litre
+e5906ca5-3667-4b49-902c-e626a4546d9c	quantity	<500	cells per litre
+40cb2192-2379-40e4-8e59-17a98e8b2131	quantity	750	cells per litre
+1d68b727-39d8-403f-b63c-06b72cf01a77	quantity	2600	cells per litre
+6bc9c993-4f0f-464c-856f-af518607b68d	quantity	26000	cells per litre
+3a105011-a142-4e30-9a9e-2c3fca588cb5	quantity	2080	cells per litre
+a85f46f0-34b1-4a4f-9236-5ced2f79f541	quantity	80	cells per litre
+ad71cac5-1348-428d-856e-439b1016ebff	quantity	600	cells per litre
+fb4a6fc9-769a-4ab9-88b9-362d5f1d9231	quantity	300	cells per litre
+c9156e57-c8e1-469f-a724-ba25ba86888b	quantity	180	cells per litre
+fd5e1475-0f45-4d4d-bb17-1add509ac394	quantity	ND	
+73f7c270-9687-4136-b1c9-001c4c25a24a	quantity	1560	cells per litre
+4c774c02-fd41-4faf-aa57-70db99dc91e6	quantity	2160	cells per litre
+df43bd3e-a269-4b81-acdd-d25db90af8bf	quantity	210	cells per litre
+9ea788fb-f8d7-4f11-a896-b1bc10198dab	quantity	160	cells per litre
+abb98a80-acb0-4071-ae37-4fbd6fd1a1dd	quantity	18	cells per litre
+44de0c79-58c9-4a35-a680-8503353a86ee	quantity	100	cells per litre
+29072b76-5c94-4508-9e3c-5502dc2ddd22	quantity	100	cells per litre
+c69506a0-c5a6-45f7-bb36-079b38e02915	quantity	6000	cells per litre
+1331b8c9-1cfe-4584-9f6a-e37304519a6b	quantity	<20	cells per litre
+dc461803-25a9-4c1c-8e97-e182fe9df77a	quantity	2000	cells per square meter
+a81b92bb-2b0d-4c9f-9923-8f505d70f11d	quantity	6000	cells per square meter
+b03f77df-b37b-41e1-9425-1cb240841094	quantity	1000	cells per square meter
+cce23bf3-70fc-44b2-b907-25a3eaa5e556	quantity	1000	cells per square meter
+13904ac6-2ab6-40ed-a53c-36a922ec52d0	quantity	6000	cells per square meter
+fc5cb72c-16b9-42d3-b4ce-99c69ae1a60b	quantity	650000	cells per square meter
+a4756153-c3e6-4796-bbf6-6d3616d24c7c	quantity	6000	cells per square meter
+918ad450-ca0b-4043-983b-f2ed4541863c	quantity	4000	cells per square meter
+ba7673ee-9e4c-4011-9c91-2a78aea28fde	quantity	2000	cells per square meter
+25b94677-6fc4-4a32-ae66-d447cf83e739	quantity	1000	cells per square meter
+81754b27-e099-4337-8fa2-532cec75043a	quantity	30000	cells per litre
+f4eed5df-e229-4a3f-8163-6c14a5b3f973	quantity	4190	cells per litre
+6e701f5e-c61e-4d1b-b3da-88dfefb62a02	quantity	< 100	cells per litre
+b52d8a25-bc4b-45ae-8a9a-c1fb11e3628a	quantity	1060	cells per litre
+481f14fd-bedc-45b0-9c21-6dae6eb7fb68	quantity	520	cells per litre
+06decf8b-d5a5-40c1-9996-f5264b306835	quantity	1000	cells per litre
+42249da5-d2a6-4fce-9a38-1841706552a7	quantity	57000	cells per litre
+8adb6eb9-8701-480e-93e9-d55add7cc29c	quantity	85400	cells per litre
+5c353b04-1b86-43c1-afaf-402276da5381	quantity	1430	cells per litre
+194aaeee-9102-40f1-8a27-3d93a8b4e1ff	quantity	9950	cells per litre
+f4717544-8215-4b3f-ad80-d50eb276f7b4	quantity	5000	cells per litre
+32f7bcbe-2a7f-4099-a3b0-630dd780fe88	quantity	7000	cells per litre
+d57a49b1-1a6b-42e6-bd75-13f1c7ec382c	quantity	10600	cells per litre
+6ccef6c7-305e-4295-9c9c-95708c0468e3	quantity	37000	cells per litre
+4898740c-d2a9-4cfd-891a-6e72c231d3c1	quantity	1600	cells per litre
+5ce3ece8-643f-4fde-9ac1-98240ed1b966	quantity	2240	cells per litre
+d2ca7b49-07ef-4263-8d0c-e73dcdee15f5	quantity	100	cells per litre
+282c122c-7452-445a-a13d-1d06a11cd905	quantity	100	cells per litre
+7b40dc1e-b09b-43cb-99ac-3b6a4b901138	quantity	4320	cell per litre
+f7085d99-a352-4a23-a899-5f996de90b7f	quantity	22500	cells per litre
+c6a45393-209a-4012-983d-7a7b4affb727	quantity	80	cells per litre
+bb19bc70-6421-4ba9-93ae-d11c814570c7	quantity	240	cells per litre
+f73d9eaf-ab35-466a-b7c7-bdaba3b5d9a3	quantity	46000	cells per litre
+daaa4b9e-5fd1-4911-9ece-1d6c56af92a5	quantity	800	cells per litre
+004f50c3-9fcf-4b43-a089-5e662655dc8f	quantity	350	cells per litre
+b0437b4a-4849-49d0-95a9-05f2210edacd	quantity	37895	cells per litre
+68b4b451-203a-41ca-b234-e7ca5d3cb3d8	quantity	40	cells per litre
+6cf70996-7fc0-4977-839e-2639b62e91c5	quantity	9400	cells per litre
+0c11c20b-0875-4465-8291-ae0f46724b51	quantity	3000	cells per litre
+2576ac83-1494-4282-a76f-f33b091cd002	quantity	1560	cells per litre
+3fa45d59-aac2-4018-ab69-8532028d42b0	quantity	2160	cells per litre
+c79732a0-e098-4065-861d-cc937f1f495a	quantity	1250	cells per litre
+4a678142-5a01-4f0e-a7f3-8b24190d424b	quantity	2876	cells per litre
+486db96d-1481-47b1-a3d9-349bbf006de4	quantity	1543	cells per litre
+77b142ea-1bf2-496c-acb7-68fdb1b80fe6	quantity	398	cells per litre
+8662e22e-7fde-423c-a147-ac36ca173f16	quantity	40	cells per litre
+6112ed78-f32f-4735-94fe-4fd100683033	quantity	4000	cells per litre
+deeed659-a3a1-4448-bb08-8317ecc6e731	quantity	4000	cells per litre
+7c24131c-37e7-4bf5-90b0-f945cce4a6ca	quantity	2200	cells per litre
+cb2af440-5d61-4257-af4b-71042dd4175b	quantity	1920	cells per litre
+cece0183-9f7b-4619-8186-6e80b8a4f2bc	quantity	1200	cells per litre
+146045d3-2ff4-4a8c-90b1-04878a3da793	quantity	3300	cells per litre
+3cd367f5-6648-451c-a52c-afd2f183297c	quantity	1000	cells per litre
+ec28a41b-cd9e-4b73-8091-3cb0e0a7acb4	quantity	100	cells per litre
+f4e24402-0fd9-4f59-bc40-d63571c93800	quantity	1000	cells per litre
+5332cbc6-eeda-4a86-893f-3bc0d8c3dd95	quantity	1000	cells per litre
+435db422-f648-466c-b88c-f32e3b4529d6	quantity	100	cells per litre
+7d140584-22b2-4635-9d8d-7ba677d980b9	quantity	100	cells per litre
+c250bdd2-2257-4905-aeb8-07e7c912fd36	quantity	100	cells per litre
+679598b2-9c32-46a9-84ae-26c6b7c8f55d	quantity	1000	cells per square meter
+3b52c809-ba55-4727-9865-37228bdf9f5c	quantity	7000	cells per square meter
+0b82f86a-b5f4-43eb-bf79-6575e0bd92c5	quantity	7000	cells per square meter
+3805f254-8d3d-4256-a184-9d88d19ee391	quantity	5000	cells per square meter
+cca10375-a9ea-45b6-8ec4-d422a0256bf8	quantity	7000	cells per square meter
+60a95f94-afd5-469a-ba2c-d1657a742499	quantity	40000	cells per square meter
+ec5471fa-5489-4e83-aac2-457b8c442410	quantity	1000	cells per square meter
+375cfbf7-c884-4432-b30a-4f74f7b08bfe	quantity	1000	cells per square meter
+fbe761c0-2807-460e-a5de-217cf1159ac9	quantity	1000	cells per square meter
+5827a03a-63f4-4d3b-818e-3011e506a643	quantity	1000	cells per square meter
+408f2d25-cc31-4db4-89a6-c98b69f38a2a	quantity	500	cells per litre
+908f4ca7-57eb-496b-9559-4cbbd02cd95a	quantity	150	cells per litre
+dc52c1fe-0f2d-4891-b448-7b6330c0e33c	quantity	< 10000	cells per litre
+b867049b-476d-49d8-8106-4f8713f459fd	quantity	< 10000	cells per litre
+5349481e-259a-40a9-aef8-90ce47abca6f	quantity	< 10000	cells per litre
+dee024ec-21d1-402c-8c06-8729ec0e183a	quantity	< 10000	cells per litre
+079f455a-df0c-453d-b770-05a8af82f57e	quantity	< 10000	cells per litre
+8f74c897-7bf9-48fb-b861-55480ae23b98	quantity	< 10000	cells per litre
+1c904e53-a4cd-4143-9eb3-6a10a9e5a2d1	quantity	< 10000	cells per litre
+d73695fe-d325-4046-8312-92b70ca78eb9	quantity	< 10000	cells per litre
+c1f3e1a0-0b72-43cb-897e-dd701553a508	quantity	< 10000	cells per litre
+4ee00e82-0b65-4a4b-a4ef-4bfc3cd9d5f6	quantity	< 10000	cells per litre
+274aa5e2-98c3-443f-9c21-ac71483e537d	quantity	< 10000	cells per litre
+6de28665-b004-4742-94ee-53101a94d2db	quantity	< 10000	cells per litre
+27af7e86-1872-4c3d-a139-9b5923f40fa5	quantity	< 10000	cells per litre
+838f7ef9-75a2-4850-9200-091c6b887601	quantity	< 10000	cells per litre
+a38851b0-7995-4984-9f0a-267c0fa0347e	quantity	170000	cells per litre
+8cc5a992-726c-4cef-b844-4f6d62dca19c	quantity	1420	cells per litre
+984a49be-9c04-432d-9414-d0b1393251dd	quantity	1420	cells per litre
+60e0d914-78c1-4bae-83d8-ce26aa22d257	quantity	1420	cells per litre
+0401f7e5-a6c2-432c-92ae-dec0be6234fe	quantity	500	cells per litre
+edfcf77a-0292-45dd-990a-bf853bcd72fd	quantity	29500	cells per litre
+9c261044-857f-44a3-8bf7-b851e2774cac	quantity	51700	cells per litre
+036a56c8-274a-437b-a0ca-f35763c78720	quantity	300	cells per litre
+a8395dba-bd8c-4b2b-a1e3-365172b690a6	quantity	80	cell per litre
+a1cdca7c-5125-400b-812c-7aa5b2af2f64	quantity	ND	
+6f8f0aba-2f96-4e5f-b931-7b21914e5209	quantity	ND	
+74236762-4ab2-4a9b-af01-72a33440214b	quantity	40	cells per litre
+15960ac6-960f-4b66-b7a9-396d6ba91234	quantity	<20	cells per litre
+c963d3b0-110d-415d-84f7-eb62cf051f03	quantity	1000	cells per square meter
+14a10cf6-7a36-4a15-8aee-b7777539ffa1	quantity	40000	cells per square meter
+445efc86-5eea-47cd-835b-661b2ee309ef	quantity	< 110	cells per litre
+322a67f1-7147-4a0a-bccc-a86f4af12b46	quantity	< 110	cells per litre
+9a636f34-4ee8-42e9-bc83-c8d7c95508a1	quantity	< 1000	cells per litre
+d6c19506-7e96-4dbc-ad0c-d247efab09bf	quantity	5000	cells per litre
+14f6a6a5-6c54-4345-bbea-568d57e89392	quantity	10000	cells per litre
+25458d57-41f1-4d5d-ab28-aa94899a31c9	quantity	6000	cells per litre
+9e7aa45c-b6b5-4ba5-bd95-2284a60f51af	quantity	87200	cells per litre
+1246c79e-c7ed-4d5c-9f02-822cbe35032b	quantity	10	cysts per gram of sediment dry weight
+60924502-4f08-405c-be74-2ef932da1659	quantity	3	cysts per gram of sediment dry weight
+48b2daa7-6b31-4f30-9594-51843a9e1cb3	quantity	1000	cells per litre
+bd5b1b16-7b55-4dbd-8373-b207d5bff7b4	quantity	500	cells per litre
+f074b8eb-d7e0-4085-bac1-50a2535199c6	quantity	9.01	cells per grams of macroalgal fresh weight
+3651b284-02db-4826-8bfa-6cd5f45f08b5	quantity	113000	cells per litre
+b6371e8d-bd18-402d-ba87-fcd7de5a42b3	quantity	640000	cells per litre
+1d5e0787-e3f4-41f7-bae2-2833f84e605a	quantity	200	cells per litre
+c1bf7588-3f1c-4baf-8b42-f970990849f9	quantity	40	cells per litre
+f41a7454-4c8a-49a1-8923-56bd27121880	quantity	8000	cells per litre
+8cb4febf-f9d6-4255-9980-ee19784cffd2	quantity	754.5	cells per mililitre
+6f127e12-e189-4684-b6d6-7cc0b5caafde	quantity	111	cells per litre
+a78c8b06-3b98-4c75-8c03-6518920baf74	quantity	3000	cells per litre
+93850048-1ef7-4e0b-a085-c4fecf02d1d1	quantity	3200	cells per litre
+7d6eee07-a825-4581-b3c9-77b8911e8c80	quantity	25000	cells per litre
+b361f696-94d2-4792-aa90-6b4525111b83	quantity	ND	
+18880eba-a529-4505-a2e9-6c3822cfae17	quantity	10000	cells per litre
+52fa13c0-b4ff-404c-9798-539c50a0078d	quantity	4000	cells per litre
+15ea0050-22f1-423e-bb84-51aab141ac3c	quantity	8000	cells per litre
+1cae028b-ad1f-4ba1-b2f8-b48e08845219	quantity	8000	cells per litre
+66b1c859-674d-47f2-b1a6-06cafa70e281	quantity	1500	cells per litre
+681db51d-5805-4e62-97bf-e659a887a7d1	quantity	3000	cells per litre
+b697692c-e426-47b8-8dd3-278e4b0a3e17	quantity	10000	cells per litre
+809e5729-6287-4e2a-8e8c-483b623c0168	quantity	4000	cells per litre
+ad8fbf85-6c09-4635-a602-d2b05e8d0f06	quantity	500	cells per litre
+79789f88-60d2-4826-94ee-d7be2e7a8b91	quantity	ND	
+b320c82b-9b11-4e34-bddb-5fdca05cee08	quantity	ND	ND
+699d4f6f-4172-467c-b08f-45806bed1059	quantity	ND	ND
+f09741d4-804b-4bbc-a9f2-6ce3d1d0e39c	quantity	4500	cells per litre
+26c94906-47a5-4d43-a820-84e81337db12	quantity	10400	cells per litre
+64479070-f191-485f-b711-baa6aa3c27f8	quantity	222300	cells per litre
+f59b7580-8438-435d-b66f-cdb7cb2cc2ba	quantity	110000	cells per litre
+d6dbb8c7-a8e6-4e15-8965-917fb901d274	quantity	13900000	cells per litre
+6f9f4a02-fe1c-459d-b40f-2edb1d5ec3a8	quantity	888797	cells per litre
+012ef8f1-ad83-45b0-a3e3-4d819a9a336f	quantity	10400000	cells per litre
+8dbfdd7c-f044-4140-94de-534b799e210c	quantity	20000	filament per gram of wet weight of macroalgae
+26ad8c81-4b35-427d-be3e-1f8c765b2f21	quantity	2770	cells per litre
+209e42ba-71c4-4727-a8e6-6640b0ffe774	quantity	ND	
+c7d7bb37-9429-4a66-b1a5-389ee0006d90	quantity	ND	
+f1e30d32-f498-473b-938f-43ced910bd20	quantity	2700000	cells per litre
+b8fe5b72-7bfd-46de-b078-b5b17ea9bd4f	quantity	15900	cells per litre
+63e7581b-b6d1-48aa-a72e-06ac7bb09b7d	quantity	500000	cells per litre
+463ee992-9545-4c97-b21c-c95ea47709f1	quantity	930000	cells per litre
+08b083ee-2d01-4054-9b51-8f045f777f25	quantity	1800000	cells per litre
+c5da8813-86a7-4641-a7e6-f85aced4ed1f	quantity	800000	cells per litre
+e4a17027-a9f4-48b3-8388-1d7ab30458bc	quantity	1270000	cells per litre
+84433439-4296-455b-a0c4-699d79e8fb5b	quantity	24800	cells per litre
+ea140925-fbd6-410c-bb88-afd03a7002ac	quantity	250000	cells per litre
+83eec965-ca4b-4521-b95f-5f3d8bb2ffed	quantity	88000	cells per litre
+7daa30b7-c88c-44b9-8fb5-42a1dc049491	quantity	2211000	cells per litre
+3ffef99e-7538-49b6-9e08-837b785eb81b	quantity	2197000	cells per litre
+8f2856f6-54df-4dc5-8c7a-05cf363893fe	quantity	10000	cells per litre
+42491e73-3535-4815-a423-af73f1ef15e4	quantity	100000	cells per litre
+e3f20a49-6695-42e0-b3fe-9134256bdb2b	quantity	14842200	cells per litre
+3f494475-15b6-41cd-b6c9-309e10c007f6	quantity	910	cells per litre
+999453fd-a59d-401d-82d5-7538047af95d	quantity	12000000	cells per litre
+b30fefe7-668c-4a80-a14f-1842815bc0e9	quantity	5809	cells per litre
+4f99599f-145a-4499-979d-5b0e2a42433e	quantity	24900	cells per litre
+ed912ac0-b759-43af-8dc2-f1d4de9a7148	quantity	29505	cells per litre
+c7e6bf56-2b59-493c-9b72-7668f7d3c555	quantity	80	cells per litre
+1e684071-224a-41b5-879a-9ca0b61ec845	quantity	1100	cells per litre
+8d0549da-427b-48ff-8d5f-f16366ea2af4	quantity	1100	cells per square meter
+fd6ada38-ead1-410c-a849-a0b718936a55	quantity	2800	cells per litre
+44b3cdc5-e534-4811-a7c6-c4d0a2ac5a15	quantity	1400	cells per litre
+f4e57a48-c1ed-4ca2-933d-682d486b3cb0	quantity	70000000000	cells per litre
+0962e8f2-418a-4230-8bd8-e0f2330996fc	quantity	3000000	cells per litre
+52d91d78-ce0f-4b69-88b2-f9e79ab4290c	quantity	7000000	cells per litre
+d1389b99-0b39-4e7f-b780-c1f021ff160a	quantity	6000000	cells per litre
+6cead01d-622d-4dc4-8ec2-fe4db734c848	quantity	10000000	cells per litre
+91ea6835-4a01-4472-a13b-e1e027a606f7	quantity	4000000	cells per litre
+a413cb33-ce4f-4786-8225-b5e8e6dd1c1a	quantity	10000000	cells per litre
+a3051b56-e1af-49f6-839c-f2c9d248a814	quantity	34000000	cells per litre
+de3112d1-d209-4215-8bfb-f8b7754d0dc7	quantity	24500000	cells per litre
+fdbf6ea3-4218-4201-b6ca-ccce824a547d	quantity	120000	cells per litre
+eb68de54-13f0-4347-962d-eac7852aaa1d	quantity	250	cells per litre
+5a5e4d35-a35c-4b0b-abfc-20ceaedb5715	quantity	40	cells per litre
+a1d02943-145c-4c39-bfe1-2a8491b95c5c	quantity	13	cells per litre
+fef50cf4-b2d1-417a-8d61-400fd50491b2	quantity	40	cells per litre
+3fcb03f4-0712-423e-88e3-da650a8f1bdd	quantity	18000000	cells per litre
+1ee6807e-f481-46f1-8de2-8f16824509dd	quantity	10000	cells per litre
+5d816236-c740-420d-a1e3-2eed1682bc77	quantity	25000000	cells per litre
+0f480e43-dd0f-4036-a127-dd0245af156a	quantity	ND	
+b202f9bd-f2f8-4b2a-a0f6-1039911274d8	quantity	ND	
+40cb001f-7be0-4baf-86b5-3b66fddff018	quantity	1000000	cells per litre
+4fd1c8b4-4a40-459c-bfaa-f868d6f6ecdd	quantity	11000000	cells per litre
+af7c4b3c-1554-450a-9bcc-cd92ca4b873e	quantity	1300000	cells per litre
+e76d02e0-5d83-41f6-a79a-39bd3ab6d1dd	quantity	32000000	cells per litre
+2c13e8cf-9e3d-43ab-ad4e-e08a336d811a	quantity	44000000	cells per litre
+44750488-3d11-4376-bddb-59dce39c92a8	quantity	2800000	cells per litre
+5c29531c-4995-4bde-9851-6046a26d3e7f	quantity	4400000	cells per litre
+b7eddcc2-4d75-47f7-b6c1-63e3119d2a3d	quantity	90000	cells per litre
+976468e4-c1ad-481d-a906-a495afdcd7aa	quantity	0	cells per litre
+4c5888ee-ab34-421d-b072-800032bab50e	quantity	17000000	cells per litre
+6ed52406-d43e-4285-a905-5b40bdc5c722	quantity	1000	cells per square meter
+e4604aa0-5bcd-4712-b23f-aabef459f3f2	quantity	3000	cells per square meter
+7d4df715-4cc8-4d89-8466-afd9d4b62ccd	quantity	4000	cells per square meter
+4d957244-f84b-44a0-8831-57bbe323d024	quantity	8000000	cells per square meter
+56cd0069-dfce-4886-8ebd-29cb541e9cb2	quantity	2000000	cells per square meter
+f2432ad1-a7fa-4efa-85d8-cc91f3dd78a0	quantity	5000	cells per square meter
+f2e352b8-371c-4fe1-b737-f1beb8e171d3	quantity	10000000	cells per litre
+8d77e11b-b76e-4c63-b94d-7560a6020deb	quantity	15000000	cells per litre
+2ec119d6-c00e-4796-93c7-ebeb978382dd	quantity	78000	cells per litre
+f27c623b-1d8c-48da-b59b-f7885465ec8b	quantity	360	cells per litre
+3670c4f9-df6d-45d9-80e5-b170ecb52868	quantity	130000	cells per litre
+a631cff5-971b-40c0-8fd3-560e2bf0da25	quantity	16309800	cells per litre
+a65102ef-ad27-45c6-9331-c92ca8970c17	quantity	44000	cells per litre
+9f6c8b04-c415-43da-ba72-f089e01cc0c4	quantity	60	cells per litre
+ff98c55f-844a-4703-bbcf-09a9b97f15de	quantity	440	cells per litre
+9bfbcd18-7c77-4a90-91fa-4279e5e95ee4	quantity	20408	cells per litre
+b6656fa2-a299-4c32-b3c7-c22a777150b6	quantity	7266	cells per litre
+7a6fbd9c-4c47-4e99-a1b3-bd260668de60	quantity	880	cells per litre
+d7cf6631-de02-42bf-9c8d-9f40f4030c7d	quantity	600	cells per litre
+8aa2cee5-56a3-4823-a5b7-dba54bfae7a3	quantity	480	cells per litre
+8cd5b917-c729-4b25-8695-3e84c49308e6	quantity	50	cells per litre
+55f670e9-2988-449b-8e6f-c526bc9e7fcd	quantity	100	cells per litre
+dec28076-2e81-42c4-86a9-91c2499395da	quantity	440	cells per litre
+c8063220-59a7-47ba-b682-df7cd34d99f7	quantity	20408	cells per litre
+dd752a9e-606d-453e-9faa-2d9617382ff9	quantity	7266	cells per litre
+1fddf0ed-56f3-409d-b21e-4633deeb4784	quantity	600	cells per litre
+d3786b5d-317f-431b-9c39-b8e1a377ceb8	quantity	480	cells per litre
+0f76b9a7-163b-4200-82cf-1d9bbe25df3f	quantity	100	cells per litre
+21270edd-eeda-4221-a46c-632e2e61c7aa	quantity	< 10000	cells per litre
+3edd9dd3-48f4-4170-96c0-14ba044d3892	quantity	2700000	cells per millilitre
+1c6e1341-8557-4915-a2dc-451e0993293b	quantity	3100	cells per litre
+c4ddcee5-6b54-4f8a-ac17-43393497724a	quantity	58000	cells per litre
+ee16f13d-54da-470c-a72f-78eaf0698712	quantity	125000	cells per litre
+f209f619-97c8-4db9-977e-c76e430c4fdd	quantity	1070000	filament per gram of wet weight of macroalgae
+06ec231c-d5d4-4e6c-b7d6-3ed71e32cccf	quantity	299722	cells per gram fresh weight of macroalgae
+1ddee2bb-f152-44bb-bf13-488e94b3996a	quantity	310632	cells per gram fresh weight of macroalgae
+a55651cc-2895-4d83-9dac-c0fac2663da9	quantity	127272	cells per gram fresh weight of macroalgae
+d2b4731e-2b01-4b7a-a2d3-d4b3ccf0d593	quantity	13250	cells per litre
+44289ada-78cd-40f4-be5c-f54116c75f52	quantity	72000	cells per gram fresh weight of macroalgae
+e69bf51d-230e-4611-a8c7-c6d531bd4b6b	quantity	23000	cells per gram fresh weight of macroalgae
+5bce8360-8e75-455e-830c-4f7a8d266bdd	quantity	103364	cells per gram fresh weight of macroalgae
+b7fd9c30-3183-49a7-92f0-1197ded77985	quantity	197	cells per gram of macroalgae
+447a6206-f0e0-42da-9f84-25860cfe7972	quantity	3217	cells per gram of macroalgae
+0839ade2-4b71-4513-9c2a-6bd753ad57ef	quantity	1186	cells per gram of macroalgae
+4d3af6ff-3392-4a7b-ae06-6b539d3d6634	quantity	560	cells per gram of macroalgae
+8d012c21-6ba5-4b47-ac72-c785cb3b4f42	quantity	224	cells per gram of macroalgae
+669a6f41-5189-4e91-a100-16006c0828eb	quantity	3041	cells per gram of macroalgae
+c500f83a-5124-40cc-b93a-c38562af3f1f	quantity	1200	cells per litre
+38d29eaa-5625-42ce-9a27-ca9f377c38c4	quantity	8500	cells per litre
+9e14595b-65c0-4066-a5b7-42dc8d578313	quantity	1330	cells per gram of macroalgae
+5c31a2ac-81d0-4bd5-8d1b-4d61803ecbe3	quantity	172	cells per gram of macroalgae
+8d4fac7d-2bdc-462d-a3cb-c4d96db2e3d6	quantity	5000	cells per litre
+8a3a585b-fa66-4054-ab7c-5c15bf6331d8	quantity	34	cells per gram of macroalgae
+0ff3a6f5-2dfa-46df-96eb-c26dfb4c857e	quantity	60	cells per gram of macroalgae
+3a4b00ed-4a85-4ed2-a044-d95d5f33457b	quantity	117	cells per gram of macroalgae
+5bbcc54b-e7cd-471b-a061-d2f33906ceac	quantity	5801	cells per gram of macroalgae
+45206eb1-9238-4a06-9a5c-a8e2a924c37e	quantity	24	cells per gram of macroalgae
+207ba36b-eebc-4d2f-b354-17030ec12f29	quantity	130	cells per gram of macroalgae
+047ca5f9-d4fc-4816-961b-ea5ebdfe29dc	quantity	508	cells per gram of macroalgae
+21a33a7d-1cc3-4576-929e-6b6f9b7f98a5	quantity	1500	cells per gram of macroalgae
+7aec63cc-0acd-4be0-b1b9-e7c438531029	quantity	3250	cells per gram of macroalgae
+8b291c7e-ab93-4176-9115-b002124e0606	quantity	57	cells per gram of macroalgae
+776c83e1-0a5c-461f-9eab-e30ce304d34e	quantity	6744	cells per gram of macroalgae
+fb005c56-4268-4e0f-97a5-a6c74ac9d8dc	quantity	367	cells per gram of macroalgae
+d1323885-e3ea-4ae2-a8a2-73194d17287f	quantity	3520	cells per gram of macroalgae
+9fd3ff81-1a11-4b40-9ce3-af778b29317b	quantity	2000	cells per litre
+39ad90bb-cc95-44c9-bc1f-d134e628f787	quantity	5900	cells per litre
+ffdc6d73-9267-4bb0-aca0-e6ec2161b267	quantity	<1000	cells per litre
+77d50f26-37ea-4d36-8afc-5bbe60712500	quantity	4305	cells per gram of freshwater macroalgae
+ee9cafae-2c44-478c-86b0-43e795cd7578	quantity	118	cells per gram of macroalgae
+ed1239a0-2d0e-43ed-b84f-156207bad5f9	quantity	18000	cells per gram of macroalgae
+22c8d84d-27da-48ae-b581-07381a7f2e8e	quantity	1060	cells per litre
+fbe7074d-9090-4f59-9a05-b737f04ccb5a	quantity	65712	cells per gram fresh weight of macroalgae
+2b7ef1b8-87d7-446d-9f4d-43b42441ddea	quantity	783721	cells per gram fresh weight of macroalgae
+a51df212-52b0-4af2-bb4b-c37ab027ff7d	quantity	171923	cells per gram fresh weight of macroalgae
+c2abd0e8-8c88-4281-a996-169f6f5f8429	quantity	44883	cells per gram fresh weight of macroalgae
+db538d53-6191-4ce5-9985-54b7e46e3faa	quantity	64243	cells per gram fresh weight of macroalgae
+0f4cf47f-e558-4a30-a0bb-634da7451f71	quantity	4500	cells per gram fresh weight of macroalgae
+3fc813d6-dcf6-4ab0-a6b7-358d7cf470e4	quantity	815	cells per gram fresh weight of macroalgae
+c93141d5-bb72-4ef7-9925-12f9cbd3974c	quantity	21780	cells per gram fresh weight of macroalgae
+62049968-06eb-4b62-8276-4677aef5cbda	quantity	496	cells per gram fresh weight of macroalgae
+4c828535-a22e-4baf-8107-d6960788e0c6	quantity	1436	cells per gram fresh weight of macroalgae
+80c80d0b-d615-4fd0-ad78-0a1ce3f82ead	quantity	40000	cells per litre
+19b2db0e-8e80-49ec-8f61-afbfd0cf52fb	quantity	11000	cells per litre
+c594dd1a-1890-46a4-96db-3d4933c9163c	quantity	160000	cells per litre
+e1859aac-b8fa-435d-8dba-dd37bc8efd5d	quantity	750000	cells per gram
+91bf2032-f958-4548-8225-e59da9882841	quantity	1300000	cells per gram
+906af476-5c2f-4dfc-a3e7-e20fe92ceed7	quantity	2300000	cells per gram
+eb8a85a9-4632-4776-9839-bbbdac527d9f	quantity	97000	cells per litre
+71570543-f67a-4374-a784-1bd78a6bcfdd	quantity	5800	cells per litre
+50506ea5-9853-49c1-9b62-b10d0e25a8df	quantity	28000	cells per litre
+0e115958-688e-46d3-8d8b-2239d6062dbc	quantity	740000	cells per gram
+291bceb5-e435-47c4-ba74-cfbcfdab0488	quantity	1300000	cells per gram
+e840dc7c-6592-4722-88b0-226274810a48	quantity	2200000	cells per gram
+7503796e-490a-4001-a8f3-f76e27a5222a	quantity	8000	cells per litre
+9525b959-8e12-490f-80a5-2505d3e63331	quantity	25501	cells per litre
+bd1f72aa-e62b-49a7-a8fa-e50ed5616e55	quantity	89273	cells per litre
+5801009e-5b19-4263-bcc9-7309bcc5925c	quantity	136391	cells per litre
+a0c7e82d-698c-499f-97e4-8b7310d1e0d1	quantity	47770	cells per litre
+d03f4b1b-bb50-447c-97f9-53ef20f13fd0	quantity	23122	cells per litre
+f45af182-2dae-437b-aba6-da5f47cf7220	quantity	5643	cells per gram fresh weight of macroalgae
+dfdd8c32-4310-4344-b5a8-8def3286edef	quantity	1700000	cells per gram of wet weight of macroalgae
+0b4bdc96-0831-450d-a6fc-2af93dd56b95	quantity	1300000	cells per gram of macroalgae
+d7c01d3d-2399-4e02-b73d-04e823ef7f39	quantity	26100	cells per gram of macroalgae
+cbfcf65b-fbad-493c-8405-b94a3d933442	quantity	1200000	cells per gram of wet weight of macroalgae
+c616a414-f48f-48e3-803b-cf33951f0d7f	quantity	1600000	cells per gram of wet weight of macroalgae
+1deff596-b67b-4d23-8f35-acfcd632fe84	quantity	1900000	cells per gram of wet weight of macroalgae
+240fed6d-ff1b-4032-b9f1-3c23b7e8eb79	quantity	19816	cells per gram fresh weight of macrophytes
+a8e7e4aa-9b4e-4bab-8501-86d59005925c	quantity	37414	cells per gram fresh weight of macrophytes
+ad523a34-923f-40a4-9221-b7febbecdae3	quantity	27	cells per gram fresh weight of macrophytes
+a01ec0af-bcb7-4d70-9a2d-10aedae82439	quantity	125713	cells per gram fresh weight of macrophytes
+e205b24e-3821-4ae7-ba5a-a9ecec52fde4	quantity	138	cells per gram fresh weight of macrophytes
+8d9ae2d8-4ad0-4ac9-b5c0-b1ac75abf8cf	quantity	406	cells per gram fresh weight of macrophytes
+fb969d51-895e-488a-b9a9-c42f307ea8f5	quantity	33	cells per gram fresh weight of macrophytes
+d7c2d648-2d5d-4c05-9174-3a439b388c23	quantity	487049	cells per gram fresh weight of macrophytes
+765d183b-239a-48d7-b644-487775c2b6c2	quantity	4	cells per gram fresh weight of macrophytes
+8bb1b2c6-91f1-4ffa-96fe-61c89dfe9845	quantity	476	cells per gram fresh weight of macrophytes
+e65e2daf-74d7-48e8-86e2-f60f02e736ba	quantity	61008	cells per gram fresh weight of macrophytes
+43dee582-fef5-4a3c-afb5-cc930446598c	quantity	53934	cells per gram fresh weight of macrophytes
+4e93dfaf-c5ca-4a5d-a85f-eff2fc11ee98	quantity	812	cells per gram fresh weight of macrophytes
+37f97c59-7744-4d68-af1b-bb7ef95333fe	quantity	3982	cells per gram fresh weight of macrophytes
+61c8eee0-2278-4bd6-998c-c8e3382927ee	quantity	97296	cells per gram fresh weight of macrophytes
+87615ecc-d0cb-41cb-b3cd-92a174597a12	quantity	230435	cells per gram fresh weight of macrophytes
+ae9fa0b7-eec5-4c6a-9094-786c4b7d4a81	quantity	22218	cells per gram fresh weight of macrophytes
+cdb3d74d-404d-445c-80c0-f8da77b2aca9	quantity	621	cells per gram fresh weight of macrophytes
+ef48f9ae-38da-4800-af7c-3503b51f8379	quantity	2114	cells per gram fresh weight of macrophytes
+93fd0758-a496-43ec-a54c-6e9967830c81	quantity	65	cells per gram fresh weight of macrophytes
+828fce04-50f6-4318-8a02-3ed44888061e	quantity	764	cells per gram fresh weight of macrophytes
+fc9d31ee-4dd1-45d3-a519-8bd0c599618c	quantity	2282	cells per gram fresh weight of macrophytes
+083ef5ae-426a-40d7-9065-e0ee80791f6c	quantity	79	cells per gram fresh weight of macrophytes
+499a77b9-a492-432e-ba65-5a9b351e5b9b	quantity	79	cells per gram fresh weight of macrophytes
+a2db6f4f-8ed1-494f-8d65-a51ad07a688b	quantity	486	cells per gram fresh weight of macrophytes
+ca3ebb6a-20b3-4983-88e7-42e5761eda4a	quantity	8	cells per gram fresh weight of macrophytes
+b34188dd-69e8-446b-b556-7b331cf6c6b9	quantity	1544	cells per gram fresh weight of macrophytes
+a1054328-ec56-414b-a5b5-76389d19cd87	quantity	94	cells per gram fresh weight of macrophytes
+d7868e4c-e250-411b-904f-45a89cf5f728	quantity	6296	cells per gram fresh weight of macrophytes
+a1ec28d0-c60b-4a66-aca2-383111396137	quantity	352	cells per gram fresh weight of macrophytes
+f4236035-5879-458e-a871-8d609ac3374d	quantity	16190	cells per gram fresh weight of macrophytes
+2dd158b3-a9fa-4457-b4bb-062c70c4a2d1	quantity	1750	cells per gram fresh weight of macrophytes
+b6b4679d-ac7c-4f12-9a92-9feabc875903	quantity	2133	cells per gram fresh weight of macrophytes
+5919f86d-4f09-48d8-9ba5-71a6167b4d24	quantity	224	cells per gram fresh weight of macrophytes
+47626e17-999c-44e0-b67d-e0b2190d5d3e	quantity	4	cells per gram fresh weight of macrophytes
+8f53d492-cdf9-4c95-8f50-daf7e7910343	quantity	8584	cells per gram fresh weight of macrophytes
+3bc9e1ae-63b5-4ad1-ba5c-cac14bd6cfa8	quantity	252808	cells per gram fresh weight of macrophytes
+1450c9d6-4054-4d0f-b838-80ed700304c6	quantity	105500	cells per gram fresh weight of macrophytes
+6f270730-1ec7-489a-a68e-d1e5b2d1515a	quantity	593	cells per gram fresh weight of macrophytes
+416b591b-bf76-49b5-91ac-cecf7b273404	quantity	1849	cells per gram fresh weight of macrophytes
+15f6660d-6128-460c-bd5e-9bf0a277f44b	quantity	8762	cells per gram fresh weight of macrophytes
+e99036ad-8728-4c51-9208-d330c769652b	quantity	9874	cells per gram fresh weight of macrophytes
+6bdbbae4-dca1-405f-8473-4d0f6620c3b6	quantity	601	cells per gram fresh weight of macrophytes
+b87efe66-de09-43fa-aa28-0aa891fc0399	quantity	16004	cells per gram fresh weight of macrophytes
+3774197f-cf8d-4e69-a790-67565958bafe	quantity	578470	cells per gram fresh weight of macrophytes
+ec1e9b29-366d-4775-9507-6b54125efde5	quantity	1371084	cells per gram fresh weight of macrophytes
+e94e97c9-fd31-406c-a722-f9e15cbc646d	quantity	578470	cells per gram fresh weight of macrophytes
+f6362604-6cfe-4343-bc28-e9b5b4c16581	quantity	2092	cells per gram fresh weight of macrophytes
+4f5a0b94-e7c3-4876-8c36-cdf64f9f3645	quantity	1466	cells per gram fresh weight of macrophytes
+c2ce09cd-f0bb-4c66-9207-750023ba86b9	quantity	38	cells per gram fresh weight of macrophytes
+0159a316-0649-4506-92af-9eee8b1b3ef1	quantity	0.078	cells per gram dry weight of sand
+e9009ef9-ef57-481e-a3a0-22e55f82b590	quantity	84678	cells per gram fresh weight of macrophytes
+9901ff4c-c464-48b9-888f-7833fa8a0d0f	quantity	11442	cells per gram fresh weight of macrophytes
+e694aca5-635d-417f-9258-bef1bc01242b	quantity	84678	cells per gram fresh weight of macrophytes
+9a837e5f-a41a-4d13-a9b1-11dfa368181c	quantity	120945	cells per gram fresh weight of macrophytes
+dceb0c18-aeb5-49d4-8a19-e8c0a838040e	quantity	259979	cells per gram fresh weight of macrophytes
+63cd738b-80ab-4556-914b-4c62a0595949	quantity	1088	cells per gram fresh weight of macrophytes
+271e6534-72f5-4f3f-b793-da44f55ced5f	quantity	1088	cells per gram fresh weight of macrophytes
+b356e59a-8088-4a75-9c1f-e8cd80eeb9e1	quantity	562	cells per gram fresh weight of macrophytes
+eb438581-142b-4ea3-b03a-e64a79ab6c55	quantity	93	cells per gram fresh weight of macrophytes
+915a34c7-e08b-428b-b1f7-90a86d1758cf	quantity	1707	cells per gram fresh weight of macrophytes
+12e8bf98-afa0-4957-aee4-2f1562a439f4	quantity	2540	cells per gram fresh weight of macrophytes
+ecb5f9a9-fb8b-4d9c-b5dd-d3fe39c6b059	quantity	14182	cells per gram fresh weight of macrophytes
+41ff0874-0654-41b8-a11f-e20d89cce701	quantity	167	cells per gram fresh weight of macrophytes
+c352a171-a349-4c0b-87e4-b9edae7a35bb	quantity	440	cells per gram fresh weight of macrophytes
+310e6f14-d7b2-48d7-9137-1e3a0b846f10	quantity	13422	cells per gram fresh weight of macrophytes
+f8369c0d-c986-4807-ae45-59ea73f71545	quantity	49	cells per gram fresh weight of macrophytes
+4cd59f0f-e996-4776-aa95-4b9909320a37	quantity	192	cells per gram fresh weight of macrophytes
+ac7bead9-85f0-4b1e-865a-506f6667ffbe	quantity	3549	cells per gram fresh weight of macrophytes
+a6346059-f69e-4fad-9f95-3cffe433e80f	quantity	903	cells per gram fresh weight of macrophytes
+5f30c4ca-6ca2-4079-a000-c5a871ec208b	quantity	5	cells per gram fresh weight of macrophytes
+e9425370-d3d1-49c6-9cd3-bba6bc8567ba	quantity	33	cells per gram fresh weight of macrophytes
+e70c5fa9-442c-401c-8833-e78b9f22c1ed	quantity	50	cells per gram fresh weight of macrophytes
+06a30089-1759-4af9-a598-a5f1d5999fe4	quantity	13	cells per gram fresh weight of macrophytes
+ff8131b2-3c61-41f8-88ec-4b7207165866	quantity	634	cells per gram fresh weight of macrophytes
+3c0973c5-8b9c-4290-8788-383bf28e601c	quantity	124162	cells per gram fresh weight of macrophytes
+fad96837-dcbd-446f-a122-ff18a08dacfa	quantity	4662	cells per gram fresh weight of macrophytes
+da114125-d473-42ee-b005-8ee44c38642d	quantity	1749	cells per gram fresh weight of macrophytes
+358c2a1e-1d99-4836-90da-678f48b666da	quantity	11	cells per gram fresh weight of macrophytes
+e231e8c5-c071-4bb1-a78a-4ccbb95f3eaa	quantity	122418	cells per gram fresh weight of macrophytes
+e18b2e44-2db5-4582-bafe-6a65911c7215	quantity	163985	cells per gram fresh weight of macrophytes
+3c33994c-9b48-4cf3-97ff-35f661f87302	quantity	55367	cells per gram fresh weight of macrophytes
+aca8c793-0a86-44e3-a88d-0ec03b34c416	quantity	76046	cells per gram fresh weight of macrophytes
+dee027bf-3fb1-4ef8-b666-429e94fcddcb	quantity	4470	cells per gram of macroalgae
+1b896498-dd15-4e9d-a37f-12f77cd3d6cf	quantity	11603	cells per gram of macroalgae
+4edde8c7-d4ea-4157-b118-59d675940cdd	quantity	9466	cells per gram of macroalgae
+c62c4630-4609-4ac4-b5b2-80430d98039c	quantity	1918	cells per gram of macroalgae
+1bf5c19f-5ca1-4d6c-b06b-b0246349591a	quantity	421	cells per gram of macroalgae
+28a688ac-2829-4e62-b0d9-c86320811fa0	quantity	36300	cells per gram of macroalgae
+f674cd1b-ea13-4796-bcb4-d6b805b5f908	quantity	820	cells per litre
+8df20157-3a87-4da4-9528-e813bd0ddb3a	quantity	75918	cells per gram of fresh macroalgae
+fd7fc726-4ffd-4e73-98e7-d77122c20344	quantity	284065	cells per gram of fresh macroalgae
+b2f793b6-349b-474f-85c7-a2f32db13765	quantity	97763	cells per gram of fresh macroalgae
+9aaabb9a-442f-47b7-abe4-71b9c87c6397	quantity	5141	cells per gram fresh weight of macroalgae
+63e2b676-7605-41f0-908d-edb79c3a90a9	quantity	145380	cells per gram fresh weight of macroalgae
+e68eb909-2f48-4624-a119-b88fb624384e	quantity	124151	cells per gram fresh weight of macroalgae
+23341c85-4e7b-464f-a790-ba670e00f5a7	quantity	215680	cells per litre
+ad17de48-9488-473d-ab17-61967f41beca	quantity	342100	cells per gram fresh weight of macroalgae
+115c2c60-d9af-4d87-b1c8-983b9855f6c8	quantity	54255	cells per gram fresh weight of macroalgae
+0402cc5c-0b4a-41be-9e77-d30140a0556f	quantity	315760	cells per litre
+297089ae-936f-4ed7-be99-46411cad11cc	quantity	14600	cells per litre
+88c7c34a-8d15-4d6e-b231-e9b3086827e4	quantity	720	cells per litre
+70dfbaa3-4667-4160-8172-06ef4cd6917f	quantity	149400	cells per gram macroalgae
+587a9c80-bbd6-4347-bbf5-c0305bf0afd8	quantity	109482	cells per gram macroalgae
+391986be-9793-461f-960f-597163286456	quantity	49320	cells per gram macroalgae
+f2ef77d5-2d59-48cf-a48b-f9fa3660188d	quantity	18822	cells per gram macroalgae
+e7ccc268-d3e4-49be-aef6-a4a09f487401	quantity	698387	cells per gram macroalgae
+8a3e7ead-2ea2-4877-8761-83db35dd2e14	quantity	231560	cells per gram macroalgae
+1efc4626-b3ed-48c2-b286-f62f5cefb66d	quantity	56407	cells per gram macroalgae
+c59c32a6-bca6-4458-be42-3dc57aef1ae8	quantity	166845	cells per gram macroalgae
+ab53589a-7271-4b1d-b264-0ff1e3d4c758	quantity	321083	cells per gram macroalgae
+6dfe4be3-f7c0-4348-9057-5a4c9c516169	quantity	39573	cells per gram macroalgae
+2c175f0b-c37c-4c7e-954c-fb598ec45722	quantity	177815	cells per gram macroalgae
+dbfc0b31-e2d4-4b7e-b3af-678d809318bf	quantity	84000	cells per litre
+48754176-56f6-49a2-8469-e1283a489891	quantity	2660	cells per litre
+5f999746-af52-41ca-a92a-9c7f60249ffb	quantity	31490	cells per gr of macroalgae
+99f54bff-c32a-4e75-b7ae-34a5ef705a48	quantity	296408	cells per gr of macroalgae
+1f0c9b21-2d92-4e5c-9b2f-97f9e4f59ad1	quantity	114219	cells per litre
+25fe2f54-fe4a-495f-b388-9b9ba078f202	quantity	879901	cells per gr of macroalgae
+7ed1570c-1fda-4a50-ba21-fd622982b775	quantity	219600	cells per gr of macroalgae
+ab72a2dc-f552-4638-ba87-f28a8dfcfa3d	quantity	44694	cells per litre
+ddf5d88f-eeb0-4935-82c4-e48882902f86	quantity	1134980	cells per gr of macroalgae
+7c8b1e97-fa22-46b7-9600-280d3ed27914	quantity	183516	cells per gr of macroalgae
+ae47ebe1-8b65-48fe-be97-5a46f493d83b	quantity	25029	cells per litre
+b1649d3b-629e-46cc-8c14-fce11cd25223	quantity	113.5	cells per gram of macroalgae
+dde5f6c5-7ea9-46f4-a429-50530581a766	quantity	46.17	cells per gram of macroalgae
+71e6b51d-be29-4533-8e5f-2841008f7bc9	quantity	299774	cells per gram of macroalgae
+88e147ea-f2cd-4b6b-a6de-d7a50e76d2da	quantity	142850	cells per gram of macroalgae
+ca3a2f27-330b-4055-9c9b-731fc9cf274c	quantity	3695	cells per gram of macroalgae
+3547b887-3ca1-4644-9d36-87181411f828	quantity	2526264	cells per gram of macroalgae
+b613d84f-fc12-4b8d-95a1-2bd11f26a32f	quantity	1846	cells per gram of macroalgae
+bde6df92-7547-46ad-83d9-713e50339dc7	quantity	1627200	cells per gram of macroalgae
+971aaa0d-5341-4716-911b-268b69640ae4	quantity	126636	cells per gram of macroalgae
+ce1b0854-a4df-4d07-bafb-56d917bb6179	quantity	182710	cells per gram of macroalgae
+145e9f4c-baa9-4554-b53d-73a394560124	quantity	518788	cells per gram of macroalgae
+0ae9cccb-2c7d-4802-8c91-54f5eac449a9	quantity	211200	cells per gram of macroalgae
+d8cea601-6098-4861-b77e-249c258bdc87	quantity	5818	cells per gram of macroalgae
+3dc3dc16-bf2a-414d-9ff4-8ff6e49bf042	quantity	229716	cells per gram of macroalgae
+486257f7-dfe3-47c6-b9b2-0e12a2906134	quantity	3500	cells per gram of macroalgae
+9e5ecc12-8106-4aa1-a796-1c1c1f6a92e5	quantity	25642	cells per gram of macroalgae
+0adf1f09-35e8-4166-924e-2a9383ee17c7	quantity	49382	cells per gram fresh weight of macroalgae
+fc9b8fd8-0b83-41ef-b7dc-f7e7006d136e	quantity	124600	cells per litre
+c718d8bb-5732-4991-8011-22b7a86ee9c3	quantity	82116	cells per gram fresh weight of macroalgae
+e417fc70-a2b6-4ba4-b5d0-a5b142d7569e	quantity	160	cells per gram fresh weight of macroalgae
+0f3f093f-df36-44df-9e61-7044219fb928	quantity	100	cells per gram fresh weight of macroalgae
+27a49ffb-8ab8-428c-b48a-d4ec8568e419	quantity	1480	cells per gram fresh weight of macroalgae
+8ef8b807-e4c5-49b4-b10e-e68bd595ed9a	quantity	17760	cells per gram fresh weight of macroalgae
+35e63437-5608-41ac-98e9-cd2e06ae80ee	quantity	95000	cells per gram of fresh macroalgae
+40c140b0-5b1a-4fe6-9479-fd737b7ae77f	quantity	235947	cells per gram of fresh macroalgae
+6a99b0c5-6871-493e-bdd0-3da72061f68a	quantity	45000	cells per gram of fresh macroalgae
+0e9bcd4c-d42e-421e-ac99-40b357ea0b48	quantity	15000	cells per gram of fresh macroalgae
+16ff967f-1b94-47a0-b8aa-1cdbd26d520c	quantity	25000	cells per gram of fresh macroalgae
+fa7293a5-3851-4561-8110-d630850a2c61	quantity	185777	cells per gram of fresh macroalgae
+45f2523f-36bf-40d7-82d5-7ec7520c6cbb	quantity	171229	cells per gram of fresh macroalgae
+ce50e0a8-b8ae-4794-8ef9-28ea7a0c0fa0	quantity	91996	cells per gram of fresh macroalgae
+ce299aea-20c3-4e55-9114-bf666dbefb19	quantity	87315	cells per gram fresh weight of macroalgae
+c4135145-536b-4421-af6e-8580040e9052	quantity	9954	cells per gram fresh weight of macroalgae
+39b93e94-c519-4e2c-99b9-822001796240	quantity	15784	cells per gram fresh weight of macroalgae
+73004a3a-ef85-488b-8a6b-a08516195132	quantity	24058	cells per gram fresh weight of macroalgae
+50a4f2c1-b4a2-4e5d-aa55-df384d85ebab	quantity	126626	cells per gram fresh weight of macroalgae
+b0eceb66-d717-4e10-b658-b599c491ed89	quantity	68111	cells per gram fresh weight of macroalgae
+2464ed26-08e0-47ee-9d22-a589e0b7eafe	quantity	201219	cells per gram fresh weight of macroalgae
+59f8ced8-134b-4d4e-8f1f-852ab9d15d34	quantity	13454	cells per gram fresh weight of macroalgae
+a91719f4-686e-4aff-9a17-cb3645428ff2	quantity	285600	cells per gram fresh weight of macroalgae
+89d7cb45-5fff-46cf-9025-05b5c1207357	quantity	545422	cells per gram fresh weight of macroalgae
+ffe56d4b-2005-45df-8c65-af974b822821	quantity	53499	cells per gram fresh weight of macroalgae
+5567593c-bfb2-42f1-88f5-1b5c2b3924df	quantity	35912	cells per gram of macroalgae
+75d95b11-7f7c-41c0-a36e-dac445e2ce0e	quantity	1496	cells per gram of macroalgae
+f7c34440-8cf3-4cc4-bb20-1502e336b0b7	quantity	120	cells per gram of macroalgae
+d3b32a9b-b604-4e5e-8f68-8f3ee3c13e83	quantity	233	cells per gram of macroalgae
+7a173a45-b6ef-4f2c-95b9-7cd83c3602b3	quantity	1800000/ 4000000	cells per litre within the water column /on a macroalgae respectively
+6417aa71-3688-4b3a-8cfa-aa71452959d8	quantity	1000	cells per litre
+408ad52a-0ce0-412c-b886-4070a58ee658	quantity	3000	cells per litre
+78178b45-9927-417a-83ac-107be3e3312d	quantity	400	cells per litre
+ff0903b4-e9dd-4205-b972-89881f858a1b	quantity	12000	cells per litre
+616e3bdb-df2e-4a45-a315-b6ce71ee9169	quantity	7000	cells per litre
+ad19ed02-cd26-479c-84a4-140538df1741	quantity	40	cells per gram of macroalgae
+60f8949a-00e8-4532-badd-ff8213f5ceb7	quantity	178	cells per gram of macroalgae
+05b34fb5-01cd-4c21-a239-8b4a26689193	quantity	23133	cells per gram of macroalgae
+9f60b65e-5945-4bb2-b602-14322548a609	quantity	3921	cells per gram of macroalgae
+88fc2537-4f54-47f9-9ad9-d746cf502a1f	quantity	520	cells per gram of macroalgae
+fd06dc80-7b63-4c8f-8e2f-d8d9e9ef6fbf	quantity	248	cells per gram of macroalgae
+583819fa-8c5b-4152-8bb0-e1608e562695	quantity	719	cells per litre
+de71448f-05b2-43d8-a063-87262a34bd1d	quantity	2150	cells per litre
+1bf740af-b2d5-4bfa-a7a5-4d4a13078683	quantity	3700	cells per litre
+cc310040-b643-407b-8854-0a5836cc3fca	quantity	191	cells per gram of macroalgae
+c67f4dd2-dffc-4a9a-8531-2a0be6df5617	quantity	104	cells per gram of macroalgae
+66198c96-064c-46e2-9f0c-e3c5101a9f13	quantity	5869	cells per gram of macroalgae
+30d774cd-2346-4a24-a26e-b21e6a237c81	quantity	3500	cells per litre
+48f0a23d-1f70-4e52-a095-02757ac140c9	quantity	79176	cells per gram of macroalgae
+9a414e34-190b-4638-9a95-d229cd5b92ae	quantity	17403	cells per gram of macroalgae
+5c139a11-d1e0-44ea-98d8-2a4d6231de5c	quantity	180	cells per gram of macroalgae
+68f77b7d-ca1c-41a1-8bb9-08d67f955998	quantity	18	cells per gram of macroalgae
+775bd82e-2f3c-4a4a-874b-5edec4bf0c89	quantity	3132	cells per gram of macroalgae
+52338ffc-20db-46fb-8e6e-a7a50a0595f9	quantity	3189	cells per gram of macroalgae
+893cc792-4293-4478-b5a0-a2b319a573f6	quantity	15120	cells per gram of macroalgae
+10f70057-0e50-493b-9090-b0bd8a303e52	quantity	2000	cells per gram of macroalgae
+6e4837f1-d53c-4c40-9e3f-0d24924a48c8	quantity	269	cells per gram of macroalgae
+62da2a8a-4368-4fac-9a08-1e0905ed5473	quantity	3601	cells per gram of macroalgae
+b66df0ef-002e-4232-8648-7741fe50b253	quantity	5817	cells per gram of macroalgae
+78ca9056-811f-4c2a-8c81-f9f0a7867a31	quantity	6878	cells per gram of macroalgae
+a6ed6f6b-e0ef-4fa1-909c-a2c18b46df71	quantity	2279	cells per gram of macroalgae
+f7bbb086-9f12-4817-a631-ed8d03b6ea79	quantity	4822272	cells per litre
+6426d361-371b-43d4-97c1-8f1eafc4f497	quantity	2515968	cells per litre
+6214d19a-31af-420b-a998-e1078eef5db5	quantity	2424000	cells per litre
+f820a075-4155-499a-8b06-e6a09851cc45	quantity	952000	cells per litre
+f5089fd1-4d83-45ad-bf28-440ce48b3c33	quantity	6860000	cells per litre
+cf0e1c45-2591-4484-a34b-e17f9c51e343	quantity	900000	cells per litre
+08acbfd4-0aa1-4411-afb5-3a553691ab4d	quantity	4000	cells per litre
+32cc62cb-e236-40f7-80de-9570b6107a58	quantity	40	cells per litre
+6e6409b1-07c3-41b2-9cdc-8d3205bab38b	quantity	3600	cells per litre
+e34baf1a-a5d1-414c-80bb-a9e0bfa8848a	quantity	4208	cells per gram of freshwater macroalgae
+077a9aa3-a984-478c-a770-de2085141dd4	quantity	70218	cells per gram of fresh macroalgae
+238b0793-7b4b-4d2b-8b15-f3775c1dd642	quantity	157259	cells per gram of fresh macroalgae
+81509b83-972a-40c9-b2b6-2a0f2ab467cb	quantity	32342	cells per gram of fresh macroalgae
+ed94eda3-e4e7-4439-8ce6-619031ffc5dc	quantity	150000	cells per litre
+0038734d-78bb-45ac-88ba-8ea1e32b5b29	quantity	12650	cells per gram of fresh macroalgae
+603d8464-6ac6-4a23-8cfd-87a2284dcbe0	quantity	34524	cells per gram of fresh macroalgae
+db6bcb54-fba0-48f4-8779-aee4eece8ae1	quantity	138818	cells per gram of fresh macroalgae
+e1ee6220-64ee-4929-90f0-1993e8df0575	quantity	267054	cells per gram of fresh macroalgae
+7e5c9221-c26f-48d4-b5fe-591f0cf3f7e2	quantity	1552262	cells per gram of fresh macroalgae
+20aefb04-51e6-47a9-8049-ba69fd38bd20	quantity	432769	cells per gram of fresh macroalgae
+2a4659d3-6154-4e43-b4aa-07825de949ea	quantity	165032	cells per gram of fresh macroalgae
+381167b5-b364-42e9-b218-4f73f2cefe5d	quantity	366680	cells per gram of fresh macroalgae
+b814b1eb-1aaf-4559-8f22-36e81717b86b	quantity	60909	cells per gram of fresh macroalgae
+2ebee2a9-39a7-41cc-9227-bc769acd157c	quantity	2226	cells per gram of fresh macroalgae
+0ec5519a-9ad8-40fc-b8cb-bd3088aac417	quantity	562	cells per gram of fresh macroalgae
+e34c4c85-8abe-47cd-b9c4-7ca8b9895fe0	quantity	34434	cells per gram of fresh macroalgae
+0ea8abbf-8017-4160-b268-32fe7f4efb0c	quantity	176486	cells per gram of fresh macroalgae
+dec7ecdc-b977-4061-846e-b5e0be49518f	quantity	77445	cells per gram of fresh macroalgae
+edc10f82-e828-470c-8b80-39cc0a13b83f	quantity	4455	cells per gram of fresh macroalgae
+fcb56f98-c91a-4901-b0b7-3f4caa6d99f8	quantity	85376	cells per gram of fresh macroalgae
+fcd4db0a-8866-401b-88f9-5fd44410c986	quantity	66218	cells per gram of fresh macroalgae
+9929a567-97b5-4fbd-86f7-a1fffcbc0ca5	quantity	371696	cells per gram of fresh macroalgae
+c1263a8d-ae33-4039-86ec-0c55c6a2d0f1	quantity	56795	cells per gram of fresh macroalgae
+75e6704d-b173-4d58-95f9-d36e5b0cdccb	quantity	378992	cells per gram of fresh macroalgae
+538ce845-9647-44a3-9c7e-094f8c69b57f	quantity	223268	cells per gram of fresh macroalgae
+e71b1b4e-5cab-4be5-92e5-ad4c8f964674	quantity	740050	cells per gram fresh weight of macroalgae
+0749d7ec-a4e8-4b88-888c-06a5a357f436	quantity	480307	cells per gram fresh weight of macroalgae
+ca01ce13-af9e-4f2b-9159-373eb5863683	quantity	52859	cells per gram fresh weight of macroalgae
+2f248e3c-acb3-4170-9d31-0ec9d6841f48	quantity	567273	cells per gram fresh weight of macroalgae
+a37fafdc-d5d9-4198-b6ba-09ece67604aa	quantity	112752	cells per gram fresh weight of macroalgae
+eea2ed3c-c5b2-45d3-aa44-0b4f5a22e2ad	quantity	440000	cells per gram fresh weight of macroalgae
+5ad23519-62c7-4457-8021-88ee33a70ea1	quantity	293744	cells per gram fresh weight of macroalgae
+947174ef-3a8c-4757-b8fe-d64aec9f29a2	quantity	1600000	cells per gram fresh weight of macroalgae
+7bd9ece3-f7b7-437b-98c0-5acd396fcc29	quantity	190972	cells per gram fresh weight of macroalgae
+9b7e5d5c-6082-4c44-a548-59dfdaf1ad84	quantity	1134413	cells per gram fresh weight of macroalgae
+4337e9e6-f1ae-47d9-a127-f7212c3dca45	quantity	36509	cells per gram fresh weight of macroalgae
+df150850-451d-4e88-8a73-b8daf448c0f7	quantity	836237	cells per gram fresh weight of macroalgae
+2eb3dc2a-6565-498a-9b08-6764484b8c34	quantity	158610	cells per gram fresh weight of macroalgae
+96ed392f-7c73-463f-9e63-b160b6ee0a3f	quantity	581395	cells per gram fresh weight of macroalgae
+9ac52860-d2de-42ba-90dc-71e4282f5744	quantity	141486	cells per gram fresh weight of macroalgae
+836409b7-0f70-4d62-8004-25f9605a7a2a	quantity	2541000	cells per gr fresh weight of macrophyte
+33a75489-9737-40ba-b606-d7c5081d316f	quantity	30400	cells per litre
+7abc49af-2234-4b20-9638-fc11c2ab0c7a	quantity	1592511 / 28194	cells per litre / cells per gr fresh weight of macrophyte
+1fd288c9-d5fc-41a8-be29-e102fa01c9c5	quantity	1433470 / 20863	cells per litre / cells per gr fresh weight of macrophyte
+2b1e6426-0e1a-423c-a65c-629db17a7d2f	quantity	207685 / 16100	cells per litre / cells per gr fresh weight of macrophyte
+c12d202e-1bb8-413e-81de-34e6fd26feb9	quantity	333793 / 140	cells per litre / cells per gr fresh weight of macrophyte
+702572ce-08bc-4588-be57-6fc27ad2ae79	quantity	1701614 / 1815	cells per litre / cells per gr fresh weight of macrophyte
+14cf4a16-7e83-400b-908f-4a65b30586f2	quantity	1626621 / 9355	cells per litre / cells per gr fresh weight of macrophyte
+c0c88907-0ffc-4bdc-bab8-b9ba1d8434a2	quantity	500	cells per litre
+748a956c-dd71-4807-be1d-9d73d6bc2aa0	quantity	1300	cells per litre
+d3f18a74-a218-4a31-826b-226319208598	quantity	159576	cells per litre
+0184ed2a-a58e-477c-a3c2-e65f244e268f	quantity	1195701	cells per litre
+6601467e-d965-4908-9fd9-b22ddee3f968	quantity	516854	cells per litre
+148d8b1f-069e-47e0-a9fd-58ab8b72bd66	quantity	4	cells per litre
+b36b1a58-db96-4293-8804-81152b168d2b	quantity	4	cells per litre
+a46958bf-9e29-4da0-9068-b52394dd4e53	quantity	54	cells per litre
+323cdd89-9f18-4945-9a57-864510e95a5f	quantity	763	cells per litre
+5dc229ee-fc82-4fb3-a4b8-bebfd055a13d	quantity	55	cells per litre
+68f0c22d-1965-4d38-bee6-dcc38ec3e23e	quantity	91120	cells per litre
+91497f78-31a9-46ca-8692-de1c6c661745	quantity	2440	cells per litre
+90c5a70b-f062-4cdb-8b6d-a79e5a4de980	quantity	16240	cells per litre
+bd64d3e2-da9a-49be-a2fb-b859432be988	quantity	471360	cells per litre
+95ec61c0-7eab-4ea3-b0cf-c04b536548c7	quantity	29440	cells per litre
+4ede8d10-cf79-48cc-8894-73f9966242e8	quantity	1880	cells per litre
+8dce3d2e-6ef7-4cd5-a204-07292312ae15	quantity	44400	cells per litre
+974bb9a0-0b00-4a11-8ec9-531de6c69c1d	quantity	634800	cells per litre
+01804ab3-b49e-45c5-afec-5f316fe5b806	quantity	14360	cells per litre
+41037c53-49f5-459c-b031-e0a7015ac7bb	quantity	520	cells per litre
+9ec1629c-7bd1-4a8b-a184-5fa16ae4437e	quantity	154000	cells per litre
+a162ce6b-6285-4aa9-b844-fc7dcc856e34	quantity	85480	cells per litre
+d1719224-0651-4cb4-bdc0-0c15fe3620e3	quantity	31160	cells per litre
+206da256-275e-4144-b7f3-8d42fed35871	quantity	72120	cells per litre
+ebd5917a-432e-4278-8cfa-09f1e87b1d1c	quantity	14253	cells per gr of macroalgae
+5b8edbcb-4d43-45fb-bdc8-92bc396a1b2c	quantity	115000	cells per gr of macroalgae
+9a12aeb2-66da-4842-b6a4-436fab20cae4	quantity	128000	cells per gr of macroalgae
+b5aa0c2f-a6c5-493b-94ad-1cf3b23f3865	quantity	58413	cells per gr of macroalgae
+9eed7055-4f0c-4ba3-bd50-d7afe5fa259a	quantity	24284	cells per gr of macroalgae
+3d9537d4-0861-4f14-9336-926831376827	quantity	853333	cells per gr of macroalgae
+fa101990-4e0c-4069-83bc-420322161fbf	quantity	3428	cells per gr of macroalgae
+e811bc1f-a49d-4ba0-8979-5d94ca00f9b3	quantity	62022	cells per gr of macroalgae
+8a1c0925-0d87-4a63-a158-3fcc7e135ac0	quantity	130000	cells per gr of macroalgae
+f9f31c9c-c072-4bb2-aa15-ee8eef7b92f2	quantity	18848	cells per gr of macroalgae
+932771a4-d355-4186-a3ab-27f6f1a1eef8	quantity	475470	cells per gram macroalgae
+574a6e7c-121d-4ac1-aa11-850d1eb907d0	quantity	282823	cells per gram macroalgae
+9479ef65-df64-496c-9f0a-c093b4a4099b	quantity	192025	cells per gram macroalgae
+c4107031-8035-4a56-b786-dff7feb58df0	quantity	27629	cells per gram macroalgae
+ed8fddb4-7bdb-49ba-a938-d2acfc64fb05	quantity	421190	cells per gram macroalgae
+d36b1b7c-f2fb-40a3-9c89-32193d2e9b95	quantity	2384	cells per gram macroalgae
+4411ca24-887d-4bd2-a61e-c45789f042d6	quantity	303791	cells per gram macroalgae
+506ab09f-6bdf-4d68-9406-4b0a3881e5dd	quantity	331504	cells per gram macroalgae
+7fea71bd-d111-48ab-99c1-cc57ee1bf914	quantity	64190	cells per gram macroalgae
+b9badbc2-8f01-499a-9be7-85ff66bdb747	quantity	305607	cells per gram macroalgae
+f78a8c37-145a-45e9-886f-675e9d147a53	quantity	250184	cells per gram macroalgae
+de528d5d-4e74-495b-a99e-d2999dab9ff7	quantity	626309	cells per gram macroalgae
+5782d82b-95ca-485c-99d8-d85aa8b81eda	quantity	147474	cells per gram macroalgae
+36dfcc9a-18dc-4b0f-8338-2b82a47a02c0	quantity	642314	cells per gram macroalgae
+abb2f77d-c579-46cf-9178-0e976af78530	quantity	481605	cells per gram macroalgae
+bf8f3712-41eb-4efb-9e51-af65f6fcd2ea	quantity	168192	cells per gram macroalgae
+f422a74b-04ef-4ac1-b245-5f920f644c93	quantity	48261	cells per gram macroalgae
+a24a7d7f-e7ff-4eef-b5b4-e0531661b648	quantity	298690	cells per gram macroalgae
+42527523-62a8-400a-b9ff-fdbb32349991	quantity	290791	cells per gram macroalgae
+f9ab8266-0cd5-4270-aa42-6248bbb742e1	quantity	3335	cells per gram macroalgae
+b08de4ce-04e2-425a-964f-027663542eec	quantity	191725	cells per gram macroalgae
+a9149b9a-7b99-4a8b-ae59-7152002fe108	quantity	701947	cells per gram macroalgae
+f8592c8a-07bd-4a07-b61d-4ece3f29bddd	quantity	146988	cells per gram macroalgae
+e04d7be3-92cc-4c87-a429-ab700ae72376	quantity	17829	cells per gram macroalgae
+716ccac3-a043-43b3-ad48-b1ded127b800	quantity	104271	cells per gram macroalgae
+312d9b82-20c8-4d4d-ae20-035232954266	quantity	349463	cells per gram macroalgae
+e1bddbd6-b43c-4cb4-a072-387db9adf4f6	quantity	247797	cells per gram macroalgae
+101efa16-1a56-49c6-a98b-4b990acf2d9a	quantity	17829	cells per gram macroalgae
+0971856b-43af-4934-af60-1cb36a79f6a8	quantity	675409	cells per gram macroalgae
+f935ddff-89e0-402e-85b8-a1cbe5dde26c	quantity	33888	cells per gram macroalgae
+95b37044-7819-4796-ae27-5334fb2b56dc	quantity	143634	cells per gram macroalgae
+4daa5374-393d-4f99-9849-a28b9f6a41da	quantity	6809	cells per gram macroalgae
+bafac35e-6eb2-4bd9-8b52-c30c5bd1b3f4	quantity	2670000	cells per gram fresh weight of macroalgae
+85975e3c-18ee-4ec1-a112-8a9b9ae57c15	quantity	1492	cells per gram of macroalgae
+dfd6b8da-ee71-49a7-abb8-59fc3928b483	quantity	87875	cells per gram of macroalgae
+ec5db638-c49c-4f04-8289-b76353373f9f	quantity	6000	cells per litre
+92583496-649d-47b1-93b6-632fbb14cf6d	quantity	4500	cells per litre
+391fa3cd-fd50-49e9-a5f3-0d16036a88d6	quantity	41771	cells per gram of macroalgae
+ef728c80-7872-4504-88ce-3ece21d6178c	quantity	338	cells per gram of macroalgae
+15877fc0-57c6-4068-98e4-dba0502fabb3	quantity	6800	cells per gram of macroalgae
+d602a9c3-4c90-4b2f-b9b3-8ad665fc159c	quantity	334306	cells per gram wet weight
+973537f5-0f86-45f3-8cc3-e5bbdb845640	quantity	7595	cells per gr of macroalgae
+ce4d53c4-b479-4561-b89e-f88a6a64ff04	quantity	8571	cells per gr of macroalgae
+dd6fd0a7-7c7c-4fe1-bd0d-6c80247dd3c1	quantity	25	cells per gr of macroalgae
+50d8fb41-b4d4-411b-b1e8-702b55512c24	quantity	50259	cells per gram fresh weight of macroalgae
+c67c62f7-63ba-4a99-8db8-dd3c47e1fe4c	quantity	217075	cells per gram fresh weight of macroalgae
+2233cbc1-78ab-44b3-9fc2-fa120521c21e	quantity	69809	cells per gram fresh weight of macroalgae
+e50ab3fe-9d3b-4fe5-807f-121148a7ffd8	quantity	67545	cells per gram fresh weight of macroalgae
+b175a280-595b-424e-8aec-bde072653290	quantity	3131	cells per gram fresh weight of macroalgae
+0db3e338-979b-40b7-a8b5-5c93dac81cca	quantity	2074	cells per gram fresh weight of macroalgae
+9fa9caac-c5d6-48e7-86c3-a9436fb027c1	quantity	96451	cells per gram fresh weight of macroalgae
+a912b7cc-e12f-4232-b6c4-8324f6f559e4	quantity	8207	cells per gram fresh weight of macroalgae
+898ec8bc-3618-4502-b0dd-9677f5d34471	quantity	971550	cells per gram fresh weight of macroalgae
+5e852eb1-f195-41f4-9666-1c0427b75212	quantity	547	cells per litre
+aa347526-ba1f-47fb-8e8e-a24e29d11f40	quantity	2551	cells per litre
+11bc5e15-b36d-4f31-be4e-a701061c5d5d	quantity	30800	cells per gr of macroalgae
+96238882-23af-4912-9aaf-e8f8317e62ab	quantity	1383	cells per gr of macroalgae
+92121c04-50d4-4ad9-8223-1be93ad21f28	quantity	14894	cells per litre
+c15e836e-dc37-4154-9733-9202809e3dbb	quantity	12130	cells per gr of macroalgae
+c5d51af7-13ab-4712-861d-1a308f40b5d7	quantity	606237	cells per gr of macroalgae
+83b6b956-91cf-4563-bfc1-d4b5979ef1ce	quantity	23356	cells per gr of macroalgae
+71959589-f02f-4e90-bd65-1a3553c2d56c	quantity	119.663	cells per gr of macroalgae
+8fa847a1-adb7-418a-a7eb-20a8e3d73678	quantity	128824	cells per gr of macroalgae
+9d48658e-9baf-46b4-8898-e911947b7f44	quantity	370347	cells per gr of macroalgae
+f5a803d5-509f-49d7-9a35-06b59949c6a3	quantity	29023	cells per gr of macroalgae
+7510d483-f4f7-4c7b-b6a5-8d0ec6454021	quantity	210321	cells per gr of macroalgae
+af3a024d-ea76-4d45-9400-1b373e348ff5	quantity	169551	cells per gr of macroalgae
+ebcd2533-b2dc-4631-86e3-6ad53d9a70f0	quantity	103657	cells per gr of macroalgae
+423a0b14-cffc-4fe1-8c1a-c58eb2f8fec5	quantity	14695	cells per gr of macroalgae
+b65d29e1-eb9f-4537-bf81-ff3f6e6df861	quantity	53789	cells per gr of macroalgae
+64a9ab46-a575-4d99-a85f-42e41b6761d7	quantity	210743	cells per gr of macroalgae
+4a8e6f00-10ea-4d92-841a-2a2e0f56b393	quantity	302199	cells per gr of macroalgae
+c1533edd-e360-4cae-9c79-8bc4b23d1f31	quantity	98400	cells per gr of macroalgae
+b17836b5-8dca-44bd-bfb9-b2ef94768197	quantity	1040000	cells per gr of macroalgae
+682bb185-8b77-4d1a-a38f-42e705106cee	quantity	206936	cells per gr of macroalgae
+9b106bdd-e33a-4959-b3b8-703445a31bd0	quantity	3000-50000	cells per litre
+b5d6fddf-6fa4-48df-ac02-b8a45ce910d3	quantity	ND	
+60f269ca-c956-46aa-944c-1a4869d1a3f4	quantity	ND	
+49c1e5e8-2b98-4458-8190-48121225b828	quantity	9.3000000000000007	cells per gram of macroalgae
+e123e79f-04bb-49ab-a30c-b448e5eb5c61	quantity	10550	cells per litre
+58513219-e8a8-446c-b9b8-b597790e3364	quantity	67.8	cells per gram of macroalgae
+64c2013a-dd29-43ff-88c9-e5fe423f7129	quantity	108480	cells per gram fresh weight of macroalgae
+8a3ec62d-3de4-4f27-a032-55998d0325ee	quantity	153928	cells per gram fresh weight of macroalgae
+982f2f0d-f94f-4f7f-bc3c-1eeb9164b196	quantity	207429	cells per gram fresh weight of macroalgae
+19d2faa9-fbd1-43b4-8f40-9f6e76b0926a	quantity	49003	cells per gram fresh weight of macroalgae
+14141687-a212-41bb-b470-39ca7a95109b	quantity	821	cells per gram fresh weight of macroalgae
+c0675137-d12a-4a46-82f1-350b3c08c778	quantity	63078	cells per gram fresh weight of macroalgae
+d723a40a-7cda-4268-9a0b-a578c2769043	quantity	69597	cells per gram fresh weight of macroalgae
+57661c97-60ae-484d-9052-322120e732ed	quantity	692829	cells per gram fresh weight of macroalgae
+c965a565-268d-4961-b5b4-93b291b65ff9	quantity	69653	cells per gram fresh weight of macroalgae
+5a2680f1-9003-4afd-b417-1857ebf8e858	quantity	22804	cells per gram fresh weight of macroalgae
+033711aa-2de7-4f3d-b226-e17bbf02cf5c	quantity	434648	cells per gram fresh weight of macroalgae
+7aac8a26-fa00-4475-bc7d-a1fc3718f337	quantity	43100	cells per gram fresh weight of macroalgae
+13a2810a-e13e-4ea3-97bb-20277acc79a6	quantity	440	cells per gram fresh weight of macroalgae
+f21b8adc-5147-4fe6-86d7-d6c8ec78d27c	quantity	5024	cells per gram fresh weight of macroalgae
+1208ec08-a4a3-43df-bf55-a3dc03b07ff7	quantity	47163	cells per gram fresh weight of macroalgae
+fbe57835-575f-483a-aeea-5166816affd1	quantity	980381	cells per gram fresh weight of macroalgae
+7fb2aa3b-5b90-4c73-90ed-779afc8ad80f	quantity	35512	cells per gram fresh weight of macroalgae
+2c49f671-b37f-4ffc-91f1-4b9347f2d7e2	quantity	307684	cells per gram fresh weight of macroalgae
+04a42455-edff-4a1e-be57-7fc4f47dce8d	quantity	2945	cells per gram fresh weight of macroalgae
+e1a8d656-6560-47af-8a31-d2d7a9b6d2f8	quantity	5408	cells per gram fresh weight of macroalgae
+1506cd9f-daf7-43d4-9be2-c35578967006	quantity	3773	cells per gram fresh weight of macroalgae
+ff1ac507-022d-480f-98b2-05178ca7f418	quantity	156000	cells per gram fresh weight of macroalgae
+a8669a5f-4911-4cde-9911-6f1a63e478d3	quantity	132467	cells per gram fresh weight of macroalgae
+b3c305cb-1dc0-419d-bfc3-d99cfa437d1c	quantity	656836	cells per gram fresh weight of macroalgae
+bf88dffd-db5d-4cc2-9be1-e9da7da90ccc	quantity	31579	cells per gram fresh weight of macroalgae
+99d20f8d-c457-4c50-b22e-dae668908e7a	quantity	5380	cells per gram fresh weight of macroalgae
+01a819cf-1ba7-4e42-8515-6de64484af7a	quantity	10068	cells per gram fresh weight of macroalgae
+7bf5075c-78d4-4f2a-91e0-7c9cda466cfa	quantity	76395	cells per gram fresh weight of macroalgae
+4e94b8cc-4c4e-4e0a-af9b-37dc3b0bcf95	quantity	20210	cells per gram fresh weight of macroalgae
+9c773613-8003-490d-95aa-3913c59bf42d	quantity	600	cells per litre
+ebe7066b-5b61-4d39-b352-00bbae7f6038	quantity	29157	cells per gram macroalgae
+4fcace20-b553-4ee2-9d97-1bf67343555d	quantity	2840	cells per litre
+1f893578-88a0-4918-b594-7685ffd2bf67	quantity	60710	cells per gram
+9e57d6d8-8aa5-4760-817f-be2bd2b86bab	quantity	7600	cells per litre
+6821492b-e489-48ad-9c38-ad1c7f2dd964	quantity	32831	cells per gram
+488a9241-8a2e-4b6d-96da-45f31cb798d6	quantity	1680	cells per litre
+8b05b7d4-4a9b-4ff5-bb50-5ab80bfbe45a	quantity	2071	cells per gram
+09a16fee-21a5-4037-85e3-a340a5b0400d	quantity	300	cells per litre
+ccc4d886-f8a0-4429-b2f7-f0a960faccc6	quantity	6015	cells per gram
+9b74ae1a-8d97-4970-ae03-acaf2ef4f617	quantity	1700000 / 21000000	cells per gram fresh weight of macrophyte / cells per gr dry weight of macrophyte
+41d3ca78-7259-40bd-8c1c-e3db2e5759ab	quantity	25000	cells per square centimeter
+01765535-8149-41c7-9b18-ec0f1a7176b1	quantity	60000	cells per square centimeter
+454bf79f-8148-419d-9f68-5619655d6d54	quantity	8000	cells per litre
+bd02fbb5-ecf4-4adb-b05e-f87fa60e2c6d	quantity	1222400 / 5000	cells per litre
+78c7c2b6-bc68-4a30-89dc-95721825958f	quantity	5000000 / 304000	cells per litre
+54d35517-c539-46ce-97ea-e4105acaf100	quantity	1800	cells per litre
+5a7d40d6-1805-4552-a961-2fbc0e115ecf	quantity	16000 / 7680	cells per litre
+97f356d0-0765-4656-bc67-b51eeea47a6c	quantity	5000	cells per litre
+326b8db5-46d8-45b2-802c-57778d5bae57	quantity	1702000	cells per litre
+5db2c9c6-2dbe-4cae-860e-33125f4fc1e1	quantity	40000	cells per litre
+15f332d0-9a6f-47d8-832e-3b91010be061	quantity	3400	cells per litre
+b511b836-cfbe-43d4-ad76-34ff5e4deff6	quantity	256000	cells per litre
+214c2013-6a1a-4ec0-b7ce-abfdf136e5db	quantity	5000000	cells per litre
+fcff35fc-2772-4fbe-b2e9-156b57bc613a	quantity	192000	cells per litre
+79176b04-d548-45bc-a3de-3ab51d494540	quantity	23280	cells per litre
+937b395c-4ee7-4831-8133-690440ef6711	quantity	160000	cells per litre
+b5758f4c-7d15-48a9-9909-fe662b6af5e4	quantity	5216000	cells per litre
+36b287e2-2d05-4888-9ac8-c0a8199f54e1	quantity	3637600	cells per litre
+073608a3-1d9c-4083-bea3-d00cfab5820e	quantity	192000	cells per litre
+3ccaf63d-98a6-4d3c-b78c-6aa821d07326	quantity	42080	cells per litre
+ceecde3b-22a8-4cd7-a5d1-e36c0079402d	quantity	79200	cells per litre
+60ae1ce6-9a3d-4abc-bc8a-26b33f2e2343	quantity	943600	cells per litre
+ad49a696-877e-4df8-b046-e216a746a5ca	quantity	4584800	cells per litre
+98ab163e-330c-4b50-985f-b72d83ea516b	quantity	180000	cells per litre
+943c3979-002e-4038-a040-397099fabd44	quantity	202800	cells per litre
+873fc5ee-9602-448b-ab1c-d2a016b8c8c7	quantity	56000	cells per litre
+fedeae07-edc0-4dce-b29c-111f22f36b57	quantity	55000	cells per litre
+8bd65728-c0a5-4c9e-ac23-2a0c81a0eb88	quantity	7901575	cells per litre
+170a8cff-3fdd-4438-9ef2-c384a222eeb6	quantity	304000	cells per litre
+fe4b7680-db16-4638-aeff-9675a56f8727	quantity	195409	cells per litre
+19c1f7a9-3f3c-40a7-9b4c-fecb01cf7053	quantity	257350	cells per litre
+33fc7b8f-b49d-4b4f-9bb4-56278cab512b	quantity	152800	cells per litre
+6cc647a7-962f-47a2-a555-7f1414cff41a	quantity	126400	cells per litre
+fbf6a8bc-1eae-4ea3-99bf-db9684d16b7f	quantity	297000	cells per litre
+5a0fcc9c-6fe9-4969-9999-01cc29f5f613	quantity	762000	cells per litre
+d59134ac-f29b-4036-b174-0b35f69e3d59	quantity	3784000	cells per litre
+8581587c-1f76-4235-af8d-628e3bd74cc7	quantity	609600	cells per litre
+ffaaeea2-c32b-464f-b5e6-ce31f81fab1d	quantity	4360737	cells per litre
+3d2204f4-c9d2-43ee-b9b6-29b9fa2cc0ec	quantity	3823254	cells per litre
+4806dc17-9b1a-4022-a83b-a717e0255d89	quantity	11760	cells per litre
+74f171ab-1c0f-4984-834a-d4386922379c	quantity	169560	cells per litre
+d4c489a0-c77c-4af2-aa4a-87c5d3daaca5	quantity	109400	cells per litre
+4acf0e6e-63fb-4a53-a449-faafd4d6f224	quantity	3503144	cells per litre
+979e3055-b30c-4415-ac9c-0a4028804661	quantity	679485	cells per litre
+b0bb40a5-67c1-45ac-9006-cd51cce21902	quantity	860411	cells per litre
+49680592-746c-4dff-a920-d488fb8e2d63	quantity	226080	cells per litre
+3d2d4f4e-523e-4539-97e5-5c1370b1c82e	quantity	536800	cells per litre
+2e7a848b-24e1-4fc8-9c15-dacadf7b0678	quantity	6103927	cells per litre
+4d6f4ea8-a9bb-4ad2-8dad-45aa5a240d2b	quantity	1802696	cells per litre
+47c80d38-053c-4335-8c46-f733f5e7d251	quantity	3293547	cells per litre
+4c864acf-389f-4ff8-8202-b2c5b9739f63	quantity	19468	cells per litre
+2112aab3-a49f-4ea3-83ac-2fec71202611	quantity	3400	cells per litre
+601fdfb8-7f5a-4d10-90e7-48b27cb9d190	quantity	7362000	cells per litre
+a9989767-266f-41e2-80b5-affc02ec53d3	quantity	480144	cells per litre
+1574db01-76e3-4dd0-9543-88a1a22d14cc	quantity	6708320	cells per litre
+86da52a3-faa2-444b-81d7-9e0f336f877e	quantity	92326	cells per litre
+afe0175f-a8d3-4b1b-974b-93ab80ec86a1	quantity	15700	cells per litre
+e584f897-78dd-4916-8462-9def5bb1f79a	quantity	2976311	cells per litre
+f448051f-8a06-4651-92e8-453ecfc31d48	quantity	7700	cells per litre
+6686bdb4-c71c-4df3-b614-63a1d159e0c9	quantity	14303520	cells per litre
+133c2284-2085-42d3-aa1d-6947f7a59b6b	quantity	14037	cells per litre
+0c4c328c-a0cf-475d-95bb-dc0bcb9c0176	quantity	10560	cells per litre
+1ae8e2e8-7915-4542-aea1-23f94671130e	quantity	800	cells per litre
+01dc4ca2-667a-4428-9ff2-a24fada1c4d9	quantity	37500	cells per litre
+74d07117-5b59-4467-8eb6-c1d707a79493	quantity	0.7	cells per litre
+00614f1e-705b-41bd-be3f-13d68b781ea8	quantity	2376	cells per millilitre
+f75f7e58-c5e6-4dcd-b163-285942ca04c3	quantity	400	cells per millilitre
+5a8c007f-7227-49a7-af4b-ac7cafc896f4	quantity	1200	cells per litre
+3f7ae36d-78f1-447a-8cf8-5aaae45a038f	quantity	1600	cells per litre
+2f22e2c1-ca63-4658-ba32-829ecd5a49b2	quantity	9000	cells per litre
+2a25153d-29ca-462f-9dad-21bc7b157676	quantity	750	cells per litre
+8c8b3c54-781f-43fa-826b-524af8c97ce1	quantity	60	cells per millilitre
+e77ed7b4-f5e7-40cf-b63d-f0c72f4bbeec	quantity	<20	cells per litre
+40efb398-4e3b-4121-801d-785aa911e6b1	quantity	60	cells per litre
+91659e28-57f8-4d6d-9f0b-26f8bbe9709a	quantity	6000	cells per square meter
+5b9a3fab-600a-4066-a6c1-cc85fec0e6c9	quantity	3000	cells per square meter
+6dd9c2a2-ab35-45b3-8ff5-904defaca587	quantity	80	cells per litre
+6a6d5fc5-35e9-4d55-bf07-07a38ad94548	quantity	< 110	cells per litre
+8bcd2b6c-2529-4ed0-b32b-5bdf4e163df8	quantity	5000	cells per litre
+a2045a68-ff8f-4640-a83b-05f027296cce	quantity	1300	cells per litre
+9af2fd86-ab16-41e6-ab15-b5070bcc0dab	quantity	2063	cells per gram fresh weight of macrophytes
+d9853f29-a605-4230-9835-31e12c346d8d	quantity	0.159	cells per gram dry weight of sand
+91000dc0-9dd8-48b4-a989-b5975b957c7d	quantity	117	cells per gram fresh weight of macrophytes
+11474d5f-8ba1-499c-b648-860fda26e90a	quantity	39	cells per gram fresh weight of macrophytes
+e6a4872c-67e1-4753-a033-fa7782a0379d	quantity	3.23	cells per gram fresh weight of macrophytes
+5824e4c9-f29e-4bc7-8896-f88b577b46dc	quantity	98	cells per gram fresh weight of macrophytes
+a732f07e-3010-453b-a316-4d6cdaf29da2	quantity	71	cells per gram fresh weight of macrophytes
+bdf604a5-d24e-4dd1-ad6d-3536a79785c4	quantity	942	cells per gram fresh weight of macrophytes
+eafdbc3b-dc85-49b0-a986-ec4f6c409371	quantity	132	cells per gram fresh weight of macrophytes
+481a08f9-40bf-4c57-b129-2da23ff21331	quantity	71	cells per gram fresh weight of macrophytes
+8b213b72-1b7f-4700-9ed4-692539644935	quantity	7.21	cells per gram dry weight of sand
+a5e4f566-4008-4d5c-b800-fa32cb4e577e	quantity	40	cells per litre
+c5289d9a-3c7f-4850-a891-ddb2bf0c882a	quantity	7920	cells per litre
+c8dc7ace-e276-4c73-a8c2-a485ceae092c	quantity	51340	cells per litre
+018a09e6-d21a-4960-bd1d-b03409faa118	quantity	800	cells per litre
+4c3c9b1c-bf5a-4d08-a2c1-05bc03e0b48a	quantity	1200	cells per litre
+49ce1172-0ca4-43d8-8bdb-da37691b5951	quantity	1500	cells per litre
+19125d0e-c08b-42f4-a93a-c2a72aa07a9e	quantity	104000	cells per litre
+9930fc66-31c9-4f35-bd20-d1e1ac5a81a4	quantity	19250	cells per litre
+965cefec-a5c5-4349-a763-2d458917feef	quantity	4700	cells per litre
+bd34b28e-9976-4011-8d66-9950bb9be99d	quantity	540	cells per litre
+0a69a0e5-8b58-4aad-b362-68eeb716bebf	quantity	1600	cells per litre
+36f89755-4126-44fb-bd72-605ea561c09b	quantity	500000	cells per litre
+4f0fab51-79d8-4053-94c2-01fbf465dc7d	quantity	1600000	cells per litre
+1e3f740d-75bc-4c54-b436-837700230ca1	quantity	2200000	cells per litre
+bf324388-2a3b-4f41-8bc1-4d14e952a37d	quantity	2960000	cells per litre
+9d570738-d2d5-4593-9774-9850acd5ae9c	quantity	1500000	cells per litre
+fee7ad51-eaf4-46ac-a647-e083d7fc88a0	quantity	118560	cells per litre
+70bc5a95-6780-41a5-87b2-628aa5527f9d	quantity	6400	cells per litre
+06aafe7a-f700-4a33-afde-ce1883c2be1e	quantity	118000	cells per litre
+a08f38da-2765-4b6c-87ed-76e2e5a82d72	quantity	12040	cells per litre
+f9906a98-8094-4c66-bc81-89b505d0b74b	quantity	900	cells per litre
+3ce38a4b-0270-4d40-9cd3-b2716ef2e146	quantity	70000000	cells per litre
+f3b72747-f64c-4ce2-8276-5bc6522b0127	quantity	36250000	cells per litre
+653a7b82-0b37-421d-af1f-2c4a24383147	quantity	32000000	cells per litre
+4b7bd298-4ff9-45df-bc19-866c00d0d6a6	quantity	187000	cells per litre
+111b9073-402b-48c8-939c-e7bd15f8fbee	quantity	13500000	cells per litre
+48bc07a1-155f-493e-9717-2d39889880bd	quantity	107	cells per gram of macroalgae
+d518f69c-b444-441c-a3d6-4d1e73a6a6e6	quantity	2.5	cells per gram of macroalgae
+2f549759-fdaa-4585-ac06-b80ba4d2983e	quantity	2.4	cells per gram of macroalgae
+2631a4be-5e4e-4108-a37a-21cf860599a2	quantity	1	cells per gram of macroalgae
+81cee1d9-b974-4d86-b830-e6c8f7665cfb	quantity	1.1000000000000001	cells per gram of macroalgae
+899992a8-b469-4cb6-912b-7e460ff84ec2	quantity	1.4	cells per gram of macroalgae
+0fb8e175-84cc-4e5a-9ea7-8a518aacbe69	quantity	17.3	cells per gr of macroalgae
+70a62b0f-5736-4af5-9937-20c8e937970d	quantity	7004	cells per gram fresh weight of macroalgae
+7a096eaa-ecc5-4a85-bef5-30623427335d	quantity	187	cells per litre
+cb30de8c-b25b-45cb-9dfd-e262da74e4d5	quantity	364	cells per litre
+d9de05ce-28ea-4809-95e4-49f93331b10b	quantity	446	cells per litre
+a36b2437-273e-421d-adbd-a833d5ba42b1	quantity	3073	cells per gram fresh weight of macrophytes
+4a8021f8-801d-48f0-a4dd-1e456efdee70	quantity	882	cells per gram fresh weight of macrophytes
+83ade4b4-2c82-44b5-b1ee-b99b983181c2	quantity	3572	cells per gram fresh weight of macrophytes
+1edcade7-4b8f-4ff6-b925-5f067ea28211	quantity	6245	cells per gram fresh weight of macrophytes
+074bc537-a0d7-410d-bf32-8b5c8cf5945e	quantity	292	cells per gram fresh weight of macrophytes
+cb165fea-19e9-4732-86a3-da62d4c7ebbb	quantity	211	cells per gram fresh weight of macrophytes
+24cf421b-5d78-405e-9f30-62f90737a11c	quantity	177	cells per gram fresh weight of macrophytes
+7dee1cb5-c77a-412b-ba2f-9cf5d239e24d	quantity	5348	cells per gram fresh weight of macrophytes
+376ff647-336f-49bc-90d5-4e4e8a8c2f0e	quantity	798	cells per gram fresh weight of macrophytes
+a87fc726-d3a4-4c18-baac-7ab0c2932ce6	quantity	760	cells per gram fresh weight of macrophytes
+763086df-d961-41e7-a49e-b61a0f9e0066	quantity	4069	cells per gram fresh weight of macrophytes
+1e0beb5a-951e-40ef-803e-5e62f5c7aa44	quantity	679	cells per gram fresh weight of macrophytes
+c30949b5-fd90-4577-be10-47696007f8d2	quantity	27	cells per gram fresh weight of macrophytes
+11d4e8ac-3832-4b2f-9fff-eaa50837136f	quantity	210	cells per gram fresh weight of macrophytes
+eb283171-d3df-41c9-92ae-232fc65b1105	quantity	22161	cells per gram fresh weight of macrophytes
+2b04f355-00fa-4d2b-943d-538a90efa889	quantity	362	cells per gram fresh weight of macrophytes
+f0bb73d8-d0bf-4458-abd8-9d40726233b2	quantity	1378	cells per gram fresh weight of macrophytes
+e5a7b140-aae2-4625-a1d8-3757a7c36b71	quantity	717	cells per gram fresh weight of macrophytes
+9080ebc7-86e0-4caf-afd6-b6771d5b63cc	quantity	1141	cells per gram fresh weight of macrophytes
+09f75e05-b810-45e9-9410-11184be6bbdf	quantity	272	cells per gram fresh weight of macrophytes
+7d67836e-35e6-4dac-a92c-634693a68259	quantity	639	cells per gram fresh weight of macrophytes
+52a07257-610d-4a4f-8970-18e4e1c97093	quantity	372	cells per gram fresh weight of macrophytes
+24986f25-f856-42f5-ad19-0aea6108a1d0	quantity	330	cells per gram fresh weight of macrophytes
+b7d4f9ea-8e42-42e7-884d-6441125d92ab	quantity	1123	cells per gram fresh weight of macrophytes
+9b5d7930-0b46-494c-9210-60a8a4bdf8a4	quantity	895	cells per gram fresh weight of macrophytes
+2553dce4-f95c-4d70-a83e-3bfa236b4a28	quantity	394	cells per gram fresh weight of macrophytes
+6959b534-9972-4a84-948f-003929913025	quantity	846	cells per gram fresh weight of macrophytes
+ec96bf36-be1e-4858-8d3b-94b8bf385f13	quantity	75	cells per gram fresh weight of macrophytes
+a1c693ed-b278-4d53-8801-3daa441a3f22	quantity	640	cells per gram fresh weight of macrophytes
+f67bb900-e0f2-4b41-a567-e2dd6f6fa0f7	quantity	7188	cells per gram fresh weight of macrophytes
+f629791c-0289-4766-9e56-6b08ba15c1b7	quantity	597	cells per gram fresh weight of macrophytes
+30a12fdf-ecac-44a2-87b9-37a2502b8e21	quantity	619	cells per gram fresh weight of macrophytes
+b3ebab32-6a73-45aa-8505-682951f90e3c	quantity	4229	cells per gram fresh weight of macrophytes
+758fb5ac-ee71-4dd5-8e01-56d62192a65f	quantity	2613	cells per gram fresh weight of macrophytes
+beb96aa5-17d3-47de-9577-ff58d4c5ce76	quantity	2522	cells per gram fresh weight of macrophytes
+66977b63-ded9-4b01-971b-1f20630d5524	quantity	293	cells per gram fresh weight of macrophytes
+fe85f967-8472-49d6-bb2c-cd3d7ca26177	quantity	13064	cells per gram fresh weight of macrophytes
+8889205a-b801-4f4d-b615-765bb7576554	quantity	634	cells per gram fresh weight of macrophytes
+541e3090-44a9-4caf-8ae9-3c18e275c5f6	quantity	2044	cells per gram fresh weight of macrophytes
+e02a5095-2e8a-4944-a926-6a8be42b7cf3	quantity	1260	cells per gram fresh weight of macrophytes
+81aee638-4685-4501-a0e3-3caf3117e1d3	quantity	9043	cells per gram fresh weight of macrophytes
+3b1cacb7-3ca4-431b-9596-777d7569cc8e	quantity	1948	cells per gram fresh weight of macrophytes
+096fe252-e38a-4587-acd4-8f866a0b8fa5	quantity	2720	cells per gram fresh weight of macrophytes
+480456d1-0da1-4821-9d83-0e4f6ae7184c	quantity	10	cells per gram fresh weight of macrophytes
+7ce410a5-2a2d-41c9-931c-08c08b39250d	quantity	5	cells per gram fresh weight of macrophytes
+5705fb98-68f1-4a2c-a0ae-f5e84b6e595c	quantity	730	cells per gram fresh weight of macrophytes
+fa0409bc-ee34-432d-a8c8-f7e6673dd89e	quantity	526	cells per gram fresh weight of macrophytes
+a2d55256-8a63-4e0c-b85d-c4a23b0d20de	quantity	533	cells per gram fresh weight of macrophytes
+823270b2-c769-4ea6-bcd6-fbfb024a1a0d	quantity	4965	cells per gram fresh weight of macrophytes
+109947bb-4423-4dc3-a01f-6f6cbde276d3	quantity	860	cells per gram fresh weight of macrophytes
+801f01c2-b405-4572-8dee-dda92a38b8f2	quantity	264	cells per gram dry weight of sand
+859f4287-21b3-4716-af82-84f63493ef35	quantity	320	cells per gram fresh weight of macrophytes
+def4eaeb-9d5a-4709-8b19-5df8b54cd4cd	quantity	582	cells per gram fresh weight of macrophytes
+4e7bf1ff-369a-41f2-8102-0f6d2238f7de	quantity	3122	cells per gram fresh weight of macrophytes
+bf87beec-ddb3-4c90-a22a-8c06cfccee8a	quantity	3314	cells per gram fresh weight of macrophytes
+793b897b-a6b8-4f9e-8a3f-a35bc5ccefc5	quantity	2763	cells per gram fresh weight of macrophytes
+7cd5bcb2-ef6f-4e06-93bb-32599bf4fc9e	quantity	1296	cells per gram fresh weight of macrophytes
+25f13325-9a17-48dc-a5ac-aba01f17bbdf	quantity	78	cells per gram fresh weight of macrophytes
+72d9c2b5-1e25-4308-86e7-cf2389b63c53	quantity	277	cells per gram fresh weight of macrophytes
+27bfcf18-5064-4fea-ba64-4748197c6bda	quantity	3348	cells per gram fresh weight of macrophytes
+14d07d11-960c-44cc-9baf-af076d8aa8b4	quantity	5942	cells per gram fresh weight of macrophytes
+763a4b03-069e-43f2-a8e2-b9d1d2f17912	quantity	3857	cells per gram fresh weight of macrophytes
+bea758d0-21e2-4f95-ae95-de500d688fe4	quantity	1190	cells per gram fresh weight of macrophytes
+9a2a14f2-2da7-4bbf-892c-020427bfe673	quantity	5897	cells per gram fresh weight of macrophytes
+cc4751f6-f15f-4733-89d0-fbb8906ba213	quantity	410	cells per gram fresh weight of macrophytes
+a3484ec7-ee3d-449d-90d5-fea87a69c0ec	quantity	7950	cells per gram fresh weight of macrophytes
+b57a0514-c156-4424-b133-8e8b262a11b7	quantity	3596	cells per gram fresh weight of macrophytes
+802064bb-072c-4a61-bc91-6762c98ba22b	quantity	500	cells per gram fresh weight of macrophytes
+bacadc40-0166-45d9-bcab-bde416886f90	quantity	15990	cells per gram fresh weight of macrophytes
+06593055-fd36-40c6-b91a-d14b8942ea54	quantity	2332	cells per gram fresh weight of macrophytes
+b30af154-566b-415a-aae7-e16584ca03a7	quantity	2655	cells per gram fresh weight of macrophytes
+1189371d-e138-4e86-b5a2-99963f982311	quantity	240	cells per gram fresh weight of macrophytes
+e7487b1b-54e6-4cf3-b09f-fa9b8cdc65eb	quantity	6000	cells per gram fresh weight of macrophytes
+3bfbc910-5ad0-406b-8c6b-61fb5fd8454d	quantity	133	cells per gram fresh weight of macrophytes
+1ef7aaae-4314-4029-bade-55ee5ad3bc4d	quantity	7684	cells per gram fresh weight of macrophytes
+eb91ea98-450d-4cbe-aa17-6f2f782cd71c	quantity	1484	cells per gram fresh weight of macrophytes
+8298508b-a08e-4584-98e8-1e7402389499	quantity	900	cells per litre
+1de2cafa-75b2-4a0f-afc9-8f6fd8b7b7dc	quantity	900	cells per litre
+7777423f-295d-4348-8c82-12ef87cd0861	quantity	915	cells per gram of macroalgae
+565b9ff7-5069-4614-a3cf-b9767d52012e	quantity	37	cells per gram of macroalgae
+0b7692b5-34d2-461f-b9df-16eec2727e22	quantity	1224	cells per gram of macroalgae
+8c9ee0a9-9942-476e-8855-4c5846d3a1a3	quantity	424	cells per gram of macroalgae
+0f583afb-ab2b-4f9e-95e8-c94a8180e475	quantity	169	cells per gram of macroalgae
+79531748-b1dd-4f8c-a7b7-de25cce687c3	quantity	929	cells per gram of macroalgae
+73fbb5b8-a8e3-401b-b48f-a6344b7aa5b0	quantity	957	cells per gram macroalgae
+471f04bf-fc3d-4e2e-a7fd-9c4ef31d2baa	quantity	7891	cells per gram macroalgae
+a6b3e8f1-20c2-4b9d-b7e8-54191e0b36e7	quantity	204	cells per gram macroalgae
+a2762163-a972-4705-b2fd-c76293a0e717	quantity	120	cells per litre
+2e8a9ab1-08af-4891-bb96-9cb3a5b7c084	quantity	20	cells per litre
+6ff3e294-fbc6-44d5-81ad-f9fda82891cf	quantity	38	cells per gr of macroalgae
+ae5bdda7-20a7-45f2-92da-93917a987502	quantity	3704	cells per gr of macroalgae
+deacff98-ea00-4ae0-a009-8ac6e10e1789	quantity	1064	cells per gram of macroalgae
+84ce79da-6f88-44c2-acff-2abace2ca388	quantity	722	cells per gram of macroalgae
+4dbb9c8a-de34-4d5c-a149-3613481d3f9b	quantity	5427	cells per gram of macroalgae
+1154ca5a-53e6-411c-92be-3b733f2a7d7f	quantity	2056	cells per gram of macroalgae
+1b027c40-bcaa-4bf2-b1c8-ad6f01129920	quantity	1029	cells per gram of macroalgae
+c09c88ea-a082-4e6e-89fd-1b0b99ee319c	quantity	61449	cells per gram of macroalgae
+f256c792-402c-45e7-862a-fd10b5bba7b7	quantity	1881	cells per gram of macroalgae
+f4e790f3-888d-4ec3-9389-50cc3063b31f	quantity	593	cells per gram of macroalgae
+6e5e56b2-0f6e-40e1-bf54-282f0325fd7f	quantity	270	cells per gram of macroalgae
+3b0e1ae4-2d26-4621-813f-b96a34981c04	quantity	490	cells per gram of macroalgae
+3f944af6-ca42-45ac-9548-fa662e650498	quantity	1068	cells per gram of macroalgae
+018d73a8-95f0-49a7-8388-dbb84459b875	quantity	4230	cells per gram of macroalgae
+448ede47-1bc8-476e-bca0-1664a27735ed	quantity	509	cells per gram of macroalgae
+0415286d-95da-46d5-8a66-74ab9ace0470	quantity	5022	cells per gram of macroalgae
+9cf44a88-4a2e-4c30-ad75-2ed34b3cf47a	quantity	2576	cells per gram of macroalgae
+30ee989c-a7be-4aa6-b33e-8ab485ade8b8	quantity	11135	cells per gram of macroalgae
+cbaff9f0-0fa8-4557-acfc-bda3a83061d0	quantity	2102	cells per gram fresh weight of macroalgae
+6684775b-d93a-4f99-83b2-ccdf65a62480	quantity	192	cells per gram fresh weight of macroalgae
+8d8ae1c7-5f67-4785-a7dc-6e86807657ce	quantity	755	cells per gram fresh weight of macroalgae
+985c6302-1990-420d-9c69-3cc659d4dc6a	quantity	507	cells per gram fresh weight of macroalgae
+21ecc293-ad35-4fec-9a96-8ad3e8e401db	quantity	2993	cells per gram fresh weight of macroalgae
+f4afd978-102a-46aa-80cf-3ae7c7ff3df2	quantity	61	cells per gram fresh weight of macroalgae
+a34055d8-68b5-464d-aab1-f70a07bfc6d8	quantity	6049	cells per gram of macroalgae
+e46ebc2c-8130-4c4f-a318-a0257a01ab51	quantity	1313	cells per gram of macroalgae
+a736751e-fb3c-47fe-9c14-678f4f7f5340	quantity	715	cells per gram of macroalgae
+abf576aa-3727-4b46-bcde-3f6e0725c613	quantity	14000	cells per litre
+a44122a1-8a8f-45e9-9ec3-87f854ba8b31	quantity	520	cells per gram of macroalgae
+6bd24cd9-a918-4208-b119-93f204eb083b	quantity	867	cells per gram of macroalgae
+5aa732b9-359b-4356-a10f-331547280636	quantity	87	cells per gram of macroalgae
+81b443ff-227f-4d9d-9f94-d9389a8a3b8c	quantity	47	cells per gram of macroalgae
+4f8043d3-3cb9-4f54-9667-404ebd269823	quantity	116	cells per gram of macroalgae
+df3be1f7-3e4b-4608-ad33-fed3b98e6f2c	quantity	676	cells per gram of macroalgae
+676707eb-3852-4601-8e3a-9d4f24c74ce0	quantity	99	cells per litre
+8703742d-24db-4728-9b69-ac4460f31aa7	quantity	1700	cells per litre
+5529342c-9eb9-4f08-87c4-2683d4a0ca2f	quantity	759	cells per gram of macroalgae
+52934502-5eb7-4c50-8e0e-3dd802441ca2	quantity	81	cells per gram of macroalgae
+6c3d3c59-ce4e-428f-b6e1-d3a7530e4db8	quantity	143	cells per gram of macroalgae
+1cb3750f-502a-413f-a411-dabb8686d972	quantity	2500	cells per litre
+f35b8e99-c4c1-495a-92bf-6b1c60938f45	quantity	106	cells per gram of macroalgae
+4aa9aded-49a2-4fc0-ae99-b199ad53d566	quantity	493	cells per gram of macroalgae
+ef74c776-68da-49f0-ad21-363a3ff75242	quantity	539	cells per gram of macroalgae
+d4c7bb1c-e9c7-430c-8402-79fc49aec342	quantity	149	cells per gram of macroalgae
+3c422417-1237-43c6-acd4-b13c08f35c6e	quantity	320	cells per gram of macroalgae
+806bdafc-00d4-4e01-8361-d567606c06ec	quantity	524	cells per gram of macroalgae
+a4a178a7-64db-441f-9164-b4f0576ebb1c	quantity	480	cells per gram of macroalgae
+22a9c048-d25b-49eb-bf2a-fe2d36a89455	quantity	268	cells per gram of macroalgae
+5d169bda-29bb-4d1a-9aaf-19ec676e4ee3	quantity	117	cells per gram of macroalgae
+2818387b-9bd7-48cc-8d01-40bd19b9f675	quantity	1991	cells per gram of macroalgae
+b5b1f605-15bf-4f38-93ee-af1ac4bee009	quantity	893	cells per gram of macroalgae
+1a9ad1de-39cc-40e0-957f-37bffae52d51	quantity	520	cells per litre
+dbf7aa3b-f12e-4112-aaa0-6013a56340c7	quantity	<1000	cells per litre
+bb7f2cc3-f439-4052-97f3-22e3920fef0e	quantity	120	cells per litre
+1ef32713-f55d-430a-96d4-cc8d46cd7b72	quantity	20	cells per litre
+beca1ae9-d781-4c24-afde-98990ba33258	quantity	4803	cells per gram fresh weight of macroalgae
+d2282aa0-0ffa-48ee-8573-4050e23511f1	quantity	4843	cells per gram fresh weight of macroalgae
+eea1f754-31d2-4714-954b-4b1c587c933a	quantity	42075	cells per gram fresh weight of macroalgae
+158f3387-433f-4020-a44b-8043471400b1	quantity	12182	cells per gram fresh weight of macroalgae
+916bd4ee-0be0-408d-906d-892ca70ee42b	quantity	1644	cells per gram fresh weight of macroalgae
+2240fbfb-7922-4faa-b484-284117a948f2	quantity	12480	cells per gram fresh weight of macroalgae
+4b008baf-3c3d-41f6-b548-9f2cefe41720	quantity	9146	cells per gram fresh weight of macroalgae
+1da366e5-5626-412e-b0c8-e9a29af9139c	quantity	5926	cells per gram fresh weight of macroalgae
+a51c48bd-69d9-4063-bc15-4401c0fb23f4	quantity	14000	cells per gram fresh weight of macroalgae
+5f352fa0-6a56-4b65-8023-e7ec34d2d171	quantity	9664	cells per gram fresh weight of macroalgae
+cbef9d43-5e83-4bf3-8955-992613db7f65	quantity	8271	cells per gram fresh weight of macroalgae
+e89de176-5712-42a3-b2d5-983e7d422103	quantity	4809	cells per gram fresh weight of macroalgae
+537119cd-afb1-4de3-8423-e159f842bcbe	quantity	5980	cells per gram fresh weight of macroalgae
+9f944070-df73-421f-9a10-57986cd8d0c6	quantity	2500	cells per gram fresh weight of macroalgae
+243f6a4a-a663-4e30-b8d1-996e3c7c8b22	quantity	692	cells per litre
+504e3184-9128-411d-b842-2c2585c46572	quantity	785.5	cells per litre
+b32e834c-a04d-46a3-9ff1-1b680fdf86a2	quantity	55	cells per litre
+7d798151-73b4-471d-a20f-0fedba764c6c	quantity	79	cells per gram of macroalgae
+6fee9761-3c30-43ab-81ef-d5e599b5e88c	quantity	2	cells per gram of macroalgae
+749444fd-ba0f-42c2-ba7e-1a5426ac738f	quantity	720	cells per litre
+3d597930-09f0-4aad-828a-4d38ba742caa	quantity	280	cells per litre
+2da8ea5c-a991-450f-ac50-86c45b8e9f6e	quantity	9000	cells per litre
+b751eb21-9b85-4e33-881e-ae3234c4f3e4	quantity	7000	cells per litre
+60af3858-5004-4e27-a14d-cef4829a499a	quantity	1674	cells per gram of macroalgae
+b418b1bb-3577-48b3-a904-70a4e181f1bd	quantity	176	cells per gram of macroalgae
+b6df7696-03c0-4a11-a15e-c86c4b98d64d	quantity	303	cells per gram fresh weight of macroalgae
+ac8a7d2a-55d6-41e9-93dc-7486de63aa05	quantity	4175	cells per gram fresh weight of macroalgae
+9c7856ac-70ad-4033-b813-6b4698216694	quantity	268	cells per gram fresh weight of macroalgae
+a101e6e7-4097-43ba-a5e9-0f4c40f68131	quantity	1050	cells per gram fresh weight of macroalgae
+6b29c953-e856-48d8-b0b5-2ffb8029d5c4	quantity	1020	cells per litre
+bdfcf767-54f8-4f42-a5f7-e4f291f1aa32	quantity	2261	cells per gr of macroalgae
+148f9bfb-cd0a-4cc5-a2c3-ba1dfacb3e9e	quantity	34668	cells per gr of macroalgae
+64b7fef4-c25d-497a-86c0-685f917794e1	quantity	1109	cells per gr of macroalgae
+480dd242-d0b5-4974-86a6-128fb56767c5	quantity	54097	cells per gr of macroalgae
+2a1548b3-8d7b-4262-aa31-d0f70958771d	quantity	3425	cells per gr of macroalgae
+f909906f-9668-4fa2-b3c3-4ca2d3ba676f	quantity	15007	cells per gr of macroalgae
+adce9b47-67dc-4b99-ba45-80e8f40ed400	quantity	1950	cells per gram fresh weight of macroalgae
+f75d218b-40c6-4a9d-87ae-2dd20dc261e5	quantity	1756	cells per gram fresh weight of macroalgae
+c7d25da2-4b5b-463b-93cb-62ad570e060e	quantity	336	cells per gram fresh weight of macroalgae
+8d8e31d4-8ded-4e21-a91f-292e0fa06135	quantity	3645	cells per gram fresh weight of macroalgae
+0773a4c1-def6-4452-aac1-d1dc8c6352a3	quantity	967	cells per gram fresh weight of macroalgae
+aab7abe3-24fe-41ad-a237-a4154110f5f7	quantity	9089	cells per gram fresh weight of macroalgae
+b9f81cbd-3d5e-489a-8fb0-1eb91faf488b	quantity	102	cells per gram fresh weight of macroalgae
+b739238f-7712-49d2-9b54-bcb3e5c9bfb6	quantity	15813	cells per gram fresh weight of macroalgae
+75a534b5-b872-484c-9df1-b067217f369d	quantity	1115	cells per gram fresh weight of macroalgae
+e9f4a4b7-7446-4322-bf32-d75efe9409b0	quantity	374	cells per gram fresh weight of macroalgae
+b49840ea-1b72-4cd1-be75-b7ef24d6fc28	quantity	621	cells per gram fresh weight of macroalgae
+d54d2239-9c53-4f75-b97d-5ef298ef597d	quantity	5545	cells per gram fresh weight of macroalgae
+ec020eb1-d31b-472b-b3aa-c2e6ba43515e	quantity	22980	cells per gram fresh weight of macroalgae
+9b08fac0-8510-4b47-bbc4-4f5c7e62218c	quantity	130	cells per gram fresh weight of macroalgae
+292c9064-79f2-41e2-b48f-16cf4fcd8637	quantity	1213	cells per gram fresh weight of macroalgae
+dba8fa6c-9f17-472f-8148-4959c89933ec	quantity	694	cells per gram fresh weight of macroalgae
+df140435-6d21-4d9d-aa3a-c1339c37480d	quantity	10407	cells per gram fresh weight of macroalgae
+6050bbcd-b122-4e8c-8ebc-d8f48e2175a6	quantity	1405	cells per gram fresh weight of macroalgae
+6094fe83-127d-4d0c-9682-88996e5b443b	quantity	1282	cells per gram fresh weight of macroalgae
+f8b66895-fb7a-421c-b42a-68b2b47de55c	quantity	324	cells per gram fresh weight of macroalgae
+da47b749-7160-4a4f-ab20-46383972b205	quantity	2310	cells per gram fresh weight of macroalgae
+2147de11-51e0-454e-ae29-a316d3f16438	quantity	6930	cells per gram macroalgae
+e8f94b6b-2cfc-42e5-965a-e7667aafa94c	quantity	10	cells per gr of macroalgae
+ede36846-8547-4f03-a386-99ac11eedc81	quantity	6	cells per square centimeter
+67ea4396-8587-459a-979f-59d8ff385732	quantity	2400000	cells per litre
+8b1f972c-bc34-40a6-a045-56d423128042	quantity	3300	cells per litre
+e411a55a-f527-4996-9608-75a8960ee529	quantity	160	cells per gram fresh weight of macrophytes
+fc959ed5-055a-497a-b235-122e4f481e62	quantity	33	cells per gram fresh weight of macrophytes
+fc96c859-cebb-4ab9-bcd2-0a50b8134991	quantity	46	cells per gram fresh weight of macrophytes
+a1c2ee99-2ec2-405d-9526-189fef4349c1	quantity	32	cells per gram fresh weight of macrophytes
+9fa13c74-46be-4007-92b8-f0d66412fa54	quantity	6	cells per gram fresh weight of macrophytes
+7d7fa58f-d308-4eef-8506-3ac0c2edc4de	quantity	1044	cells per gram fresh weight of macrophytes
+6f1550d0-16a1-438a-a2c3-d1baadadc517	quantity	1592	cells per gram fresh weight of macrophytes
+3e54398f-22cd-423e-ac99-225ad15a0ed5	quantity	7708	cells per gram fresh weight of macrophytes
+930b157c-c246-40a0-98b5-2c0c894487c4	quantity	143	cells per gram fresh weight of macrophytes
+174acb20-1b6a-4dc1-9d38-9da7fa4e3174	quantity	22	cells per gram fresh weight of macrophytes
+9dd85b24-d1b3-43fe-8510-230225f8f9fd	quantity	89	cells per gram fresh weight of macrophytes
+ea1542e8-7008-4740-be4f-3f1c3e066cf9	quantity	24	cells per gram fresh weight of macrophytes
+964dbfbe-67aa-49cf-9212-4420395b42f2	quantity	48	cells per gram fresh weight of macrophytes
+1055b737-e904-4bb0-a0ba-bbcd69287756	quantity	510	cells per gram fresh weight of macrophytes
+41e57aad-1261-4b55-9665-1828103cdb56	quantity	47	cells per gram fresh weight of macrophytes
+176806e7-f09d-4bd8-8746-f81b3f504a0e	quantity	568	cells per gram fresh weight of macrophytes
+1261ff54-5983-4a88-a19e-7f4b223c2cb6	quantity	761	cells per gram fresh weight of macrophytes
+a901c237-84a6-447a-a4fe-c7c4576b5b97	quantity	10.922000000000001	cells per gram fresh weight of macrophytes
+935ec65d-2069-4200-8359-2d755e303e88	quantity	101	cells per gram fresh weight of macrophytes
+d84b5fe6-aac5-4d66-a12e-be84b41c19c6	quantity	144	cells per gram fresh weight of macrophytes
+4584e928-b235-45d6-86e1-cd29922e22b0	quantity	1560	cells per gram fresh weight of macrophytes
+99f7b55c-087a-4c1b-88ce-4625a611f942	quantity	86	cells per gram fresh weight of macrophytes
+addab893-d85b-4163-afcc-50b969553a26	quantity	594	cells per gram fresh weight of macrophytes
+3df63df4-75f3-47f3-82a8-bd1ca47fd1fa	quantity	642	cells per gram fresh weight of macrophytes
+54a838ed-c54e-4efe-8afa-e4cad6ff6efb	quantity	317	cells per gram fresh weight of macrophytes
+cd9cfc21-9b24-4d99-b80d-13e6d5a4e83b	quantity	16	cells per gram fresh weight of macrophytes
+95723a09-4f35-4999-b4dd-7a7460702a91	quantity	180	cells per gram fresh weight of macrophytes
+4798e218-e69d-4621-873d-87dc6b7d20f2	quantity	382	cells per gram fresh weight of macrophytes
+9975e698-6b55-4ffc-b986-73117b6c68af	quantity	607	cells per gram fresh weight of macrophytes
+f07a7cae-f387-41eb-970c-b797879a42d9	quantity	268	cells per gram fresh weight of macrophytes
+9ad0ea85-590f-47ee-8155-b083c695e678	quantity	352	cells per gram fresh weight of macrophytes
+b6e3177f-9cac-43d3-a5b1-9b684ff96300	quantity	5	cells per gram fresh weight of macrophytes
+e228d036-fc44-4fc5-a435-e91303393163	quantity	263	cells per gram fresh weight of macrophytes
+df6419c6-721f-490d-8d81-7659704c13e1	quantity	105	cells per gram fresh weight of macrophytes
+89df42fd-28b2-4ae7-80d7-c7a7a08bae35	quantity	537	cells per gram fresh weight of macrophytes
+8d6bdfd0-4269-4df5-9894-039d0e8b93cd	quantity	312	cells per gram fresh weight of macrophytes
+80526992-574f-4558-b8a3-49b8f02c70ec	quantity	77	cells per gram fresh weight of macrophytes
+ccba0617-14b7-4d6e-b0e8-1bb306aafb32	quantity	13	cells per gram fresh weight of macrophytes
+053efec7-f916-4620-aa30-30b5ac29012d	quantity	288	cells per gram fresh weight of macrophytes
+7d461d10-d42d-4c8e-8aa1-03a3ae8c140b	quantity	1549	cells per gram fresh weight of macrophytes
+f9418517-1fbe-43d6-9a9f-505afc9eb3ea	quantity	5369	cells per gram fresh weight of macrophytes
+c9a1c1a9-d560-4a86-81fc-9ceda2a3d1e9	quantity	1421	cells per gram fresh weight of macrophytes
+2f339cbc-fa56-44ae-b520-10d8988e4595	quantity	1884	cells per gram fresh weight of macrophytes
+aa2feaad-cb92-4a23-ad3a-454cec620d0a	quantity	78	cells per gram fresh weight of macrophytes
+b7ecf1a0-1ca6-4f04-901a-45cdd558cdf4	quantity	692	cells per gram fresh weight of macrophytes
+ef4aebdc-36d6-4aec-b702-028293b90727	quantity	112	cells per gram fresh weight of macrophytes
+dcde9424-cfb5-461b-8ad4-b39401c0cfae	quantity	3831	cells per gram fresh weight of macrophytes
+470ae2e5-86ce-4ee9-8b18-b8a7ce9e5ee4	quantity	33	cells per gram fresh weight of macrophytes
+3a6f5ace-3a18-4093-ae0d-3d713b22ea8f	quantity	142	cells per gram fresh weight of macrophytes
+993d76c8-4024-46a8-ac5b-54d9ea3b79bd	quantity	99	cells per gram fresh weight of macrophytes
+c7acc0d7-325e-41c2-b9f5-347b5ba87f0d	quantity	13	cells per gram fresh weight of macrophytes
+7c501d44-390b-4d70-8096-e51d6c819ea2	quantity	19	cells per gram fresh weight of macrophytes
+7e228bf5-801c-4686-b28e-1a2ab00caddd	quantity	303	cells per gram fresh weight of macrophytes
+9ab75aaa-eb74-4daf-a5a1-d9c67bb82670	quantity	17	cells per gram fresh weight of macrophytes
+08f6715e-196b-4e92-95c0-f5707f19fc92	quantity	7.21	cells per gram dry weight of sand
+1c2a4947-b24c-4316-9010-d54ea50880eb	quantity	11	cells per gram fresh weight of macrophytes
+56f04d24-bb03-4374-8cb8-93e8b5ab097e	quantity	470	cells per gram fresh weight of macrophytes
+bbdce73d-e6cc-47c7-9a99-1c8b8364d9f9	quantity	135	cells per gram fresh weight of macrophytes
+b0b93d34-2b2f-403f-8188-e9c617ba9544	quantity	199	cells per gram fresh weight of macrophytes
+203a3603-8187-4fbb-ab78-5150365f9b92	quantity	192	cells per gram fresh weight of macrophytes
+ddde9521-2f8a-484e-9196-b66ba7c50362	quantity	97	cells per gram fresh weight of macrophytes
+94b2e516-89ef-4b91-b645-a78e98ea8de6	quantity	32	cells per gram fresh weight of macrophytes
+381da5a5-44ec-4623-873d-00b3f42902ac	quantity	200	cells per litre
+a87ccb4e-b1cd-46a4-946b-1acd15c1d9f5	quantity	1250	cells per litre
+6dca775d-b708-4bc9-8722-d7b660296bbe	quantity	3000	cells per litre
+c7c5e623-d8ca-4112-9b88-852f388487ab	quantity	8900	cells per litre
+da49183c-94d0-4169-86a3-f76d06603135	quantity	385	cells per litre
+34b989fc-dc22-46ef-be2b-2fb8a5376752	quantity	620	cells per litre
+2f93d069-0036-4d14-b7a8-c328125359ed	quantity	18000	cells per litre
+7270b5dc-9258-44f0-81fb-97c70e978d4e	quantity	185000	cells per litre
+30cb2767-3b0c-4aa8-845f-f02772b6ebcf	quantity	3410	cells per litre
+94cf2da5-6dad-4505-ac2e-b5b6811e3114	quantity	1700000	cells per litre
+0a77f328-3667-468c-91d7-0d22b6cf452f	quantity	1300	cells per litre
+655eed84-19a2-42c4-a0e0-c97bab389ccf	quantity	2354350	cells per litre
+1f5436af-862b-4d6a-a059-090e21f4fcf8	quantity	2680860	cells per litre
+2d43ed95-5789-42cc-ba7a-1a13025a781f	quantity	10 - 10000	cells per litre
+c181caa1-630e-4535-8e54-00ae148ad8e1	quantity	300000	cells per litre
+27795444-8fb3-4a1a-903c-6b8b69fcf98e	quantity	2300000	cells per litre
+873d5234-c129-48c5-858d-d409907f9ba2	quantity	2300000	cells per litre
+65f3f7af-1ab6-4e5b-b11d-750756b7f7a2	quantity	170000	cells per litre
+286dc504-89c5-452f-b644-2a79ee8c4e91	quantity	44000	cells per litre
+e240dd2d-6a3e-48b4-86f3-fc74395ece5a	quantity	57800	cells per litre
+1aa798eb-4522-4649-b888-9fc4835fdb7a	quantity	50000	
+d1127351-5632-4cc9-acce-b3b1acf35331	quantity	10000	cells per litre
+823cb4cb-90a6-4e5e-ab03-32cf79c2ef03	quantity	450000	cells per litre
+d2d7ef0e-b40d-4243-b7ce-5cfc7e212e14	quantity	600000	cells per litre
+38838ae4-cd8c-4d56-9dd4-8d6ff01389eb	quantity	4700000	cells per litre
+bdd4d61c-b9e0-4806-9e72-1f7d4bdf411f	quantity	4700000	cells per litre
+6dbde2dc-07f4-49cf-b14d-d5724baf5c03	quantity	29000	cells per litre
+a9dafd4f-6ce9-451f-974e-db9db76f5588	quantity	15000	cells per litre
+6fa0b0d7-1e71-46aa-9c76-092ed78b0906	quantity	20000	cells per litre
+2819e392-f304-490d-aa89-af642411a2b5	quantity	45000	cells per litre
+d05163a0-563e-4cef-b6c1-f80a2f498d36	quantity	35000	cells per litre
+7fd2f61b-26e6-4c25-a947-3516e1fbe7c9	quantity	25000	cells per litre
+12076d22-4468-4fa7-9415-a38d6588400c	quantity	10000	cells per litre
+1f7033e0-4156-43f5-a4df-323624a1f0a2	quantity	20000	cells per litre
+7dfcd3dc-ba97-44aa-8c36-3bae1941c7af	quantity	<10000	cells per litre
+b8de16f6-cd03-4958-b547-dc06929671a6	quantity	55280	cells per litre
+e6f0bbd3-6549-4e85-9d22-7469c57e83ff	quantity	1560000	cells per litre
+25d8ddd1-b4d7-45dd-98ca-0f0cbc3709a2	quantity	10000	cells per litre
+30e433b9-e99e-41fc-b718-77fdca732919	quantity	600000	cells per litre
+4312d32c-d5ed-4fe8-9d89-ac250bc1b1a8	quantity	2010000	cells per litre
+29d264b7-61fd-4dfb-9910-d69712979088	quantity	10000-100000	cells per litre
+65c5927c-39de-44fd-9710-b552fbebeaea	quantity	1000000	cells per litre
+6387cefd-0991-40c9-b3eb-4078037ac27d	quantity	1000000	cells per litre
+d9665260-2750-4af4-9f0b-d822085257bf	quantity	> 100000	cells per litre
+1404650d-6525-47b1-ba48-56dbe830acd4	quantity	10647	cells per litre
+0074b1a7-70a5-4290-a20a-7a381be7a14b	quantity	1200000	cells per litre
+ad8b6f62-06d9-4939-a79e-80b4627bebad	quantity	1100000	cells per litre
+1bf47bdd-7235-4737-8135-85f5eba71cd5	quantity	1200	cells per litre
+2c48b0c3-519f-45c2-af8c-9e9145eab1ac	quantity	1689600	cells per litre
+134b1071-a86e-4fac-b08d-c0139cf4e147	quantity	1900	cells per litre
+d4d49fd3-dc01-49be-936a-a391359a3803	quantity	28000	cells per litre
+a4166f5f-3585-4ff4-9b9a-e28174e809fc	quantity	53600	cells per litre
+c6acc134-6963-48f6-b5d0-8ef2bf7ecdeb	quantity	1600000-1710000	cells per litre
+77bfe7b6-a06d-4641-a8e1-261a44e96e26	quantity	1400000	cells per litre
+fbb67c5d-409a-4f11-9643-fd940afcb164	quantity	<100000	cells per litre
+690785bb-f892-4cec-9284-4c5d8b60e3a4	quantity	60000	cells per litre
+afa553bc-492b-4b15-91a5-95c90e3bde0e	quantity	30000	cells per litre
+cbe57759-2afa-42a5-9ce2-2423c8f4d9ee	quantity	10000	cells per litre
+e659f093-1dbd-4068-b67b-6e9ce1ffe90d	quantity	30000	cells per litre
+6eced5f6-d464-4d85-8486-46a93ecc9ac9	quantity	55000	cells per litre
+0d248ccd-fe6d-4837-be5a-fd6926f40a2c	quantity	10000	cells per litre
+3f5fd44d-77fa-4acd-8003-ca89107238d4	quantity	15000	cells per litre
+cedf9f20-6578-4634-9ba5-1347bc6ce61c	quantity	40000	cells per litre
+693440fa-fa86-484d-afe7-8a3df8d7e4cf	quantity	20000	cells per litre
+d673068b-14d3-4161-8b57-d2a6ad6e6ad7	quantity	30000	cells per litre
+581bf2d5-754f-489c-9b1d-6899af7180c3	quantity	719100	cells per litre
+6eae6b31-fbdd-4e20-b339-21636487bf71	quantity	774100 - 923300	cells per litre
+567aa726-1993-46ae-9ce3-d18cbaa77b8a	quantity	16780	cells per litre
+e13009a0-46e4-4ed2-93e9-b78a83bc9d50	quantity	< 20000	cells per litre
+55818f9d-a720-47b4-915d-4d8cb7b82b90	quantity	10000	cells per litre
+889c05e5-32b4-4745-8a97-b11d8808ff63	quantity	2000000	cells per litre
+e885762b-0c89-4096-8e0f-322af4469037	quantity	250000	cells per litre
+a0dfc8ae-87bd-4d21-ba9c-85cc90cd1932	quantity	155000	cells per litre
+84e41de2-efeb-467d-b165-98369fad9f1e	quantity	90000000	cells per litre
+8e60bf78-180e-4247-af7f-785067b388e7	quantity	3100000	cells per litre
+e737c5e1-7200-44cf-904a-2ac1740d9f7a	quantity	>1000	cells per litre
+fbdde43a-2a01-4ed9-88c1-794794a04e08	quantity	347000	cells per litre
+2136f842-77c1-4984-b457-4c3be9effef3	quantity	10000-100000	cells per litre
+f8563c8b-0fdd-458a-a90f-6c3c43738297	quantity	10000-100000	cells per litre
+3d9dc76f-bcdc-42e9-aa3a-6991d0d6cd2b	quantity	10000-100000	cells per litre
+6ff24369-fe7c-4d6c-8dc5-56b5378167e7	quantity	100000-1000000	cells per litre
+7e19fe47-ddc0-4548-9771-c34617a4947e	quantity	10000	cells per litre
+aaf5a8bb-eb53-4da2-a113-77ba47394e8b	quantity	616	cells per litre
+aff857e6-01a2-4c7a-a6be-e0d49eeed332	quantity	1300000	cells per litre
+60657b14-9b71-494a-b7c3-a755ea28e335	quantity	9400000	cells per litre
+53197019-2e00-4c2a-8108-37ae2092c46e	quantity	730000	cells per litre
+e258bdd4-2362-4831-9ce1-11f82fbabf94	quantity	5060000	cells per litre
+7e3876eb-6417-44a6-aae7-9207f02815dc	quantity	10000	cells per litre
+d2fd8bbe-988d-4705-bccc-60a624ae7167	quantity	15	cells per litre
+2283da6f-2877-4efb-aedc-902c5e1bd965	quantity	1000000	cells per litre
+4cb6fad9-075f-4037-82b0-a1c74aec662d	quantity	10000-100000	cells per litre
+890d7efa-32c0-4210-a76f-e0fc74e257a6	quantity	10000-100000	cells per litre
+d92e48db-618d-497b-846d-26f006015e4c	quantity	10000-100000	cells per litre
+a3761725-1f8c-4a84-ba9b-1587fa733c75	quantity	10000	cells per litre
+425bda5f-986e-4b22-804c-ef60b60c56bf	quantity	> 150000	cells per litre
+cc0f7f15-6141-4613-a082-e70333ecc1a0	quantity	400	cells per litre
+a0e4f4d4-cb59-46b2-8838-9e8a27a96ff6	quantity	89200	cells per litre
+19653813-1305-43a5-bc0a-17fda25e9aaf	quantity	308000	cells per litre
+b206b12a-ded1-42f9-b5cf-649e4147c316	quantity	10000-10000	cells per litre
+ed3a56cf-efa5-49cc-b8dd-e0f773af0b40	quantity	340000	cells per litre
+965c55e0-d1a8-4b36-9d0b-b3c43679ef1c	quantity	12000000	cells per litre
+bd895d77-7543-4e58-80f9-6c1fed65b32d	quantity	148000	cells per litre
+189beb7f-55aa-49d4-9611-d8e74a24dba7	quantity	24647	cells per litre
+f6ff6a26-b60d-427b-8c49-fca087e747a7	quantity	73600	cells per litre
+1543bd24-79b6-47b7-b8da-fd3fc80648b9	quantity	2100	cells per litre
+a15f0531-8fde-4be4-b3ea-6a0e2e7fd7fb	quantity	1000000	cells per litre
+12ff8f3d-9cf6-46be-9281-95b1db0faabf	quantity	455000	cells per litre
+80efbf89-14da-498e-bb11-01203f251372	quantity	100000-1000000	cells per litre
+e5dbe5eb-8a93-4fbf-b353-442416042da5	quantity	10000-100000	cells per litre
+ff86d45f-36c7-46e1-8a68-af6c1c3d1259	quantity	100000-1000000	cells per litre
+1cc153ba-5ad7-421f-80ba-7e0dfea0e049	quantity	100000-1000000	cells per litre
+000dc80d-f88a-4285-8891-8f56d8332273	quantity	10000-100000	cells per litre
+119734eb-64e4-4df4-bfb3-23c36e438290	quantity	380000	cells per litre
+752d2a73-6f35-43ef-9911-0832a1d32a45	quantity	1000000	cells per litre
+4498e8e1-225d-4375-9d73-4b757c0aa170	quantity	1400	cells per litre
+8757405e-b8ac-42a7-9238-c531cd67dbcf	quantity	605000	cells per litre
+9b7ce425-1bf6-41f5-869c-437311bd1d3f	quantity	51750	cells per litre
+5663f91d-4f0e-411a-9655-1a9be5b7b557	quantity	580000	cells per litre
+c9e38df1-02da-4b00-8d47-62e1cf8b7ae7	quantity	17000	cells per litre
+a9027ac9-c3f3-4848-a148-2c0e237a5a9b	quantity	1200000	cells per litre
+11eb7afd-1876-4d7a-914a-face92306962	quantity	10000	cells per litre
+3fcf8c64-a217-4231-acf4-e52b8c03d3ec	quantity	20000-40000	cells per litre
+9cb74d10-8df4-484f-8e9e-f0ac0948ce39	quantity	10000-1000000	cells per litre
+e7c6bdd6-4ccd-40a2-92f2-bc4ff0c68d4c	quantity	995	cells per litre
+c9893521-fbfc-4031-9f34-fb957d29d935	quantity	2200	cells per litre

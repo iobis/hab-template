@@ -76,9 +76,14 @@ processTaxonomy <- function(hab, aphia) {
   return(hab)
 }
 
-prepData <- function(hab) {
-  names(hab) <- c("scientificName", "original", "identificationVerificationStatus", "references", "additionalReferences", "eventRemarks", "modified", "eventDate", "verbatimEventDate", "decimalLatitude", "decimalLongitude", "coordinateUncertaintyInMeters", "footprintWKT", "locality", "minimumDepthInMeters", "maximumDepthInMeters", "quantityValue", "quantityUnit", "toxin", "toxinValue", "toxinUnit", "occurrenceRemarks")
+prepData <- function(hab, colnames = NULL) {
+  if (is.null(colnames)) {
+    names(hab) <- c("scientificName", "original", "identificationVerificationStatus", "references", "additionalReferences", "eventRemarks", "modified", "eventDate", "verbatimEventDate", "decimalLatitude", "decimalLongitude", "coordinateUncertaintyInMeters", "footprintWKT", "locality", "minimumDepthInMeters", "maximumDepthInMeters", "quantityValue", "quantityUnit", "toxin", "toxinValue", "toxinUnit", "occurrenceRemarks")
+  } else {
+    names(hab) <- colnames
+  }
   hab <- cleanDf(hab)
+  hab <- hab[,!is.na(names(hab))]
   hab$decimalLatitude <- as.numeric(hab$decimalLatitude)
   hab$decimalLongitude <- as.numeric(hab$decimalLongitude)
   hab <- hab %>% unite(associatedReferences, references, additionalReferences, sep = ";", remove = TRUE, na.rm = TRUE)

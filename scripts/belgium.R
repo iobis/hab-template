@@ -1,7 +1,7 @@
 source("lib.R")
 
-filename <- "../data/region_3/habtemplate_a_v5 FANSA 2019-08-04.xlsx"
-folder <- "region_3"
+filename <- "../data/belgium/habtemplate_Belgium2.xlsx"
+folder <- "belgium"
 
 hab <- read.xlsx(filename, sheet = 1, startRow = 1)
 aphia <- read.xlsx(filename, sheet = 3, startRow = 1)
