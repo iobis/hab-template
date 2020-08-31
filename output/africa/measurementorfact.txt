@@ -1,0 +1,12 @@
+id	measurementType	measurementValue	measurementUnit
+841742cb-a8f5-47b0-83a8-1e48957209ed	Yessotoxins: homo-YTX and OH-YTX	15.0 - 134.3	pg YTX cell−1
+3aa211ec-c0b4-4993-850f-cf26c41dd33e	Domoic Acid	7.3999999999999996E-2	pg DA/ cell
+79318765-dbd6-4be5-b94c-7321400e7397	Domoic Acid	118.7	ng/L
+f0ff79ae-d92c-45e2-a56b-dc716f3c7e94	Domoic Acid	182.2	ng/L
+d320592a-ec87-434d-bbef-5c5f6481db3c	quantity	4000000	cell per litre
+7c503b21-5ea1-4e24-b208-78e5fe62c79f	quantity	4000000	cell per litre
+717d4fab-5dd1-4683-ab0d-41a7e151ea10	quantity	15437000	cell per litre
+25665484-08b5-440e-a3a4-80e4b2052cde	quantity	200000 - >1000000	cell per litre
+79318765-dbd6-4be5-b94c-7321400e7397	quantity	118230	cell per litre
+99ba6397-b21b-41fb-b718-90fd6f4ddd4d	quantity	12879659	cell per litre
+561e044b-3058-474f-b81f-872fbc49ee21	quantity	536653	cell per litre
