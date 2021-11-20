@@ -1,3 +1,3 @@
-# habtemplate
+# hab-template
 
-Scripts to convert the HAB template to Darwin Core. Documentation for the template is available at http://iobis.github.io/hab/
+HAB occurrence templates for OBIS and scripts to convert the HAB template to Darwin Core. Download the latest template [here](https://github.com/iobis/hab-template/blob/master/templates/habtemplate_a_v5.xlsx?raw=true).
