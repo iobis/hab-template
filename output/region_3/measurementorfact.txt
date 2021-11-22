@@ -1,273 +1,273 @@
 id	measurementType	measurementValue	measurementUnit
-5993f4d4-0122-475d-91dd-0de8e1be8620	PSP	173000	MU/100 gr meat
-85701430-49f3-444d-b0d2-c67dfb6266d6	PSP		
-05388c9a-de35-49c2-9b01-2a330c41c0b1	PSP		
-9d3e606e-0fd2-4fd2-9f93-ea90effdcc1a	STX		
-e8cef960-22e0-45cb-993a-e3ea85ec42e5	STX		
-586d1861-0e27-4ae7-b83e-2be02c796882	STX		
-ae89281a-1146-4abd-b5b0-ce86e3877377	Ichtyotoxic - PUFA's and ROS		
-61d6ea42-dc35-467a-b53e-0ad550897ee9	Ichtyotoxic - PUFA's and ROS		
-ed7e703f-d0ba-4709-a367-a4dbd8f73f9d	PSP		
-56cf8459-8555-4fcd-8812-52397a956d9b	PSP: GTX4,1; GTX3,2	18.5	mol cell -1
-6f0bb72d-caf4-4c93-b35a-daab7e2b38a4	PSP: C1,C2; GTX6; GTX4,1; GTX5; GTX3,2; STX	24.7	mol cell -1
-2d453ef7-4030-4512-a97f-1ceb840ab378	PSP: C1,C2; GTX6; GTX4,1; GTX5; GTX3,2; neoSTX	92	mol cell -1
-4fcce586-6d72-4f75-96b4-aa7c62b0ca55	PSP: GTX4,1; GTX3,2	18.3	mol cell -1
-8267c57b-17ec-4eff-a4fe-04a69708b35a	PSP: C1,C2; C4; GTX6; GTX4,1; GTX5; GTX3,2; neoSTX; STX	96.9	mol cell -1
-5b18cef8-242d-4d7b-9c79-d613430ebaa4	GTX4,1; GTX3,2	11.7	mol cell -1
-29bc18df-3d48-455c-9056-857c3a1db2b9	PSP: GTX4,1; GTX3,2	8.5	mol cell -1
-ec51bf25-3611-4972-a197-47ac80a3c997	Ichtyotoxic - PUFA's and ROS		
-6b30630d-7bad-4768-b99f-3470ca14a32b	Ichtyotoxic - PUFA's and ROS		
-8677473a-d2ee-447d-8570-6138a7d20fa0	Ichtyotoxic - PUFA's and ROS		
-e2818b97-9bdf-4f82-b96e-aafa9fbd7afd	Ichtyotoxic - PUFA's and ROS		
-bf7174e7-9bea-4d42-aaf7-77232bc77b20	Ichtyotoxic - PUFA's and ROS		
-64f4d387-2e0c-4c40-92e8-065a41aad22e	Ichtyotoxic - PUFA's and ROS		
-4f1e3de4-08ed-4716-a88e-55cce6097472	GTX2/3 and traces of STX	1807	ng NT−1
-0f3392e2-6218-4bc1-b91b-df3560dc80af	GTX2/3 and traces of STX	5257	ng NT−1
-d2861e43-5c79-4893-816c-9a894553ca80	GTX2/3 and traces of STX	259	ng NT−1
-3c8d05c1-0738-4172-93ed-f8a4d92b421f	GTX2/3 and traces of STX	1035	ng NT−1
-a909967d-980e-4cc5-bdab-a07aa3e60d41	PSTX; GTX1/4 predominant		
-553b8a0a-5744-4064-8612-b97c94f9db1c	PSTX; GTX1/4 predominant		
-be5e230a-0f51-41f0-9ba6-82ce3dae4655	PSTX; GTX1/4 predominant		
-0b24b93f-ac89-4e07-b9e6-ad381d6003ec	PSTX; GTX1/4 predominant		
-8ceec243-88c5-4687-8b8b-1a6856cd2cff	PSTX; GTX1/4 predominant		
-8e57f1cd-549e-4862-aae4-2e2d3eceb01c	PSTX; GTX1/4 predominant		
-9a896326-e45e-422e-9289-d59a8cac7b4a	PSTX; GTX1/4 predominant		
-fa362a7b-a11d-45c4-9540-f85616e29e08	PSTX; GTX1/4 predominant		
-432592d7-581e-44c4-af6d-5759f1791317	PSTX; GTX1/4 predominant		
-589d12d2-a6a6-4a47-8a7c-d458bb437002	PSTX; GTX1/4 predominant		
-2eed1c2d-6409-4933-8a73-6b76a6e9c075	PSTX; GTX1/4 predominant		
-8f408f59-6354-4f65-af5a-71083a407e0c	PSTX; GTX1/4 predominant		
-2b4ce650-b0f6-479c-8f81-c003fbc00735	PSTX; GTX1/4 predominant		
-03fe94d0-5f06-4a8a-a0e3-3b698c5207c9	PSTX; GTX1/4 predominant		
-5fb70952-3f02-4176-ac24-46df67e85b54	PSTX; GTX1/4 predominant		
-7498d22f-17f8-42ff-a60f-12edbd1f7f04	PSTX; GTX1/4 predominant		
-5b096720-85c5-4972-99fb-323e2d9e3983	PSTX; GTX1/4 predominant		
-969c707c-3752-432b-8979-1c4ae323045c	PSTX; GTX1/4 predominant		
-67befc6d-a480-4f3f-bdd2-e2d674cf9eac	PSTX; GTX1/4 predominant		
-f8fa7f64-d32b-4ff9-a2ff-c9f945c51b07	PSTX; GTX1/4 predominant		
-fcb4a94f-fd8e-44ea-96e2-57701652a24e	West coast of Chiloe Island		
-bf116bc4-c64c-4d67-a5a4-e29103ff5dac	GTX2, GTX4, NEO-STX STX		
-84bf9228-2a89-4b6c-b4c4-6bf2fa02dc4d	PSTX; GTX1/4 predominant		
-520db63d-7554-4c5e-9fd2-ca86fc3817c0	PSTX; GTX1/4 predominant		
-eddd4ea8-51e2-4f06-b368-61de479b4685	PSTX; GTX1/4 predominant		
-78af3277-8dc6-4e57-9cdf-0330e1497e44	PSTX; GTX1/4 predominant		
-cc3fb029-1ab3-483d-b2d5-7b02a224e754	PSTX; GTX1/4 predominant		
-b3b5e7cf-6180-4a59-b612-e4d485eb715d	PSTX; GTX1/4 predominant		
-5d7bff22-0bf3-47bd-b6b8-7cf570c7a600	PSTX; GTX1/4 predominant		
-f7408c62-49ce-494f-a337-ad6f701f80df	PSTX; GTX1/4 predominant		
-b2fd14f7-acf7-4291-abe5-2f77e842cd28	PSTX; GTX1/4 predominant		
-12ae15ee-fcbd-4b84-8845-02bfac760ef3	PSTX; GTX1/4 predominant		
-65f84ed5-3869-47e6-a8a4-22ce2a1f0c1a	PSTX; GTX1/4 predominant		
-b69e8ece-ff33-40f4-adf1-daddbd920194	SPXs: 13-desMe-C; 20-Me-G;		
-6eff8542-0682-49ed-9fbe-d5293df6a65b	SPXs: 13-desMe-C; 20-Me-G;		
-42f93d58-66cf-496e-b8f5-a1f05fa009b8	SPXs: 13-desMe-C; 20-Me-G;		
-4b802b98-2ac5-4fd4-8163-6523caf69baa	SPXs: 13-desMe-C; 20-Me-G;		
-ec93d7b9-1ce0-446e-846d-115d7797c240	SPX-1 and 20-Me-SPX-G		
-41699790-cf91-46be-9bc6-55aa08898803	SPX-1 and 20-Me-SPX-G		
-4ae8c366-74ba-481d-9ae9-d1e92cbac487	SPX-1 and 20-Me-SPX-G		
-e38bb607-9534-409c-a4b3-420f36e62513	SPX-1 and 20-Me-SPX-G		
-17df2936-0a2b-496a-a299-d64b4dee7de9	SPX-1 and 20-Me-SPX-G		
-1878d952-733c-48ef-85a4-2a62a4d64814	SPX-1 and 20-Me-SPX-G		
-8c6672e6-e9f2-4ce2-9278-92353c311bf3	SPX-1 and 20-Me-SPX-G		
-b4c4dce8-350d-4a5f-ba42-3e98011eba8b	SPX-1 and 20-Me-SPX-G		
-c52555d1-4d7c-4b4b-bbab-12398fb2604e	SPX-1 and 20-Me-SPX-G		
-b41277dd-5b18-4a5e-a7c3-16c06c195552	SPX-1 and 20-Me-SPX-G		
-0c07e8e2-d6dc-4df0-ae34-3209f2136002	SPX-1 and 20-Me-SPX-G		
-8f62a74a-c378-4f53-9148-fe194a38d539	GTX-2/3, STX, dcSTX;		
-f1237e49-f6f8-4692-b225-144dddfa24e9	GTX-2/3, STX		
-d55a412b-b32f-4903-8b9c-2a75a758e21d	STX, NeoSTX, GTX3, GTX4, dcGTX2, dcGTX3		
-e9255912-5b73-404d-abff-0319281f212c	azaspiracid-2 and azaspiracid-2 phosphate	AZA-2 1.6-6.9	fg cell-1
-6efb482a-1dfa-4a60-9017-61a5bd79da97	DSP		
-55b8abc0-575e-421d-8efb-6a4fd44353a8	DSP		
-090348b8-b3b1-43f3-ab33-449150d22158	DSP		
-9b268f11-0521-48cb-86bf-b905eca71bdf	DSP		
-6e55cb59-9fbd-4cf6-a063-85153187d85e	DTX-1		
-ac560fcc-7d9f-4ab9-83e9-0d1dc2e1d4f8	OA		
-eb40e21d-921c-4090-96d9-00b6af98a660	OA		
-3da8a845-82f3-4732-b347-beaca3bff4f4	OA		
-b2afe1c0-68da-48b3-bd18-a924d7cba543	PTX-2	180	pg.cell -1
-9a9ee548-642b-45e7-8290-50fa2698fdcf	PTX-2		
-53db63f2-18e0-4192-974c-80cacfa89724	PTX		
-08e1daf6-8907-46b9-bc52-60eb838f6d9c	PTX		
-270e39a4-c46b-4517-aa43-50a172b4be9e	OA		
-378a3f90-0740-4427-9ea4-cbee0d054826	OA		
-5296ad73-4f04-4948-b945-fa5fb11ba76b	OA		
-733945bd-603d-47d6-996c-419493b3f0c6	PTX		
-c6a219b7-87c5-4be9-be56-e2667cede354	PTX		
-6bdd1a84-aa73-43c0-a9a2-603fdc945056	DTX-1 DTX-3		
-e7718b15-b46b-4e5b-a89f-8e75ee9b311d	OA		
-0cbebc20-4321-4d7c-92b4-b705fc9860bf	PTX-2, DTX-1, DTX-3, OA		
-12d0827f-d15a-46b9-9f3b-0ee39dd81db5	OA, DTX-1; Acyl -DTX-OA, Acyl-DTX-1		
-f41d953d-e0f7-43fc-8c68-d9f8e43625b1	OA	26.4	pg cell−1
-bb21b26d-7ffc-47e7-a21b-d027187407e9	OA	22.7	pg cell−1
-42a46ec7-2850-4384-8cb1-4332547b9624	OA	19.0	pg cell−1
-01a2c6a0-529c-4849-a014-7ba7948db2f0	OA                 DTX	4.5–6.7          <d.l.–1.7	pg cell−1
-407ef238-9046-4aee-9b6f-5e006575d838	OA                 DTX	5.4             1.2	pg cell−1
-2f39f4cb-72bf-459d-9da1-d5373499ccb1	OA                 DTX	5.8              d.l.	pg cell−1
-f04538d8-21e5-490e-9c7a-4aad49b4261d	OA                 DTX	4.5–6.8          0.6–0.7	pg cell−1
-67166014-7aa5-479c-8997-9e2632e574ab	PTX-2, PTX-2sa		
-1634cfb7-3b29-4561-b987-f3b8d53660b2	PTX-2, PTX-2sa		
-1c214caf-ab77-4246-8b67-8d0174c1e397	PTX-2, PTX-2sa		
-aa940744-228e-445d-8419-0b40b7d8d3c2	PTX-2, PTX-2sa		
-d0e1e3b3-47c6-43eb-8c68-78f70f90f1c2	PTX-2, PTX-2sa		
-9e8202a5-2a74-40e3-8efd-1ec647100b5c	PTX-2		
-5255f8cf-d873-4ba3-98cd-38849c18adf1	PTX-2		
-ddda66a2-54ac-4665-b084-bf6d984481b3	PTX-2		
-dcc5a4e7-6c2a-45ba-9c64-7c62c9595f0a	PTX-2		
-0e5fbd0a-a2d8-45cc-aa1c-a74212dbfc9b	PTX-2		
-519749dd-fb2c-4c5e-804d-9058fb597504	PTX-2		
-9eecae35-8c9f-4c73-a144-92697e80da9a	PTX-2		
-3a2da9dd-1bc9-41da-b3a9-86b3c3154bdf	PTX-2		
-375e0a29-a9b4-4c06-a78d-522a7d7b6e53	PTX-2		
-5f66059d-a640-490e-bdd5-86e9f2f65019	PTX-2		
-4f585953-dfa9-4ced-b442-ae6ef0b15b0d	PTX-2		
-b2e4890c-6d41-4b49-bf98-b08cc9724072	DTX-1		
-7aa6081c-a5df-4f1d-9686-9337ff3d0e59	PTX-2		
-f4853f76-7e47-4b87-b51a-0e65ddcf0233	PTX-2		
-118d779b-3e93-4817-8982-869e67b1308b	PTX-2		
-9e2933b4-6391-40b9-8818-7b49533b00f0	PTX-2		
-bc5bc43a-c913-42e5-bbc1-bc66ccadfbb4	PTX-2		
-aa50cae5-cc24-4c40-b171-00d65fcc4177	PTX-2		
-16f13365-bd9f-4d86-8620-203a30fedd17	PTX-2		
-c87c05ed-bc1a-47c3-a730-c85e4d3167b2	PTX-2		
-74398a82-6771-491f-b4ec-608c7c6077cf	PTX-2		
-0b7dfdd4-93f6-4233-831f-52d4dc48ee45	PTX-2		
-8376c241-b1f6-4a31-9638-f8fee4ced35b	OA		
-09a3e744-b383-4505-978a-7b5c0c9191a1	DSP		
-1db616f6-13db-4978-b2a8-c40b530638c0	OA                    DTX-1                PTX-2		
-c8c92ade-97b0-49d4-a4a8-535467292b8d	DSP		
-a960bbce-298e-428d-9371-541ce6215fb7	DSP		
-4190dcc6-fd1b-4719-8b24-b5bf60fda876	OA		
-73c72c11-f165-4126-ae83-dbe16a2762d5	OA, DTX-1; Acyl -DTX-OA, Acyl-DTX-1		
-81f81b8f-eb84-48fe-8d4c-cbd36a1dfa32	OA	7	pg cell -1
-a605f396-d5d8-4cd0-8127-96272c2802dd	OA		
-8dd72110-3255-4b76-ac2c-8adcf748babf	PTX-2; PTX-2sa		
-90c2eabe-9c31-4500-b7ec-8fabfcda510e	PTX-2		
-26eb310a-29e4-4eb0-b710-62c4bf704a2b	PTX-2sa		
-2537c1d1-257e-4385-a23b-c6d4b3a7319f	PTX-2sa		
-fec293d3-575f-43df-8d70-3e0217cd5b2f	PTX-2; PTX-2sa		
-bc83c5fa-d0a7-479e-97f4-8873cd73a9d1	PTX-2; PTX-2sa; PTX-11		
-b1184400-c3bc-4428-8fb8-d3bd35fd4d4e	PTX-2; PTX-2sa; PTX-11		
-5c85a0e8-8f70-41c3-8eb8-aaddf14424ad	PTX-2; PTX-2sa		
-cbc9bf1d-8830-4796-b26a-df4756ea417f	PTX-2; PTX-2sa; PTX-11		
-731d309f-c81f-44d2-acbd-2b95e1ca4c94	PTX-2; PTX-2sa; PTX-11		
-2c4df667-886e-4fc7-9759-f12336c878fe	PTX-2; PTX-2sa; PTX-11		
-01269409-c10c-47b5-a06c-42c68e664d3f	PTX-2; PTX-2sa		
-4e18dd36-c031-4593-a17a-eb39a489a9e8	PTX-2; PTX-2sa		
-d4765b91-3c9a-4d47-9c75-76483731205c	PTX-2; PTX-2sa		
-8aef03c8-bc50-4c36-8592-568a9ede62f9	YTXs, homoYTXs - Yessotoxins and homoyessotoxins	below 1	pg cell-1
-a2cff06f-3ac7-497f-bcb5-1877495c697f	YTX		
-44b5f10f-5f07-48ea-859d-c48e198c0e3f	YTX		
-6f3ceb39-2a28-42e5-b95e-0433115a546d	YTX		
-d50dd7f1-3244-40e2-a27c-f1255c5d738f	YTX		
-0ec994fa-6c06-48e6-9e46-ec9413be03b9	YTX		
-56289513-05b3-46d2-990d-b38a5931217d	STX		
-fad04f21-4cf2-4b89-a564-d7019e63dad5	STX		
-237e844a-71c2-42c4-a8e5-5dbe75b0aa92	STX		
-68d18a4e-0b80-43c0-8c95-80e123b2590a	PSP		
-3fa5012d-0f9e-4041-9bc7-858fd09ac3a6	C1, C2		
-1bd5de41-9ad7-4758-8d1d-c67dea99bd2c	C1, C2		
-e2faacdb-0874-494e-b125-c7ef01357181	PSP		
-b00f99bb-fbae-4f63-a7c0-e2275b9de127	PSP		
-cb55c995-4fd0-4323-aac6-71fe8c268896	PSP		
-a888d56d-f56d-46a4-bf4d-ae3839ebb14e	PSP		
-12dcde97-45a6-461a-be35-de667774473c	PSP		
-d44a40ea-71a4-47e0-8b98-8615638c3dcc	PSP		
-8e6fc793-a9c3-4765-bbda-1eaa0add3e5f	PSP		
-4ae835ee-884b-4211-8f0c-058d66ab0f41	PSP		
-ea9e26e0-eb37-45fe-b580-72c223ebb29b	PSP		
-586f786d-7690-4659-bc53-a43c1f8ad56c	Ichthyotoxicity		
-ab06ef47-8f40-49fe-8e1e-7c2de928b0f1	Ichthyotoxicity		
-d6b54931-1028-4105-8eda-6dcfb51212d0	Ichthyotoxicity		
-9908c586-e8a6-4d07-9359-9a8a237eb593	Ichthyotoxicity		
-279303b5-d501-49d3-a252-8fae222639af	Ichthyotoxicity		
-eefeb6b8-25d0-4a86-b3b2-28399b53a57e	Ichthyotoxicity		
-55b9405c-4a28-4e52-9fde-fe2b8cba14a0	Ichthyotoxicity		
-cefd8279-a24a-41e6-8c4f-e2a5cf01b97a	Ichthyotoxicity		
-ae5e0b02-ee28-4c75-abb6-5ec0eb333b4b	Ichthyotoxicity		
-a551ab80-e2ef-4b44-bbdc-74f9d93b41ca	Ichthyotoxicity		
-dca78f54-425a-4399-bf04-1d1ee3004183	Ichthyotoxicity		
-05f8aa31-6d5a-4853-9307-d8b929eef112	Ichtyotoxicity		
-04819172-20a8-4b46-91cf-c5eb16d99497	Ichtyotoxicity		
-192c41dc-4ab6-45fd-b497-c72607e1550d	Ichtyotoxicity		
-7277daf5-1cbe-420b-ae95-d1fb0e180d9f	Ichtyotoxicity		
-8bbd73a4-66d3-45be-8559-8babfe96e09e	Ichtyotoxicity		
-b8b5ddd8-94cf-48bf-9b68-272a86b1ce79	Ichtyotoxicity		
-436d912d-fa74-4013-80c4-5fd04e796d25	Ichtyotoxicity		
-3d74c388-7a92-489b-a7e2-31bd86021498	Ichtyotoxicity		
-4fe39a36-0539-458a-bc6f-bc87108271f2	Ichtyotoxicity		
-ac72ac20-d8b9-480e-87d2-6e7e89c7395b	Ichtyotoxicity		
-33b9d910-26da-42d0-bd44-38661496ce35	Ichtyotoxicity		
-ccb66cd2-23d4-4b9e-89d7-25a8eef95939	Ichtyotoxicity		
-0c83355f-da44-4bdc-9dc8-c6e5df9f5240	PLTX		
-245177d7-16f6-42f0-b142-9affb577a6f4	Ostreocins            PLTX		
-15641a34-d8be-4f7c-843f-b1fb2c60637f	OVTX-a, -b, -c, -d and -e		
-00574132-c309-43de-8291-de90e8aeeabb	OvTX		
-cb515e66-3817-4aee-a373-70d88105c799	OA and Fast acting toxin prorocentrolide		
-351cc075-b3fc-4355-a5f8-81469c1c6e09	OA and Fast acting toxin prorocentrolide		
-8ccb5cd6-16d6-47f7-8063-2a6b003983f6	DTX-1		
-0eabb877-9eec-4abf-b733-5cbd96176adb	DTX-1		
-54c77e3d-2a3f-4bf5-8bc8-e7a813fe71d0	OA                    DTX-1		
-d183996c-3665-43a8-b775-bc730b52e840	DTX-1		
-fa2397b7-6863-4ac7-bc5d-17486dcf582b	OA                    DTX-1		
-1d876bd5-9316-4d52-b75e-fbf82c392171	OA		
-02a24ab5-e407-4ae8-9cf1-f63199561694	OA and DTX-1		
-f7eb54ac-b809-441e-9c8a-3751c92142b0	YTX	0.2-0.4	pg cell -1
-6840a6ad-4816-4fd5-8086-1f0894483936	YTX		
-bbfc5189-6dc5-4acf-ae11-0edca85906e9	Ytx	51–496 in bivalves   3.2 in plankton	ng g-1                       ngL- 1
-35113652-4fd4-493d-9567-485ad38d6163	YTX		
-2c5859e5-8994-495a-94d6-4cf38f386e62	YTX	~10	pg cell-1
-739c4ab0-5ba7-4022-8fc2-08177b4ce993	YTX		
-e95f22c7-bd58-472d-b3e4-9988ef657d9b	YTX		
-3292d771-a295-43fd-aa46-4c6cb15ab4be	YTX		
-97e0bbc4-a543-4428-bd5f-59a15cd77126	YTX		
-687d266a-2a38-4210-b435-1b497d968856	YTX		
-df5e0d9b-14ca-4438-af5a-2bcf26ce5c24	Ichthyotoxicity		
-d472567e-c42c-43ff-8d1c-76d2b361161b	Ichthyotoxicity		
-da322d2d-74e4-4cf4-abd0-65af0af71b0f	Ichthyotoxicity		
-6c52bba1-4b52-4b99-9594-22a683944a07	Ichthyotoxicity		
-00c116a2-5dc3-4e08-adff-9c9c66943ad2	Ichthyotoxicity		
-c345a1df-947a-4237-aa5b-3d793c34ab32	Ichthyotoxicity		
-3376c1c5-40de-48d9-b97d-0502cedd3eab	Ichthyotoxicity		
-fa38e90d-90c3-4517-8ec6-cda2cf4a2e5f	Ichthyotoxicity		
-20b17546-b6a8-4d86-8612-2fe4edd5a179	Ichthyotoxicity		
-e6103c9f-474a-4622-8736-8d20b1a33f3a	Ichthyotoxicity		
-8b5f34d6-3f73-436d-9075-6d8a56765bbc	Ichthyotoxicity		
-58a10570-f3b3-4aeb-b8b6-a958322d507b	Ichthyotoxicity		
-e9296fc5-1ba8-4593-8399-48d6edb2d7db	DA		
-da760622-8eec-4943-82b5-4b5f324c741d	Domoic acid detected in cultures		
-86fcbfb4-402a-4a8c-bad2-e62d9f99b1a8	Domoic acid detected in cultures		
-116d0bb3-a5bb-4d21-8289-0bbc8443ac28	Domoic acid detected in cultures		
-5a647d0e-f364-4a0c-9214-81ae65cea867	Domoic acid detected in cultures		
-cb67d3a2-69a1-42d4-9d25-aefe2ebe3f92	Domoic acid detected in cultures		
-4eb02640-4865-42bb-80d6-a27bd6b81790	DA	198	ng NT−1
-91f3657b-d635-4e5f-8a50-83a5c10739b3	DA	295	ng NT−1
-0dd22272-1c4a-4282-b5e8-27721d82d152	Domoic acid detected in cultures		
-cd3f9076-f547-46e1-997c-c1873eefb1bb	Domoic acid detected in cultures		
-eb5b35a2-7090-4cd5-a21a-6e2e53e58fec	Domoic acid detected in cultures		
-53973aa0-eda1-4870-b1dd-0a12c5b653d0	Domoic acid detected in cultures		
-5e913329-02e2-4ad8-8a58-9b9a1ad2a900	Domoic acid detected in cultures		
-a2765443-d93d-41d3-a7ff-79ec1072cb8c	DA		
-f36012fe-15f4-4402-a761-62ccf980c149	DA		
-a95866b0-c23f-44e1-8e58-31f11a0c0d44	DA		
-52ac9d89-84d4-4087-bdab-7772f8c71a9a	DA		
-2fcfe017-6491-4495-995a-d94bbdb2ff3e	DA		
-cd168457-117c-47c8-9bca-8e1132c31910	DA		
-1f11ca90-1184-483c-9542-43b58bf959f2	DA		
-8bf26679-4661-4f8b-ba94-1976b2332a62	DA		
-8c9a1ffa-a390-4455-a767-2e13b3eea924	DA		
-22c72a93-5171-410c-9726-66a27fa914b3	DA		
-4b01c04a-a1ce-43d8-be77-3c802162f5ee	DA		
-61280d5c-8a26-43c5-9136-e8a858bdf89a	DA	198	ng NT−1
-15db4c25-726e-4b9e-a7ee-113804151b7f	DA		
-78f3b6af-4fce-4058-a168-e467399cd40e	DA		
-61f56b78-bdb3-4eba-b055-0ef47d9cb1ed	DA		
-bb2e81e1-b491-4127-b7b0-b2079fa82ca3	quantity	600	cel L-1
-0a2b0e86-1ab0-469d-90af-00f0451efa62	quantity	40	cells mL-1
-865acbf6-e009-4e04-ac45-9b1c36df91ff	quantity	3000	cells mL-1
-913a7ee1-c2b0-48fd-bc8e-cecdf94ba443	quantity	1200	cells mL-2
-08152f3c-f9e7-44a5-af3c-1f16901ac6e3	quantity	1500	cells mL-3
-2b5a4dc9-b080-4046-bfee-3943e2108778	quantity	1800	cells mL-4
-da2cf0ab-bb70-4832-b97d-a090380d1401	quantity	6000	cells mL-5
-e9255912-5b73-404d-abff-0319281f212c	quantity	9300 to 45900	cells L-1
-f7eb54ac-b809-441e-9c8a-3751c92142b0	quantity	330000	cell L-1
+4b85d4d5-8a02-4800-8e38-8977acad32c7	PSP	173000	MU/100 gr meat
+9b9fe316-0c2a-44a5-b153-4d64f236bdb6	PSP		
+6e420ea6-faa0-441d-a378-ea299c9491e3	PSP		
+8d2e6aa3-b6ed-447a-ac19-f0f4d1d65901	STX		
+68eeca0c-bb04-4654-b17d-1a6cb853303d	STX		
+20d72d1e-3349-4788-8cc9-07a9eda24b69	STX		
+3b5e2e9d-d3fc-476a-8c2e-c2a94bcaa05d	Ichtyotoxic - PUFA's and ROS		
+ba78456b-5711-4be9-8973-22e65ddb17d6	Ichtyotoxic - PUFA's and ROS		
+961bea1a-ca3c-47f7-93f5-215b00844820	PSP		
+3bf64acb-a41d-46d9-83d4-3837764cd10f	PSP: GTX4,1; GTX3,2	18.5	mol cell -1
+64757c71-92c8-484f-a431-5ab159e41f45	PSP: C1,C2; GTX6; GTX4,1; GTX5; GTX3,2; STX	24.7	mol cell -1
+3c0325e7-743a-490b-8ebe-5df3140f6a48	PSP: C1,C2; GTX6; GTX4,1; GTX5; GTX3,2; neoSTX	92	mol cell -1
+bb6c456e-8300-4030-b35b-3584dadfec15	PSP: GTX4,1; GTX3,2	18.3	mol cell -1
+287bce9c-e7d7-44d2-9ba5-56fa375480a9	PSP: C1,C2; C4; GTX6; GTX4,1; GTX5; GTX3,2; neoSTX; STX	96.9	mol cell -1
+380dd8fe-2f55-49cd-94d4-4526e0ecdd71	GTX4,1; GTX3,2	11.7	mol cell -1
+8f3acf95-a79b-48b9-91c6-f18a8f127018	PSP: GTX4,1; GTX3,2	8.5	mol cell -1
+a183e544-bca5-4591-b23a-83c3f301e8b9	Ichtyotoxic - PUFA's and ROS		
+f7c15a6f-9c1b-40b9-bb43-68a256666fb9	Ichtyotoxic - PUFA's and ROS		
+57464fd0-570c-493c-a39f-c395c5b89479	Ichtyotoxic - PUFA's and ROS		
+c4456b55-4f12-4eb6-accf-804bea661dbb	Ichtyotoxic - PUFA's and ROS		
+aa042d84-8a70-4db2-a8f8-9902a378840c	Ichtyotoxic - PUFA's and ROS		
+7fa26fde-d77c-4905-8df7-6aff71076d6c	Ichtyotoxic - PUFA's and ROS		
+74b9e894-6fd5-4f33-bece-e2b611f90a78	GTX2/3 and traces of STX	1807	ng NT−1
+3f8ffb6e-ce85-4ed8-80e3-49b7bfb8990b	GTX2/3 and traces of STX	5257	ng NT−1
+b30f50e0-0796-4a0f-8e78-b928ade788f8	GTX2/3 and traces of STX	259	ng NT−1
+0d12bf65-ec50-4b67-a3d1-acca00854f72	GTX2/3 and traces of STX	1035	ng NT−1
+0747c78d-d0e3-46ee-96cf-5a52f40d5841	PSTX; GTX1/4 predominant		
+9f4c0eac-13b7-4df2-bb93-a4278f6dab79	PSTX; GTX1/4 predominant		
+7577d7af-17f5-4fba-a2fd-0a58964c6e38	PSTX; GTX1/4 predominant		
+d319145a-b617-4342-a57b-dab63a36acac	PSTX; GTX1/4 predominant		
+65db3058-6d83-4352-a125-1dfa5ebf24f7	PSTX; GTX1/4 predominant		
+c9cfb941-4fa6-4854-b36f-2807e7dab234	PSTX; GTX1/4 predominant		
+4f545b4e-64ab-4eeb-9a65-4e196a86f880	PSTX; GTX1/4 predominant		
+7e5dfe4c-0cc1-46ba-904b-50ce51064058	PSTX; GTX1/4 predominant		
+a031b592-c86e-49f8-abe2-8409cf1b2e18	PSTX; GTX1/4 predominant		
+5f6de89a-f35c-4323-90dd-f6994bb91ed4	PSTX; GTX1/4 predominant		
+49c58dfe-cc2a-47a2-a26f-4cad8cf016e9	PSTX; GTX1/4 predominant		
+524a2176-3928-418a-b588-72568127e9ea	PSTX; GTX1/4 predominant		
+e381d88b-73b2-49de-9647-7d7af1038cb4	PSTX; GTX1/4 predominant		
+53fad7c3-c227-4282-b394-963ddb11d5c5	PSTX; GTX1/4 predominant		
+c4355879-4d07-4fba-98e7-8b0f9573de27	PSTX; GTX1/4 predominant		
+37ceced9-470e-4b23-baa8-05f47845250e	PSTX; GTX1/4 predominant		
+f05bea92-15b1-4282-8386-0aadce1e6fc9	PSTX; GTX1/4 predominant		
+9c139145-3bda-4e95-b4d2-7628ad3aa8dd	PSTX; GTX1/4 predominant		
+1c37432f-eb26-4068-953d-4101975fa160	PSTX; GTX1/4 predominant		
+ff8e3cdc-fd20-43b9-8425-75362de5c0ce	PSTX; GTX1/4 predominant		
+da4cfe29-c121-4476-92eb-91fcf04a6cce	West coast of Chiloe Island		
+875fb542-3da8-442e-abb3-91d43fcee47c	GTX2, GTX4, NEO-STX STX		
+e8b90f65-cf97-4ea2-b72d-82d5b6fd5df6	PSTX; GTX1/4 predominant		
+ee1422d4-b6d7-49a3-b54b-6b4b8a42951d	PSTX; GTX1/4 predominant		
+f068c8c9-2287-404e-8aa3-52c154688e07	PSTX; GTX1/4 predominant		
+39f4fd91-4d86-4826-a167-8f932bda7774	PSTX; GTX1/4 predominant		
+1235806c-49a7-48a5-90b1-858b2f034acf	PSTX; GTX1/4 predominant		
+fa52bd7f-217c-4f8f-9d5d-6fe981371f4e	PSTX; GTX1/4 predominant		
+6b9c7867-83fd-412d-a553-c34cc90eccc4	PSTX; GTX1/4 predominant		
+87c6ab4a-bb1f-43da-8a20-f0091fc8288b	PSTX; GTX1/4 predominant		
+c8748087-6a03-4509-bfde-68f2fd8f05e0	PSTX; GTX1/4 predominant		
+6b70f326-1e3d-4a20-baa4-768ebb506491	PSTX; GTX1/4 predominant		
+5417c96d-7f6a-4129-aeed-5e941d9a1488	PSTX; GTX1/4 predominant		
+ac7a53e3-9220-40fa-bb3f-e98be52bcfec	SPXs: 13-desMe-C; 20-Me-G;		
+1c7e16bd-f8b5-4868-b921-497eb24f8384	SPXs: 13-desMe-C; 20-Me-G;		
+358e67fe-f483-4390-bb99-530e34f17f4c	SPXs: 13-desMe-C; 20-Me-G;		
+dab7cc27-2f9c-48c9-af93-20630ff21296	SPXs: 13-desMe-C; 20-Me-G;		
+44dda43a-c865-4893-870e-996efd9d6842	SPX-1 and 20-Me-SPX-G		
+ed837102-7582-4719-ad33-0b6a9ca06ccc	SPX-1 and 20-Me-SPX-G		
+6a19457a-11a1-4667-b1a0-9a6b8e4107e6	SPX-1 and 20-Me-SPX-G		
+4a371d86-b41e-4ea1-b571-84fd6562f70d	SPX-1 and 20-Me-SPX-G		
+b2e6d881-1c77-4c70-9fd5-4b7cec5bbc9e	SPX-1 and 20-Me-SPX-G		
+9048a169-e6ca-4c33-9202-68306e7d42a8	SPX-1 and 20-Me-SPX-G		
+edec4a46-bced-4ee0-8d0f-875e9a2e1b9b	SPX-1 and 20-Me-SPX-G		
+17eacae5-5456-4186-b88d-a41f123a40fb	SPX-1 and 20-Me-SPX-G		
+399c6394-6404-473d-bfc6-c6a3d80caf99	SPX-1 and 20-Me-SPX-G		
+927979a3-4846-429e-8f8d-eff543d92063	SPX-1 and 20-Me-SPX-G		
+05b2cdae-1e3e-45ba-9717-9166c249efeb	SPX-1 and 20-Me-SPX-G		
+61c814ee-14db-4aa4-8b60-599bf4fbd628	GTX-2/3, STX, dcSTX;		
+c980a772-4f7a-40aa-8d3c-e7f7bdca4c72	GTX-2/3, STX		
+bfc5677d-35a6-4d7f-9d54-e2f6de60a3af	STX, NeoSTX, GTX3, GTX4, dcGTX2, dcGTX3		
+dd101d59-6455-47ec-b21d-557f67bcefa8	azaspiracid-2 and azaspiracid-2 phosphate	AZA-2 1.6-6.9	fg cell-1
+1ea3bb17-92dd-44f8-81d4-56e3d7e703e4	DSP		
+d617ad62-94f4-446b-8eab-9867476dff3e	DSP		
+fe1efe85-83a5-4646-afc0-8664355a857d	DSP		
+806d06b1-5a05-4d15-9ee1-4449e586b92a	DSP		
+fb1c2d83-7fd5-4177-86bc-67875eb7a83a	DTX-1		
+2d98155e-deb5-4d3b-bb77-2347f4626816	OA		
+9d6f1f72-ad0f-44c6-8512-e328d2c955d1	OA		
+ea77644a-5d43-4cfe-9ca7-3af04ae72fe4	OA		
+96e30e14-0e73-4c8f-9f9a-be1ed70bab88	PTX-2	180	pg.cell -1
+58ea7a52-e9a0-4ed3-9059-8308769c21ff	PTX-2		
+58331902-65db-4fc1-98cf-c064c5b8a3c2	PTX		
+a496145d-9e0f-43eb-a89f-511889b8a396	PTX		
+b061e06f-eb97-4f1a-ab6c-9b65a362b413	OA		
+b8a0488d-39fb-4030-ad9f-0a9b50a401d4	OA		
+ee804cc8-c345-4054-bac3-d54f2b3133ef	OA		
+5c406596-6525-4e4d-a990-e054ecc1c78a	PTX		
+b592b438-82bb-4369-a2ae-bbed80d3d009	PTX		
+93b0f6ca-290b-494b-81b2-1d30b2d8fd02	DTX-1 DTX-3		
+a653aac7-f91d-458e-890d-3020db90866f	OA		
+f204c333-52fa-4edd-b8b7-4c557c52102d	PTX-2, DTX-1, DTX-3, OA		
+c87ab8e2-a0f2-4436-a0a4-ff5b9104ccd1	OA, DTX-1; Acyl -DTX-OA, Acyl-DTX-1		
+37751b06-9660-4bf3-9323-0da9358e435b	OA	26.4	pg cell−1
+0b38182b-2ec2-4ddc-bcdd-31845ca60a5e	OA	22.7	pg cell−1
+deaa9ebf-a602-4f57-aea7-eedd6387fd3b	OA	19.0	pg cell−1
+fee06cd8-1d10-4073-885d-0df0619aa2dc	OA                 DTX	4.5–6.7          <d.l.–1.7	pg cell−1
+c99e0f7f-15c2-4a2d-87c9-6211f916fc78	OA                 DTX	5.4             1.2	pg cell−1
+8e69145f-e5a0-4196-9a5c-c68360082c34	OA                 DTX	5.8              d.l.	pg cell−1
+7283be3f-0f34-4905-9ec8-22825451557a	OA                 DTX	4.5–6.8          0.6–0.7	pg cell−1
+cbf168d5-6c18-41ff-81d7-458f89e0c2c7	PTX-2, PTX-2sa		
+c83345b3-5138-4bbd-8195-59d4f486737c	PTX-2, PTX-2sa		
+2f1f3cb8-e454-48ee-b219-5ffdc9104868	PTX-2, PTX-2sa		
+65d07f40-aed2-4a44-a7c5-297506f016c8	PTX-2, PTX-2sa		
+159f0ce4-b5af-4365-84ec-41d8bd2c0be0	PTX-2, PTX-2sa		
+6c699808-e16a-4a58-845f-0dff6c7cbddc	PTX-2		
+ea036c3d-035c-4bda-a60c-a7267ef365d1	PTX-2		
+5779fe88-21ab-411e-a010-33f38122f47f	PTX-2		
+c78e4f05-1634-472b-a565-862a196515a8	PTX-2		
+fa7bfe2d-7d01-499c-b1e0-51096670a005	PTX-2		
+cf256286-2278-48b8-a136-e465cbdb2994	PTX-2		
+61dd52e8-99ce-4106-a6fb-3764455225d7	PTX-2		
+f50f1c20-8772-4c84-be08-f90d089972cb	PTX-2		
+21d8a2bc-1bed-47d3-9171-0d6b87b8f067	PTX-2		
+7733cf0d-c1a5-4a80-b258-af68969dd2e7	PTX-2		
+85e58741-bd14-4205-83f6-70d551d70c1e	PTX-2		
+aacfe502-8f00-4aa1-8194-90975c91ab44	DTX-1		
+cfde8cf7-4e50-4060-bcea-99f284cb5d30	PTX-2		
+ccc7c5f8-86fa-4ffd-a4b0-b9272e86daf7	PTX-2		
+6114ff17-4337-4bbe-a6d2-c82289b18503	PTX-2		
+99c26a4a-8339-401d-a87f-95fd45654622	PTX-2		
+53cecb2d-597f-4d80-aaee-6d4f08394858	PTX-2		
+41bff596-9047-4458-ad0b-31e7e9ad7ba0	PTX-2		
+eb9e547d-60c5-4112-8bca-41a870f7324e	PTX-2		
+eb03fa4a-7344-465e-b1df-15760fadcf65	PTX-2		
+f1c7a740-c95c-4555-96e4-a86578afd225	PTX-2		
+b316c45a-cccb-41f8-ab69-2c881598ab03	PTX-2		
+2768aedc-fe11-4067-ba73-ce6275302368	OA		
+69fd5db6-95d5-41d5-b040-595dba0faaee	DSP		
+8a8bdd26-85b3-431b-8071-abddc9cfa40c	OA                    DTX-1                PTX-2		
+6b3c94fc-e430-44ba-aaa9-60cae5bd0cf8	DSP		
+11a8210c-b33c-4ad5-8b66-a1bc7cd91ce8	DSP		
+4bd0d35d-e3a3-45f8-98ec-49fdf9467aa0	OA		
+a3752d67-598f-4d93-b31f-66c5fcade9c8	OA, DTX-1; Acyl -DTX-OA, Acyl-DTX-1		
+147caf34-a2b0-4ae9-b505-cb7c517d4318	OA	7	pg cell -1
+dda3576f-00ce-41ad-b6c3-196192391ddd	OA		
+3c56928a-1435-4119-8ba1-ffaf6ce3d3fb	PTX-2; PTX-2sa		
+82727dfd-3d2b-4312-9e16-f9295c5d038c	PTX-2		
+814393a9-22c0-49b4-88e0-758baf9eb946	PTX-2sa		
+111e7149-806b-4faf-8d40-7230841646b0	PTX-2sa		
+8aa6179e-36d5-493d-b59e-0f78c53b2ae8	PTX-2; PTX-2sa		
+2b0476a5-bfb8-4053-98f9-ae034bc6e308	PTX-2; PTX-2sa; PTX-11		
+b972be31-3f73-40a9-a4aa-bbf9cfd555a6	PTX-2; PTX-2sa; PTX-11		
+fd02f484-428c-4172-9c45-ebf41f56b704	PTX-2; PTX-2sa		
+18276473-78ad-47eb-9687-3ba61a16cec6	PTX-2; PTX-2sa; PTX-11		
+151c14cb-a8e4-4f4c-98bf-eebd5cd494be	PTX-2; PTX-2sa; PTX-11		
+2ca2287f-c357-420c-adf9-c822699ece12	PTX-2; PTX-2sa; PTX-11		
+3b580be6-2cce-416e-940a-147b30010c04	PTX-2; PTX-2sa		
+d583b82b-327f-4aaa-9124-44f9a2462ed2	PTX-2; PTX-2sa		
+1ab65ee9-b0c8-4255-abbb-0ed4ccfa4fcc	PTX-2; PTX-2sa		
+39848ae2-6bcf-4a2d-8908-783908b5c854	YTXs, homoYTXs - Yessotoxins and homoyessotoxins	below 1	pg cell-1
+0a91e43a-f029-4f26-bece-704d32d6ed28	YTX		
+9dfd21ff-30a5-461a-9c50-227c458f1bd6	YTX		
+41c12da9-8123-4412-b8f9-68f8386b4d1d	YTX		
+59ecddac-7000-46d4-a76a-99156ec53092	YTX		
+15d0c59e-1be0-408e-afee-0bce119b7942	YTX		
+99ad8139-2f96-4ecb-8033-274f797a0a00	STX		
+52e0e1f3-a43d-4727-afd7-187e3b49f287	STX		
+cf4827da-1d31-4360-9ef5-ec91646730ab	STX		
+e339e792-8a64-4410-a1e1-e97be7788df7	PSP		
+66a155b6-c7af-483f-9b2c-cfd180d9faad	C1, C2		
+a2c7e6c8-bd49-4fe3-88ab-3c04a1a4de55	C1, C2		
+7c7c96b0-f951-4c49-9e17-5b6c4de44888	PSP		
+e26592db-54da-4fd0-a8bd-1d64d6a237e4	PSP		
+e9a39356-8eb0-4763-be35-3738d013f332	PSP		
+a5fb5673-cb26-4d58-934e-7292c2c12931	PSP		
+9a984a31-2aba-40c4-b776-ee5bcd99d4a3	PSP		
+1482a017-3d46-496c-b02c-9e2da9015839	PSP		
+6fe21f7d-f4e4-4d3b-81e9-92a8d93debd7	PSP		
+857d498b-7c18-4f38-92ca-d8d68cc6ac5f	PSP		
+f49b90b2-ed77-4398-b80f-c257a3700c0e	PSP		
+4dfcd286-872f-4ba9-906f-a00506325412	Ichthyotoxicity		
+e7a9e693-444d-4d52-b6e0-226c9386ea16	Ichthyotoxicity		
+8370480d-5ed3-46f3-a954-7075bfc20582	Ichthyotoxicity		
+a14e7bee-1906-40bb-97f7-e305bfd0cb35	Ichthyotoxicity		
+6c72ecc3-f5de-47dd-9f0c-0e08e48e7e59	Ichthyotoxicity		
+fb19c3c3-e5a6-44d5-b419-3213431ca00d	Ichthyotoxicity		
+ed783295-9257-4e4d-8dd4-e22530763cab	Ichthyotoxicity		
+9165ccb6-b866-48a4-b9fe-172eca4128fd	Ichthyotoxicity		
+4ec1e849-9d77-4974-b78c-2c0b7d4b5d34	Ichthyotoxicity		
+efd9f7c6-997b-41d2-a54b-87a88c72c3a3	Ichthyotoxicity		
+3e876b21-ed34-4a07-8347-0b46e5f79f7d	Ichthyotoxicity		
+1f9ba60a-0ad3-4a35-8b79-66e03a645ca3	Ichtyotoxicity		
+e4dca49a-09b4-4842-8be0-ac2df3682290	Ichtyotoxicity		
+04ce144a-b4a3-48db-9454-fef99a6871b2	Ichtyotoxicity		
+39e9d915-2763-47c1-a04b-c3467f0e96c6	Ichtyotoxicity		
+b4d94246-69c8-4a56-ad5c-8659d2bc890b	Ichtyotoxicity		
+ae059a7f-c797-47a5-b36b-0adb712b3d4d	Ichtyotoxicity		
+2361f5b7-cc0a-46f4-a4c8-4ee87396f8ff	Ichtyotoxicity		
+2414ad37-e7f0-479c-871c-dcb84894e3c9	Ichtyotoxicity		
+0ef6e9da-d697-42e8-8eab-5d7b92ae7bbc	Ichtyotoxicity		
+5db66eff-b3f1-4fc4-ad98-a50756b59071	Ichtyotoxicity		
+1742187e-09b4-4573-8bf4-795cb6b32296	Ichtyotoxicity		
+ef9c1cc2-8ffd-4c3a-a7ee-333465d4dbae	Ichtyotoxicity		
+168867a1-78f0-4dc2-b557-c20a158b2239	PLTX		
+558e97bc-c3c5-47b7-b332-f17a0996616c	Ostreocins            PLTX		
+639b43cf-4a76-4a1d-b6cb-f628d8f4c17e	OVTX-a, -b, -c, -d and -e		
+75357a75-3008-44e3-83ce-047c6587df79	OvTX		
+7fce28ff-7642-4005-97cd-dc3191a665fe	OA and Fast acting toxin prorocentrolide		
+091c3c4e-23b5-492d-a60d-481f467d2f2e	OA and Fast acting toxin prorocentrolide		
+bcd80b20-7001-431d-a7ef-a3f092f45506	DTX-1		
+0e05794d-85f2-4e63-9e28-10e2746f91bb	DTX-1		
+0ab722f4-42f1-4290-a6ba-5fcf36f65e80	OA                    DTX-1		
+050b3fc9-4cb5-4f5d-a869-da8da08e81bb	DTX-1		
+d92eccee-8cd3-4056-b1ff-57d1001142d3	OA                    DTX-1		
+0179d094-3ab3-40b2-b951-eabe9c988671	OA		
+04d79c35-4dba-487b-867c-5457b1ff7721	OA and DTX-1		
+48ffdbf3-151a-42b7-a5e8-bead549798ae	YTX	0.2-0.4	pg cell -1
+1365f055-59a2-436b-83c0-c365959cc473	YTX		
+554e9008-bf6d-4cd8-8901-ff7e574900db	Ytx	51–496 in bivalves   3.2 in plankton	ng g-1                       ngL- 1
+27f4d35d-14d2-454e-a9de-be59bb10490e	YTX		
+782fd658-af94-4d4b-8320-60690c9b3575	YTX	~10	pg cell-1
+90e69a50-0b46-4e58-8751-b59e6cfb4900	YTX		
+908a31eb-2938-4645-87dc-d006e1bdd8a0	YTX		
+f26e8f22-69d4-40e7-89d8-bf9ba1c4d73e	YTX		
+22508afb-3859-44a3-af4d-473459a143a5	YTX		
+f0c14eef-c9df-4573-9db4-ffed65975046	YTX		
+7e039347-34cb-4280-877c-0a320a847243	Ichthyotoxicity		
+3421a6c3-8ab9-425e-b25c-f1f0a1d191b0	Ichthyotoxicity		
+376137b0-5cf9-453a-a437-357e056ab4e0	Ichthyotoxicity		
+5de81f16-c65a-4a25-816f-6b5cf36e2d25	Ichthyotoxicity		
+aa244bb7-8322-45dc-84ae-e0d892257e9b	Ichthyotoxicity		
+fb39523a-bea9-4715-ba17-582350af447a	Ichthyotoxicity		
+4348f00f-f182-4c91-90bf-b16d124548c6	Ichthyotoxicity		
+9a82bed0-8723-403c-b7a5-def37cbf303a	Ichthyotoxicity		
+8ff77528-fea9-4f83-8f47-e2c326b3587e	Ichthyotoxicity		
+627a4a06-1e4d-4643-839f-7cac57a3e08b	Ichthyotoxicity		
+fe5d6dc5-f31a-4502-af7c-5480a5b5e5db	Ichthyotoxicity		
+a53a8709-1c0e-4afa-9775-8ded057908d3	Ichthyotoxicity		
+30390551-0394-459e-9256-73cc97a4fceb	DA		
+a14f3e93-f5de-4ba0-8523-1da131506cc1	Domoic acid detected in cultures		
+6a98c4e5-ded4-40ab-b62d-d50510ce72fa	Domoic acid detected in cultures		
+1c27d38a-01ea-49b4-9979-b9f8452d043b	Domoic acid detected in cultures		
+79df286a-d145-40c1-beaa-cf357df224a3	Domoic acid detected in cultures		
+4ad8a948-e299-45b7-ac54-3678505f6333	Domoic acid detected in cultures		
+16b33a58-8087-494d-9223-c6c19c193966	DA	198	ng NT−1
+a2f5fbdc-4857-48b1-98d7-8b9f3f8c14a4	DA	295	ng NT−1
+0c3268a3-463d-4cd9-adec-81e2b22638f9	Domoic acid detected in cultures		
+08464ef8-8977-46a9-8524-97d3e36d62cf	Domoic acid detected in cultures		
+71549107-91c0-4a8e-8359-39150959780f	Domoic acid detected in cultures		
+6a93e1de-9a14-45a8-9f2e-78d86adf6d27	Domoic acid detected in cultures		
+2209b897-c56f-4499-856b-80278e9947b4	Domoic acid detected in cultures		
+5ef010f1-c02f-4156-9c4e-404cf51ea230	DA		
+d302bc01-8197-4a9c-982b-434cd4e99dc1	DA		
+11d608fc-4491-4f49-9e57-f6aedcf02647	DA		
+3e424547-4ea9-4da4-bc51-c7ee5daf2f5b	DA		
+6e3ac60d-3cf5-48a5-bce2-615e21c036b1	DA		
+577fa51a-cf76-49c3-b4bd-60950c8ea36b	DA		
+d38f7c1b-52a9-4a0a-9e24-d59241c36512	DA		
+6a5ed8a9-e50e-4962-878c-f9cc117bbcfb	DA		
+749f515f-8ec6-435f-8cb2-31829d898cf6	DA		
+659fc6a2-e007-48c6-aeb0-4d09ab45cfc1	DA		
+2dab814d-2914-475e-bff1-34b0799e44b7	DA		
+a02fd2da-2432-4efe-a983-e00315a0002e	DA	198	ng NT−1
+4278a8e1-2387-4bd6-a456-b285a5df3a92	DA		
+49e78ce9-3ca2-4161-af1b-b0dbf2786faf	DA		
+3149e5b0-7ff4-4429-9243-aad4000997bf	DA		
+ea3029a9-0c39-4636-9a04-e353bb5af204	quantity	600	cel L-1
+0e65d809-2cf2-483f-9225-3101985a79cf	quantity	40	cells mL-1
+b3f309dc-4171-4647-a060-64ee7f5f03b4	quantity	3000	cells mL-1
+faf56dac-a0c6-4144-83b7-9015f6d6751f	quantity	1200	cells mL-2
+5f729cc9-e85a-4a04-8e12-62ac2eeeb4c5	quantity	1500	cells mL-3
+9873646d-b86c-45fc-a5cd-0733db35386b	quantity	1800	cells mL-4
+171d7ebc-1904-448e-9e97-eb5fa8dfe12b	quantity	6000	cells mL-5
+dd101d59-6455-47ec-b21d-557f67bcefa8	quantity	9300 to 45900	cells L-1
+48ffdbf3-151a-42b7-a5e8-bead549798ae	quantity	330000	cell L-1

@@ -1,0 +1,290 @@
+id	measurementType	measurementValue	measurementUnit
+7ae01d49-b45a-4105-a5c1-b645df0a6be0	CTX3C	0.16±0.019	ag eq. µ-3
+52938424-a0ed-4ad5-a5c6-73ace034b1e9	CTX3C	6.5±1.47	fg eq cell-1
+240594c0-1473-4ef4-bb28-dde9213f50a6	CTX3C	24.50±0.12	fg eq cell-1
+5977207a-94d6-48e1-8047-1c5339d7579f	CTX3C	6.50±0.1.47	fg eq cell-1
+b487698c-24e0-42a5-910e-625fb49b0366	CTX3C	0.88±0.40	fg eq cell-1
+83aaa8ce-da52-4d0c-99fd-02e40dccd1cc	CTX3C	0.0072±0.006	ag eq. µ-3
+1b29c996-e781-46b3-8105-66a5ee5ad5c2	CTX3C	0.54±0.03	fg eq cell-1
+e3ce6a17-20d0-495c-9afc-0843f7b8fb91	CTX3C	0.493±0.26	fg eq cell-1
+bd9e47d1-6b1a-4bb0-952a-f92dd2a2e454	CTX3C	0.513±0.16	fg eq cell-1
+28e2601a-5807-4e8e-b689-1270190aa5c9	CTX3C	0.43±0.38	fg eq cell-1
+d27343c8-3648-4ae7-b5fa-ec1a3849037a	CTX3C	2.49±01.28	fg eq cell-1
+3c06358e-cb61-4bcb-a50a-7bc5efbe7828	PCTXC3	0.123	pg eq cell-1
+98654d16-09a9-48ee-8ed8-63568496b541	CTX3C	0.003±0.0016	ag eq. µ-3
+12ec957a-b2ed-4355-9353-fa9987a221bc	CTX3C	0.48±0.04	fg eq cell-1
+12a7ac43-a6f5-4cd3-9f54-b0cb32c0adf3	CTX3C	0.0026±0.002	ag eq. µ-3
+c9dffe3b-99c4-445d-b32b-f7d0141795ab	CTX3C	0.62±0.12	fg eq cell-1
+2f98cf68-fe28-41c1-a9cf-da2e678269a1	CTX3C	0.69±0.19	fg eq cell-1
+93b5d54f-c7ba-4922-9287-c2c069547e90	CTX3C	0.09±0.03	fg eq cell-1
+1c9a61d4-d041-43b3-8f0f-a4a3488daa75	CTX3C	1.29±0.40	fg eq cell-1
+7192413e-8cfb-4b5c-a532-00eec9da9b2d	CTX3C	0.52±0.26	fg eq cell-1
+b88ae48f-be53-49a6-a0ef-dc12d1d59fe7	CTX3C	0.0018±0.0028	ag eq. µ-3
+b615f5eb-4234-4e4d-99fa-0974d68d3211	CTX3C	1.03±0.26	fg eq cell-1
+3a49752f-bfe6-428f-a471-fea561a50e8e	CTX3C	0.10±0.03	fg eq cell-1
+d65671dc-2bdb-4a95-b362-963e8e1cfae7	CTX3C	0.02±0.0.01	fg eq cell-1
+0a715d64-dbe5-4222-8b21-3ae78914cd4a	CTX3C	0.18±0.06	fg eq cell-1
+2f45e573-c01e-4f5b-9757-4a80a2743ebe	CTX3C	0.0045±0.0018	ag eq. µ-3
+98c866f8-666f-4c71-8b58-ad246b83e47b	CTX3C	1.37±0.30	fg eq cell-1
+ffa9b3e9-7fa4-4401-b975-8970d497dc66	CTX3C	137±0.307	fg eq cell-1
+bc2a7aba-da7b-4acb-9b49-8dbc960ca0da	CTX3C	0.71±0.21	fg eq cell-1
+013b01c9-ec58-4f36-b228-e608c071cbf8	CTX3C	0.29±0.16	fg eq cell-1
+e6ebf487-64cd-41f5-9204-9188e427e56e	CTX3C	0.93±0.17	fg eq cell-1
+9dd1f475-9cb4-49b4-8454-9696b8cf3021	CTX3C	1.14±0.18	fg eq cell-1
+007af0b1-e078-44ad-a35c-1c9812b78ed5	CTX3C	1.37±0.30	fg eq cell-1
+fba63b63-a170-420c-8774-fb616d51921a	CTX3C	469±10	fg eq cell-1
+4ea5f6e1-ca69-4a2c-a6ba-308decf6bee5	CTX3C	1.69±4.21	fg eq cell-1
+57b66013-1117-470f-9d32-16a96c7e7058	PCTX3C	0.19±0.03	equiv. cell-1
+9f14b6c1-c946-4112-ac5f-e33ef083a7ab	PCTX3C	2.1999999999999999E-2	equiv. cell-1
+639af10a-4909-463a-886a-b812974d9c0b	PCTX3C	0.21±0.03	equiv. cell-1
+f168ab1a-d612-421a-aacc-49a99d61536c	PCTX3C	4.4000000000000004	equiv. cell-1
+9a351ca0-624d-41ef-8d6f-d167b212a47b	PCTX3C	0.13±0.03	equiv. cell-1
+e0702bbf-c23b-4917-89b1-2b2e4bb56dae	PCTX3C	1.7000000000000001E-2	equiv. cell-1
+490a1e35-c261-4272-ae66-f2ba96ed150d	PCTX3C	0.13±0.03	equiv. cell-1
+2b1ea9c2-c4fc-4e9d-b4fa-fe8a1738f85e	PCTX3C	2.8000000000000001E-2	equiv. cell-1
+1b1d90ac-e9db-484e-8f95-b4342704b1bf	quantity	1	Sample
+7ae01d49-b45a-4105-a5c1-b645df0a6be0	quantity	1	Sample
+52938424-a0ed-4ad5-a5c6-73ace034b1e9	quantity	1	Sample
+240594c0-1473-4ef4-bb28-dde9213f50a6	quantity	1	Sample
+5977207a-94d6-48e1-8047-1c5339d7579f	quantity	1	Sample
+b487698c-24e0-42a5-910e-625fb49b0366	quantity	1	Sample
+d84f9f9c-81be-4c8d-8b3e-d59fe03c26cc	quantity	1	Sample
+83d44e67-04f3-4ed7-86cb-c6b5276b3b54	quantity	1	Sample
+c2da03ed-a467-4be1-82e8-b0634abbde6f	quantity	1	Sample
+4f59ad42-b8fc-4f76-b48f-a66a905e34ef	quantity	1	Sample
+025089ab-82a2-4dcc-b1d1-ee6f121eb4de	quantity	1	Sample
+f71a07f9-597f-457e-b54a-d52c7e65d5f2	quantity	1	Sample
+8be196dd-68d8-4b92-99d1-ac8eef9d0955	quantity	1	Sample
+83aaa8ce-da52-4d0c-99fd-02e40dccd1cc	quantity	1	Sample
+1b29c996-e781-46b3-8105-66a5ee5ad5c2	quantity	1	Sample
+e3ce6a17-20d0-495c-9afc-0843f7b8fb91	quantity	1	Sample
+bd9e47d1-6b1a-4bb0-952a-f92dd2a2e454	quantity	1	Sample
+28e2601a-5807-4e8e-b689-1270190aa5c9	quantity	1	Sample
+9adaa1c8-7e9a-4eff-a3f6-ba75ca95d47d	quantity	1	Sample
+6bfbd152-ed1f-4d47-a6b4-fcb382f616d8	quantity	1	Sample
+d27343c8-3648-4ae7-b5fa-ec1a3849037a	quantity	1	Sample
+3249073a-61a5-4526-bebe-c55024a4349a	quantity	1	Sample
+e748d635-ff6f-452d-8dfd-9fd398bacc9d	quantity	1	Sample
+3e213a04-e86b-4ae4-bd5a-431599ed8cd8	quantity	1	Sample
+3c06358e-cb61-4bcb-a50a-7bc5efbe7828	quantity	1	Sample
+98654d16-09a9-48ee-8ed8-63568496b541	quantity	1	Sample
+2de9f350-b8e0-41ed-927f-46db914b7504	quantity	1	Sample
+e60f2008-cd9f-4535-a4a9-c68b82aca509	quantity	1	Sample
+906ebe55-4b93-4e41-a5b9-cdf3e7589772	quantity	1	Sample
+92ec7ac7-7647-451c-877c-96a95aa722c6	quantity	1	Sample
+8edaf47f-4dc1-4d9c-a09f-2fe872cdd548	quantity	1	Sample
+4a914cf5-1cd4-4835-94ec-2d0f74126307	quantity	1	Sample
+fd9de001-456c-4203-8e7d-3920767dc888	quantity	1	Sample
+a918b08d-3b13-47dd-80f2-4cd0933f462f	quantity	1	Sample
+2c431796-c4ea-4847-8d30-c45999599b7d	quantity	1	Sample
+e0d22bf4-73e5-42e5-ad07-138765daac00	quantity	1	Sample
+143dc82d-e129-48da-bb5c-a80850a2dfac	quantity	1	Sample
+d08bdff5-2f2f-4ffc-9b11-b4763b1f587c	quantity	1	Sample
+f13b60e7-3dce-484a-bf69-24ff0ff04f61	quantity	1	Sample
+e1eae275-99c5-4b10-959f-8bd43b63cf4a	quantity	1	Sample
+0462da9c-af31-4dd8-9da4-5f81e6c30403	quantity	1	Sample
+aa241dfc-199c-402b-a8d4-d794f0820584	quantity	1	Sample
+4e8eb207-6dc4-402d-82e3-1d0feec0f931	quantity	1	Sample
+55d292c9-56ba-458c-b2c7-8407ad817aad	quantity	1	Sample
+62bc9a7c-67af-412a-98b3-d8960398af52	quantity	1	Sample
+e7a7119d-a633-4743-aa52-564666af7ce4	quantity	1	Sample
+e6bb891b-dab0-49df-9260-5e4a69d8f497	quantity	1	Sample
+d24c50d4-d52d-4f98-b6d7-88fd66d3fcd2	quantity	1	Sample
+ff8531a2-8aeb-4259-ad00-8c5abcad535d	quantity	1	Sample
+4a805726-82ab-4861-bbbb-72e0dc093b8f	quantity	1	Sample
+12ec957a-b2ed-4355-9353-fa9987a221bc	quantity	1	Sample
+12a7ac43-a6f5-4cd3-9f54-b0cb32c0adf3	quantity	1	Sample
+c9dffe3b-99c4-445d-b32b-f7d0141795ab	quantity	1	Sample
+2f98cf68-fe28-41c1-a9cf-da2e678269a1	quantity	1	Sample
+93b5d54f-c7ba-4922-9287-c2c069547e90	quantity	1	Sample
+1c9a61d4-d041-43b3-8f0f-a4a3488daa75	quantity	1	Sample
+7192413e-8cfb-4b5c-a532-00eec9da9b2d	quantity	1	Sample
+45c05d79-359c-4120-9c12-eea46445b4af	quantity	1	Sample
+b88ae48f-be53-49a6-a0ef-dc12d1d59fe7	quantity	1	Sample
+0d7da3dc-8ad7-4840-ab2e-415af1d2056a	quantity	1	Sample
+a27dc410-c873-4e0c-b386-bc08d5a7796c	quantity	1	Sample
+b615f5eb-4234-4e4d-99fa-0974d68d3211	quantity	1	Sample
+3a49752f-bfe6-428f-a471-fea561a50e8e	quantity	1	Sample
+0fdc89d7-8654-4b59-a7a8-d438b93d7efd	quantity	1	Sample
+d65671dc-2bdb-4a95-b362-963e8e1cfae7	quantity	1	Sample
+cf14fc1e-5a32-42da-9c95-13f3004eacd6	quantity	1	Sample
+0a715d64-dbe5-4222-8b21-3ae78914cd4a	quantity	1	Sample
+3eb3c48d-20f0-43e4-b751-568da286a7f9	quantity	1	Sample
+6142e189-b151-4158-80a2-94798427a57c	quantity	1	Sample
+004fd4ad-4373-4feb-92f3-7e3f976a319f	quantity	1	Sample
+1c64ab0c-1204-4448-8e0a-dbfc5b7e994f	quantity	1	Sample
+f5243780-4ea6-473f-9186-ff01f994e514	quantity	1	Sample
+5e68a88d-cb60-4751-883d-25e4d2f2af65	quantity	1	Sample
+699f1ada-2e84-4a50-93ab-960b238159aa	quantity	1	Sample
+6a642978-0c67-48f5-bff5-1a116211c4b6	quantity	1	Sample
+5b0d3489-01b0-425d-a04c-013809882b16	quantity	1	Sample
+8eb8453c-82f4-48c3-99e0-1e2a37fe3f54	quantity	1	Sample
+2f45e573-c01e-4f5b-9757-4a80a2743ebe	quantity	1	Sample
+98c866f8-666f-4c71-8b58-ad246b83e47b	quantity	1	Sample
+ffa9b3e9-7fa4-4401-b975-8970d497dc66	quantity	1	Sample
+bc2a7aba-da7b-4acb-9b49-8dbc960ca0da	quantity	1	Sample
+013b01c9-ec58-4f36-b228-e608c071cbf8	quantity	1	Sample
+e6ebf487-64cd-41f5-9204-9188e427e56e	quantity	1	Sample
+9dd1f475-9cb4-49b4-8454-9696b8cf3021	quantity	1	Sample
+007af0b1-e078-44ad-a35c-1c9812b78ed5	quantity	1	Sample
+d8d48bd2-ce6a-4489-aea7-4b803e7a43d9	quantity	1	Sample
+4ff42011-0f16-4a0a-a12e-e59f57052572	quantity	1	Sample
+d738d1a4-75c5-483a-a8ea-0eb430590f80	quantity	1	Sample
+c1a9bddc-14f2-408e-a270-28eb7018f97e	quantity	1	Sample
+554c3865-62f3-46b2-a92f-835b37015209	quantity	1	Sample
+fba63b63-a170-420c-8774-fb616d51921a	quantity	1	Sample
+4ea5f6e1-ca69-4a2c-a6ba-308decf6bee5	quantity	1	Sample
+868d98ce-d42c-4524-9a36-80421ad6a62f	quantity	1	Sample
+c92e759b-b90f-430a-a73f-1293d7783162	quantity	1	Sample
+132739c6-7517-43c1-841b-9030aac59251	quantity	1	Sample
+42d947dd-8246-4829-b597-60e9b14ca27c	quantity	1	Sample
+661f8b1e-e3ec-455b-ac85-f7688e990c8b	quantity	1	Sample
+c8c1fd39-57f4-488b-9b66-68d14d0bcc88	quantity	1	Sample
+3ad37b9f-3d5c-4f51-b7c4-64174cdcc009	quantity	1	Sample
+f398876f-5fee-4461-a6aa-6c42d79d168e	quantity	1	Sample
+7f29a9c2-54d5-4ad7-9b2c-3a521f6004e3	quantity	1	Sample
+89018d3a-8c30-4092-9ece-6b9379017343	quantity	1	Sample
+42759a68-4b0b-49a2-813b-fa70d1a5b397	quantity	1	Sample
+5b40011f-bb0d-4f15-b350-aaf3a718d67e	quantity	1	Sample
+e192bea9-05ee-4450-8ca4-e89a200c2207	quantity	1	Sample
+ae1da9ba-6d4a-4e19-ae16-6084775e6bff	quantity	1	Sample
+631b80e3-4f1d-46d7-88cd-0e7976598b30	quantity	1	Sample
+0501c152-7de9-4f66-9e42-9a075c45bcbe	quantity	1	Sample
+734611c8-c1a4-4031-9d41-d2fff1b3abe9	quantity	1	Sample
+229e72e9-9df4-4b4c-ad2f-c3a2e96fc81e	quantity	1	Sample
+d4b63505-21cc-466a-b468-9a51280aa205	quantity	1	Sample
+3823c204-ec7e-4636-b7f3-f95f6ddea454	quantity	1	Sample
+c5a16b96-f31a-4984-a234-b5e32bebf58d	quantity	1	Sample
+945c190f-4ebd-443e-8f8e-5b8b592354de	quantity	1	Sample
+2bcbf2f2-9038-4baa-8fec-fc886aea9322	quantity	1	Sample
+cba3bc40-3f69-4c3a-a32a-4fd4b82fa2a0	quantity	1	Sample
+95766d3d-6bf0-43ea-af77-a059237cacd8	quantity	1	Sample
+a0eaed79-05c5-4e4d-b4dd-ece0e64f9c19	quantity	1	Sample
+63bbab90-5d63-41ca-bf64-74e02a80f6ea	quantity	1	Sample
+1c306208-08f8-483c-8255-2f3026faff33	quantity	1	Sample
+812a488d-103f-4a05-95de-7552a518092c	quantity	1	Sample
+63587586-1ddd-4b11-9b0b-91c6639756a0	quantity	1	Sample
+b14b0639-537d-40fe-b2c0-d6b05bb719d9	quantity	1	Sample
+805276c8-1861-4144-add9-f2257f909ae3	quantity	1	Sample
+2899e15e-dc39-4498-b54e-a6ba5167400f	quantity	1	Sample
+2fdc51b3-12d3-4de9-832e-fffe85563db5	quantity	1	Sample
+6a4ce61b-a5bd-4d78-8c21-454b08518c44	quantity	1	Sample
+722419fa-4e5a-4fa9-8cf3-ce65c99c14cc	quantity	1	Sample
+7b7e4b28-6dee-48ef-a63b-f8eefb5b7f23	quantity	1	Sample
+07aadd20-4c60-4cf4-87cd-3c50f07387bf	quantity	1	Sample
+5560533b-1bb6-449b-8791-fc983b4e5146	quantity	1	Sample
+2762f31b-de22-4511-ab36-eb04b6348367	quantity	1	Sample
+701b657d-3b62-4547-af8c-c68b6dea5883	quantity	1	Sample
+749a9ea4-8f2a-4791-9873-f404bb5fbd88	quantity	1	Sample
+0f57a7a3-6d35-41e8-b62f-6a66e76196df	quantity	1	Sample
+90a7fefd-babb-4fc5-80f5-5cc7c6dfc77e	quantity	1	Sample
+307fe8d6-4f2b-484c-b8c7-b860fabfb773	quantity	1	Sample
+09bfb410-f2ac-487e-aa28-d61beae7729b	quantity	1	Sample
+b6d9bd65-ceda-4b49-aa1b-4b7d99398ced	quantity	1	Sample
+a9f581e0-4634-41f5-b895-dcb8cb5cc5b3	quantity	1	Sample
+57b66013-1117-470f-9d32-16a96c7e7058	quantity	1	Sample
+0780f361-7b46-42e6-ae81-da09b23ac1ed	quantity	1	Sample
+9f14b6c1-c946-4112-ac5f-e33ef083a7ab	quantity	1	Sample
+58ef7b06-1098-4e58-b284-35261d2d1404	quantity	1	Sample
+515d8486-ec50-4b02-a969-b685e2ba4f17	quantity	1	Sample
+d59d1208-586a-4004-afc4-62b368bac730	quantity	1	Sample
+ba52d297-1def-4f69-bdac-18aa7fe579e6	quantity	1	Sample
+175acbf6-b35f-4bc5-9bdc-f71fa9ad2c09	quantity	1	Sample
+7b03f4d6-9125-4f1c-8e8e-cd8a1993eb27	quantity	1	Sample
+0b381b94-9e3a-461d-bc6b-5b3c351ca41c	quantity	1	Sample
+eb3f3818-e914-4c1e-a58a-92b3b8b65181	quantity	1	Sample
+63568c1d-184c-49cd-9b03-bbc28b65b2c4	quantity	1	Sample
+281655d2-214d-4c34-85e5-93ac472c6da8	quantity	1	Sample
+8adafb85-db34-474a-8bd5-6d599560fd80	quantity	1	Sample
+1fc95b1e-c3f3-4210-9bc8-9bc879722ec6	quantity	1	Sample
+fd7984d8-827e-4062-b80a-59fd5520de2e	quantity	1	Sample
+94702707-296d-40f6-b507-89982f479165	quantity	1	Sample
+dc077553-c2e5-4137-b255-492347a0533f	quantity	1	Sample
+92658bfa-51eb-46be-8fb2-05a543b2b97a	quantity	1	Sample
+95589b0f-2d65-4424-bd55-c026955d453c	quantity	1	Sample
+d3b2aa79-2d2b-4920-a290-f521dc592b62	quantity	1	Sample
+dff60ea3-baec-4d1b-8d36-9c37df7a7919	quantity	1	Sample
+6c640b72-c401-4415-92b5-94088686a029	quantity	1	Sample
+26da29f8-f8b7-435e-a363-f3f835f59e94	quantity	1	Sample
+326b3b37-89e9-4e91-a333-d43021d2d748	quantity	1	Sample
+03608daa-95d2-4237-a2aa-d1238adbb994	quantity	1	Sample
+04b1551d-f67d-44e5-a63c-01af34346fcc	quantity	1	Sample
+0434f6b7-32ae-47d3-a15f-9525f0ce7929	quantity	1	Sample
+5039008c-840c-481f-ac11-dd0b7f781021	quantity	1	Sample
+dee82226-098b-4669-9dc9-b2cdfb76d650	quantity	1	Sample
+0174a054-358a-4e0e-b911-111b6ccf9805	quantity	1	Sample
+e4c2b509-d24a-4a44-bc82-da2df1ad805f	quantity	1	Sample
+1f13b02c-26f9-42ea-9e02-3a7ab1bce0a3	quantity	1	Sample
+17238066-312b-4029-8b6f-abbd58c8b89d	quantity	1	Sample
+142ec647-1821-4d32-97ef-20508dbb7baf	quantity	1	Sample
+b63ab71b-9ef4-4bab-8239-3aaab0f72021	quantity	1	Sample
+ca718d4e-02e9-40cb-913c-4bde672d82fe	quantity	1	Sample
+0bd7b6ce-0498-4f91-9d77-10bd147bb448	quantity	1	Sample
+1b4e722c-f1b0-4ad1-82a2-13e8f6628a91	quantity	1	Sample
+3ed0ea5f-f506-4eac-9c04-456ffb295c7d	quantity	1	Sample
+336d8c98-f164-440e-9e54-53e1afcd9607	quantity	1	Sample
+b7cb1f9f-d0d4-4274-a038-749962223f9c	quantity	1	Sample
+8a6ffd3d-4434-4f8c-968d-065bfa9482b3	quantity	1	Sample
+3f3d091b-d5f0-4890-81a7-86c19a8716fa	quantity	1	Sample
+165fd760-2c76-4206-af97-0df83ab277c9	quantity	1	Sample
+0803d2f4-df18-4d69-982d-29bb8f3639c2	quantity	1	Sample
+502f197c-4da4-4bd8-8412-9cf40fe28422	quantity	1	Sample
+18d2ab51-7b38-400a-874c-8e113b040943	quantity	1	Sample
+7006eff9-519e-4002-a57d-e2565eace2a4	quantity	1	Sample
+0a3a5de5-8534-4aa2-94e9-b3be90824b7f	quantity	1	Sample
+e45767b0-1381-463c-aa63-9b961e2c9e94	quantity	1	Sample
+b14c87ea-6ee6-49dc-b3d9-1d2431b31b47	quantity	1	Sample
+6c34b252-f266-4a51-88c3-d8a66083daae	quantity	1	Sample
+56d3b910-1a4e-4770-b0c1-575093e8d28e	quantity	1	Sample
+1118b888-ea92-4c14-9705-64c73aa4d82e	quantity	1	Sample
+56c1eb00-2169-4375-8cff-03d498a159f3	quantity	1	Sample
+0fcaf60e-b308-4e40-b9b7-7377c1986fbf	quantity	1	Sample
+05ad7789-f876-4f3d-bb35-801d6fee7cfb	quantity	1	Sample
+f620cd69-e382-4868-bfa8-6b56f7400950	quantity	1	Sample
+beb3b27e-54d3-4b09-84e2-74b766275099	quantity	1	Sample
+bedb97a8-d3f5-4835-961f-1d80c09606a4	quantity	1	Sample
+20eb8714-8853-4ca9-b412-107b9110ef04	quantity	1	Sample
+f3758d64-9d59-49d4-bfd3-26d5a8a052e7	quantity	1	Sample
+639af10a-4909-463a-886a-b812974d9c0b	quantity	1	Sample
+a481e3d3-fa8a-4799-9a22-ab7c6c9f0617	quantity	1	Sample
+9da07720-5b63-4f1b-b28c-a9574d770c55	quantity	1	Sample
+99c29df7-787f-4ebd-918a-f03ce0dde83d	quantity	1	Sample
+0d9dee4f-acd0-42c9-b6c1-0a93819c0feb	quantity	1	Sample
+5f7d33dc-b5ff-4803-91e3-62b024cb3d4d	quantity	1	Sample
+f168ab1a-d612-421a-aacc-49a99d61536c	quantity	1	Sample
+9a351ca0-624d-41ef-8d6f-d167b212a47b	quantity	1	Sample
+e0702bbf-c23b-4917-89b1-2b2e4bb56dae	quantity	1	Sample
+490a1e35-c261-4272-ae66-f2ba96ed150d	quantity	1	Sample
+d3dd5a1c-a332-408c-bdc2-0b5e472db6df	quantity	1	Sample
+0f815897-2a80-4ea8-8bce-44de7e82167f	quantity	1	Sample
+69642719-976b-44b4-8ade-f38283c40226	quantity	1	Sample
+6738db69-74d0-4f73-80df-8234495f5806	quantity	1	Sample
+708e8d27-b6a9-405a-b309-61a7fe1dfb0b	quantity	1	Sample
+ab09e976-98d9-4157-8d74-a24270194db2	quantity	1	Sample
+fb3e1b82-3c38-4202-9ccc-b205ce14ba64	quantity	1	Sample
+aa498f2a-046f-4861-9b3e-92cb7d67e71a	quantity	1	Sample
+08cd6e97-1515-4e49-aaec-ec84d8eaefbd	quantity	1	Sample
+737425e8-fb47-4ff7-a859-21007cba9edc	quantity	1	Sample
+1d6f682c-ecf0-439a-86b6-22fa3a973087	quantity	1	Sample
+7d2157ab-f93b-4c12-b4cc-3092c1fda27e	quantity	1	Sample
+e04d6fe9-4bd3-48f6-8dd6-42609e45fa4e	quantity	1	Sample
+4407138e-2d21-4b4b-8d42-95e231078b4b	quantity	1	Sample
+f639a669-707d-46bb-be87-9ebe77550b65	quantity	1	Sample
+9584c185-47c1-4789-ab2e-3e6307ee0637	quantity	1	Sample
+3ac39d34-202a-488c-9576-426d95cf5517	quantity	1	Sample
+4c292f0d-29b8-4090-94ae-74f9f70176d4	quantity	1	Sample
+11f3c101-3348-4bb0-b068-11ddc6694710	quantity	1	Sample
+dcec2bd9-3797-4b5b-aede-a589c920cfc7	quantity	1	Sample
+0d0b5e07-398c-4caa-9851-604369b2d274	quantity	1	Sample
+2b1ea9c2-c4fc-4e9d-b4fa-fe8a1738f85e	quantity	1	Sample
+79fe29bf-7565-458b-9b82-3cdac8a7965c	quantity	1	Sample
+e6506e3f-b2ca-486d-a1b8-c2209ae41b23	quantity	1	Sample
+fdd8fac9-ce63-437f-b63e-e9b8aa0af784	quantity	1	Sample
+5fee7f77-cac7-4966-a194-5bb34d686375	quantity	1	Sample
+ab139706-2328-42b2-a2ff-78af5314fb58	quantity	1	Sample
+597a3879-e034-4fa6-a5dc-6b1465ae3e93	quantity	1	Sample
+bf514a3f-8856-4128-849e-e739881e9618	quantity	1	Sample
+49555469-5569-41da-aead-64ada240d3c2	quantity	1	Sample
+c6ed6eaa-4c98-497b-b7c9-07ebaf675fd4	quantity	1	Sample
+ed7244ff-4423-470c-9eff-bcff18ba8f23	quantity	1	Sample
+83e70b97-102c-477e-91a1-cdd63694098a	quantity	1	Sample
