@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+title: HAB Template
+type: software
+abstract: Convert HAB template to Darwin Core
+url: https://github.com/iobis/hab-template
+license: MIT
+authors:
+  - given-names: Pieter
+    family-names: Provoost
+    orcid: "https://orcid.org/0000-0002-4236-0384"
+  - given-names: Ward
+    family-names: Appeltans
+    orcid: "https://orcid.org/0000-0002-3237-4547"
+  - name: Intergovernmental Oceanographic Commission of UNESCO
+    alias: IOC-UNESCO
+    website: "https://obis.org"
+date-released: 2021-11-22
